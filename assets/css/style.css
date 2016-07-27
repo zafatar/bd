@@ -1,0 +1,565 @@
+/* 
+
+Theme Name: Sky
+Theme URI: http://www.kaushalsheth.com/
+Description: Modified version of Anthosia theme.
+Version: 2.0
+Author: Kaushal Sheth
+Author URI: http://www.kaushalsheth.com
+
+Credits:
+Anthosia was designed by <a href="http://kaushalsheth.com">Kaushal Sheth</a> developed by <a href="http://www.frontierwebdesign.com">Chad Coleman</a>.
+
+Last Modified on 7 Nov 2006
+
+
+
+
+/* ----------------SUB NAV------------  */
+
+#subnav {
+	float: right;
+	margin-right: 5px;
+	margin-top: -20px;
+	color: #8FBFFF;
+}
+
+#subnav a:link, #subnav a:visited {
+	font-weight: normal;
+	color: #666666;
+	text-transform: uppercase;
+	font-size: 9px;
+	}
+	
+#subnav a:hover {
+	color: #000000;
+}
+
+
+
+/* second sidebar*/
+
+
+/* ----------------MENU------------  */
+#side2 {
+	width: 160px;
+	float: left;
+	position: relative;
+	margin: 0px -10px 0px 0px;
+	text-align: left;
+/*	left: -10px;*/
+	padding: 0px 0px 0px -40px;
+	padding-left:5px;
+}
+
+#side2 ul {
+	list-style-type: none;
+	margin: 0px 0px 0px -10px;
+	padding: 0px;
+}
+
+#side2 ul ul {
+	list-style-type: none;
+	margin: 0px 0px 0px 5px;
+	padding: 0px;
+}
+
+#side2 ul li {
+	padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+#side2 ul ul li {
+margin: 0px 0px 0px -10px;
+padding-top: 0px;
+padding-bottom: 0px;
+list-style-type: none;
+border: none;
+}
+
+li#about {
+	font-size: 10px;
+	color: #1A71AB;
+}
+
+#side2 h2 {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0px;
+	color: #1A71AB;
+	padding-bottom: 2px;
+	font-family: "Trebuchet MS";
+	background-image: url('build/cat-deco.gif');
+	background-repeat: no-repeat;
+	background-position:  left 50%;
+	height: 30px;
+	padding-left: 40px;
+	padding-top: 12px
+}
+
+
+
+/* ----------------MENU------------  */
+#side {
+	width: 184px;
+	float: right;
+	position: relative;
+	margin: 0px -10px 0px 0px;
+	text-align: left;
+	left: -10px;
+	padding: 0px 0px 0px -50px;
+}
+
+#side ul {
+	list-style-type: none;
+	margin: 0px 0px 0px -10px;
+	padding: 0px;
+}
+
+#side ul ul {
+	list-style-type: none;
+	margin: 0px 0px 0px 5px;
+	padding: 0px;
+}
+
+#side ul li {
+padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+
+a img
+{
+border:none;
+}
+
+
+#side ul ul li {
+margin: 0px 0px 0px -10px;
+padding-top: 0px;
+padding-bottom: 0px;
+list-style-type: none;
+border: none;
+}
+
+li#about {
+	font-size: 10px;
+	color: #1A71AB;
+}
+
+#side h2 {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0px;
+	color: #1A71AB;
+	padding-bottom: 2px;
+	font-family: "Trebuchet MS";
+	background-image: url('build/cat-deco.gif');
+	background-repeat: no-repeat;
+	background-position:  left 50%;
+	height: 30px;
+	padding-left: 40px;
+	padding-top: 12px
+}
+
+
+
+/* ----------------MENU------------  */
+#menu {
+	width: 450px;
+}
+
+#menu ul {
+	list-style-type: none;
+}
+
+#menu ul ul {
+	list-style-type: none;
+}
+
+#menu ul li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #cccccc;
+}
+
+#menu ul ul li {
+	margin: 0px 0px 0px -10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	list-style-type: none;
+	border: none;
+}
+
+
+
+
+/* ----------------HEADER------------  */
+
+
+#flash
+{
+width:755px;
+height:250px;
+padding:0px;
+margin:0px;
+}
+
+
+
+
+#header {
+        background-image: url('../images/banner.jpg');
+	background-repeat: no-repeat;
+	margin: 0px;
+	text-align: left;
+	vertical-align: bottom;
+	padding-left: 15px;
+	height: 264px;
+	padding-top: 1px;
+	font-family: "Trebuchet MS", verdana, arial, helvetica
+
+}
+
+#header a:link, #header a:visited {
+	font-size: 24px;
+	color: #fdfdfd;
+}
+
+#header a:hover {
+	color: #f5f3f4;
+}
+
+/* ----------------NAV MENU------------  */
+
+
+#navmenu {
+	background-image: url('../images/navmenu2.jpg');
+	height: 45px;
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding-top: 2px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 25px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-variant: small-caps;
+	text-decoration: none;
+	text-align: left;
+	font-family: "Trebuchet MS", verdana, arial, helvetica;
+	letter-spacing: .1em
+}
+
+
+#navmenu a:link, #navmenu a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	font-variant: small-caps;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 2px;
+	padding-bottom: 5px;
+}
+
+
+#navmenu a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #1A71AB;
+}
+
+
+
+/* ----------------CONTENT------------  */
+
+
+#rap {
+
+	background-color: #fdfdfd;
+	text-align: center;
+	border-right-width: 5px;
+	border-left-width: 5px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #ffffff;
+	border-left-color: #ffffff;
+	width: 755px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+
+}
+
+#content {
+	/* width: 536px;*/
+	width : 720px;
+	text-align: justify;
+	height: auto;
+	color: #666666;
+	padding-left: 15px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	margin: 0px;
+	float: left;
+
+
+}
+
+.image-align-left {
+	padding: 4px;
+	float: left;
+}
+
+.image-align-right {
+	padding: 4px;
+	float: right;
+}
+
+
+
+/* ----------------FOOTER------------  */
+
+#footer {
+	background-color: #013C80;
+	width: 745px;
+	font-size: 10px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	height: 25px;
+	padding-top: 10px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 8px;
+	margin: 0px;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFFFF;
+	border-top-width: 1px;
+	border-top-color: #8FBFFF;
+	line-height: 130%;
+	clear: both;
+	}
+
+#footer a:link, #footer a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+
+
+}
+#footer a:hover {
+	color: #000000;
+
+}
+
+
+/* ----------------REDIFINED TAGS------------  */
+
+
+
+body {
+        background:#252525 url('../images/bg2.gif') repeat-x top; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	margin: 0px auto;
+/*	background-color: #8FBAFE;
+	background:#252525;*/
+	text-align: center;
+	/*background-attachment: fixed;*/
+	padding: 0px
+
+
+}
+
+a:link {
+	color: #666666;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+a:visited {
+	color: #666666;
+	text-decoration: underline;
+	font-weight: bold;
+
+
+
+}
+a:hover {
+	color: #003BAE;
+	font-weight: bold;
+
+
+}
+
+h3 {
+	margin: 0px;
+	padding: 0px 0px 3px;
+	font-size: 21px;
+
+}
+h3 a {
+	color: #0066FF;
+}
+h2 {
+	font-size: 11px;
+	font-weight: normal;
+
+}
+/* ---------------FORM-------------------*/
+
+input {
+	border: 1px solid #666666;
+	background: #fdfdfd;
+	margin: 3px;
+	color: #333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	padding: 2px;
+	}
+
+input:hover {
+	background: #FFFFFF;
+	}
+	
+textarea {
+	border: 1px solid #666666;
+	margin: 5px;
+	background: #ffffff;
+	color: #333333;
+	width: 95%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-variant: normal;
+	padding: 3px;
+
+
+	}
+
+textarea:hover {
+	background: #FFFFFF;
+	}
+	
+#submit {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #101d27;
+	border-right-color: #101d27;
+	border-bottom-color: #101d27;
+	border-left-color: #101d27;
+
+	}
+	
+	
+#submit:hover {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #101d27;
+	border-right-color: #101d27;
+	border-bottom-color: #101d27;
+	border-left-color: #101d27;
+	cursor: hand;
+
+
+	}	
+
+	
+select {
+	border: 1px solid #003300;
+	margin: 5px;
+	padding-left: 3px;
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+	
+	
+	form {
+	margin: 0px;
+	padding: 0px;
+	color: #000000;
+}
+
+
+/* ---------------POST-------------------*/
+
+
+.storytitle {
+	margin-bottom: 5px;
+	text-align: center;
+	background-image: url('../images/title-deco.gif');
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding-top: 20px;
+	font-family: "Trebuchet MS", verdana, arial, helvetica;
+	font-size: 22px;
+	font-weight: bold
+}
+.storytitle a:link, .storytitle a:visited {
+	color: #013C80;
+	text-decoration: none;
+}
+.storytitle a:hover {
+	color: #013C80;
+}
+.meta {
+	font-size: 10px;
+	color: #333;
+	float: right;
+
+}
+.feedback {
+	background-color: #eee;
+	padding: 3px;
+	margin-bottom: 12px;
+}
+.storycontent {
+	line-height: 130%;
+	padding-top: 10px;
+
+}
+blockquote {	
+font-style: italic;
+	color: #101d27;
+}
+
+
+blockquote { border-top: 2px solid #013C80; border-bottom: 2px solid #013C80; margin-left: 1.5em; padding-left: 5px; background-color: #E6EAF3}
+h4 {
+	font-family: "Trebuchet MS", verdana, arial, helvetica;
+	font-size: 18px;
+	font-weight: normal;
+}
+cite {
+	font-size: 10px;
+	font-style: normal;
+	color: #333;
+	padding-bottom: 4px;
+
+}

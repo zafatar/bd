@@ -1,0 +1,86 @@
+{% include base.html %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head profile="http://gmpg.org/xfn/11">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <title>Begüm Demir's Webpage</title>
+
+    <meta name="generator" content="Jekyll" /> <!-- leave this for stats please -->
+
+    <style type="text/css" media="screen">
+      @import url( {{base}}/assets/css/style.css );
+    </style>
+
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script> 
+    
+    <meta name="keywords" content="Begum Demir, personal, web, site, blog, remote sensing, image processing">
+    <link rel="pingback" href="" />
+    
+    <script>
+      $(document).ready(function() {
+        $('#footerTag').html( "begumdemir.com &copy; 2008 - "  + (new Date()).getFullYear() );
+
+        var bookChapter = 0; 
+        var intJournal  = 0;
+        var intConf     = 0;
+        var natConf     = 0;
+      
+        $(".bookChapter").each( function() {
+          bookChapter++;
+          $(this).text( bookChapter );
+        });
+
+        $(".intJournal").each( function() {
+          intJournal++;
+          $(this).text( intJournal );
+        });
+
+        $(".intConf").each( function() {
+          intConf++;
+          $(this).text( intConf );
+        });
+      
+        $(".natConf").each( function() {
+          natConf++;
+          $(this).text( natConf );
+        });      
+      
+      });      
+    </script>
+
+  </head>
+
+  <body>
+    <div id="rap">
+      <h1 id="header"></h1>
+      <div id="navmenu">
+	<a title="Begüm Demir&#8217;s Webpage" href="http://www.begumdemir.com">Home</a>
+	<a title="#" href="{{base}}/assets/docs/BegumDemirCV.pdf">Cirriculum Vitae</a>
+	<a title="#" href="papers.html">Papers</a>
+	<a title="#" href="projects.html">Projects</a>
+	<a title="#" href="teaching.html">Teaching</a>
+	<a title="#" href="contact.html">Contact</a>
+      </div>
+      
+      <div id="content">
+	<h3 id="post-2" class="storytitle"></h3>
+	{{content}}
+      </div>
+      
+      <div id="footer">
+	[<span class='credit' id="footerTag"></span>]
+      </div>
+      
+      <script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-6039489-2");
+	pageTracker._trackPageview();
+      </script>
+   
+    </div>
+  </body>
+</html>
