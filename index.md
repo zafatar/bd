@@ -6,7 +6,7 @@ layout: page
 guid: http://www.begumdemir.com/?page_id=1
 ---
 
-<img width="25%" align="left" style="margin: 15px;" alt="" src="/assets/images/begum1.png">
+<img width="25%" align="left" style="margin: 15px;" alt="" src="{{base}}/assets/images/begum1.png">
 
 <p style="margin-left: 10px; line-height: 150%;">
 Begüm Demir is currently an Assistant Professor in the
