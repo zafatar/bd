@@ -9,14 +9,14 @@ permalink: /dsp
 ---
 **** Lectures ****
 
-Lecture #1 : <a href="./assets/docs/dsp/Lecture-1 Introduction.pdf">
+#1 : <a href="./assets/docs/dsp/Lecture-1 Introduction.pdf">Lecture-1 Introduction.pdf</a>
 
-Lecture #2 : <a href="./assets/docs/dsp/Lecture-2 Discrete Time Signals.pdf">
+#2 : <a href="./assets/docs/dsp/Lecture-2 Discrete Time Signals.pdf">Lecture-2 Discrete Time Signals.pdf</a>
 
-Lecture #2 : <a href="./assets/docs/dsp/Lecture-2 Discrete Time Signals -Supplementary.pdf">
+#2 : <a href="./assets/docs/dsp/Lecture-2 Discrete Time Signals -Supplementary.pdf">Lecture-2 Discrete Time Signals -Supplementary.pdf</a>
 
-Lecture #3 : <a href="./assets/docs/dsp/Lecture-3 Discrete Time Signals-Cont and Systems.pdf">
+#3 : <a href="./assets/docs/dsp/Lecture-3 Discrete Time Signals-Cont and Systems.pdf">Lecture-3 Discrete Time Signals-Cont and Systems.pdf</a>
 
-Lecture #4 : <a href="./assets/docs/dsp/Lecture-4 Discrete Time Systems-Cont.pdf">
+#4 : <a href="./assets/docs/dsp/Lecture-4 Discrete Time Systems-Cont.pdf">Lecture-4 Discrete Time Systems-Cont.pdf</a>
 
 
