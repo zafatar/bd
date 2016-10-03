@@ -7,7 +7,7 @@ layout: page
 guid: http://www.begumdemir.com/dsp.html
 permalink: /dsp
 ---
-<h3>Lecture Notes</h3>
+<h4>Lecture Notes</h4>
 
 #1 : <a href="./assets/docs/dsp/Lecture-1 Introduction.pdf">Lecture-1 Introduction.pdf</a>
 
