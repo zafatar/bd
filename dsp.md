@@ -19,6 +19,8 @@ permalink: /dsp
 
 <a href="./assets/docs/dsp/Lecture-4 Discrete Time Systems-Cont.pdf">Lecture-4 Discrete Time Systems-Cont.pdf</a>
 
+<a href="./assets/docs/dsp/Lecture-5 LCCDE systems.pdf">Lecture-5 LCCDE systems.pdf</a>
+
 <h4>Labs</h4>
 
 <a href="./assets/docs/dsp/DSP Lab 1.pdf">DSP Lab 1.pdf</a>
