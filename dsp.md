@@ -26,3 +26,13 @@ permalink: /dsp
 <a href="./assets/docs/dsp/DSP Lab 1.pdf">DSP Lab 1.pdf</a>
 
 <a href="./assets/docs/dsp/DSP_Lab_functions.zip">DSP_Lab_functions.zip</a>
+
+<a href="./assets/docs/dsp/DSP Lab 2.pdf">DSP Lab 2.pdf</a>
+
+<a href="./assets/docs/dsp/hlwy16.wav">hlwy16.wav</a>
+
+<a href="./assets/docs/dsp/mpgr1_sx419.wav">mpgr1_sx419.wav</a>
+
+
+ 
+			
