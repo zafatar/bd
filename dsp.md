@@ -21,6 +21,10 @@ permalink: /dsp
 
 <a href="./assets/docs/dsp/Lecture-5 LCCDE systems.pdf">Lecture-5 LCCDE systems.pdf</a>
 
+<a href="./assets/docs/dsp/Lecture-5-Supplementary-Correlation.pdf">Lecture-5-Supplementary-Correlation.pdf</a>
+
+<a href="./assets/docs/dsp/Lecture-6-DTFT.pdf">Lecture-6-DTFT.pdf</a>
+
 <h4>Labs</h4>
 
 <a href="./assets/docs/dsp/DSP Lab 1.pdf">DSP Lab 1.pdf</a>
