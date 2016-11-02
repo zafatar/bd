@@ -9,7 +9,7 @@ permalink: /dsp
 ---
 <h4>Announcements</h4>
 
-<p>Due to the midterm exams period, DSP lectures between Nov 2-4th are suspended. The next lecture will start on <u>Nov 9th at 11</u>.</p>
+<p style='color: #000;'>Due to the midterm exams period, DSP lectures between Nov 2-4th are suspended. The next lecture will start on <u>Nov 9th at 11</u>.</p>
 
 <h4>Lecture Notes</h4>
 
