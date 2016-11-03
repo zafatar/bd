@@ -22,11 +22,11 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intJournal'></span>] <span style="color: #000000;">A. Güneş, <strong> B. Demir</strong></span>, L. Bruzzone, H. Kalkan, &#8220;A Novel Cost Sensitive Image Classification System&#8221;, under preparation.
 
-[<span class='intJournal'></span>] <span style="color: #000000;">S. Niazmardi,<strong> B. Demir</strong></span>, L. Bruzzone, A. Safari and S. Homayouni, &#8220;Evaluation of the Multiple Kernel Learning Framework for Remote sensing Image Classification&#8221;, under preparation.
+[comment]: <> [<span class='intJournal'></span>] <span style="color: #000000;">S. Niazmardi,<strong> B. Demir</strong></span>, L. Bruzzone, A. Safari and S. Homayouni, &#8220;Evaluation of the Multiple Kernel Learning Framework for Remote sensing Image Classification&#8221;, under preparation.
 
 [<span class='intJournal'></span>] <span style="color: #000000;">F.Omruuzun ,<strong> B. Demir</strong></span> , L. Bruzzone, Y. Yardimci Cetin, &#8220;Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.
 
-[<span class='intJournal'></span>] <span style="color: #000000;">B. Chaudhuri, <strong> B. Demir</strong></span>, S. Chaudhuri, L. Bruzzone, &#8220;A Novel Graph-Theoretic Approach to Region-Based Retrieval of Remote Sensing Images using Multi-label Information&#8221;, under preparation.
+[comment]: <> [<span class='intJournal'></span>] <span style="color: #000000;">B. Chaudhuri, <strong> B. Demir</strong></span>, S. Chaudhuri, L. Bruzzone, &#8220;A Novel Graph-Theoretic Approach to Region-Based Retrieval of Remote Sensing Images using Multi-label Information&#8221;, under preparation.
 
 [<span class='intJournal'></span>] <span style="color: #000000;">E. Riz,<strong> B. Demir</strong></span>, L. Bruzzone, “ Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images”, under preparation.
 
@@ -86,7 +86,7 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intConf'></span>] <span style="color: #000000;">F.Omruuzun ,<strong>B. Demir</strong></span> , L. Bruzzone, Y. Yardimci Cetin, “ Content Based Hyperspectral Image Retrieval Using Bag Of Endmembers Image Descriptors”, 8th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), US, 2016. 
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Fast and Accurate Image Classification with Histogram Based Features and Additive Kernel SVM ”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
+[comment]: <> [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Fast and Accurate Image Classification with Histogram Based Features and Additive Kernel SVM ”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
 
 [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Histogram Based Attribute Profiles for Classification of Very High Resolution Remote Sensing Images”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
 
@@ -100,7 +100,7 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Scalable Content Based Image Retrieval Based on A Hierarchical Hashing Approach ”, Conference on Big Data from Space, Rome, Italy, 2014.
 
-[<span class='intConf'></span>] <span style= "color: #000000;">E. Riz, **B. Demir**</span> , L. Bruzzone, “ Speeded Up Content Based Remote Sensing Image Retrieval with Additive Kernel Support Vector Machines ”, Conference on Big Data from Space, Rome, Italy, 2014.
+[comment]: <> [<span class='intConf'></span>] <span style= "color: #000000;">E. Riz, **B. Demir**</span> , L. Bruzzone, “ Speeded Up Content Based Remote Sensing Image Retrieval with Additive Kernel Support Vector Machines ”, Conference on Big Data from Space, Rome, Italy, 2014.
 
 [<span class='intConf'></span>] <span style="color: #000000;">D. Castelletti, <strong>B. Demir</strong></span> , L. Bruzzone, “ A Semisupervised Support Vector Regression Method to Estimate Biophysical Parameters from Remotely Sensed Images”, SPIE Image and Signal Processing for Remote Sensing, Amsterdam, The Netherlands, 2014.
 
