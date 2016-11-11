@@ -55,6 +55,6 @@ permalink: /dsp
 
 <a href="http://bit.ly/dsp-homework-uploading">DSP Homework Upload Page</a>
 
-<a href="./assets/docs/dsp/DSP_Lab_3_Additional_Exp.zip">DSP_Lab_3_Additional_Exp.zip</a>
+<a href="./assets/docs/dsp/DSP Lab 3 Additional Exp.zip">DSP Lab 3 Additional Exp.zip</a>
 
 			
