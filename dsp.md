@@ -49,6 +49,11 @@ permalink: /dsp
 
 <a href="./assets/docs/dsp/mpgr1_sx419.wav">mpgr1_sx419.wav</a>
 
+<a href="./assets/docs/dsp/DSP Lab 3.pdf">DSP Lab 3.pdf</a>
+
+<a href="./assets/docs/dsp/bluewhale.au">bluewhale.au</a>
+
+<a href="http://bit.ly/dsp-homework-uploading">DSP Homework Upload Page</a>
 
  
 			
