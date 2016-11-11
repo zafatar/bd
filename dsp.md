@@ -55,9 +55,9 @@ permalink: /dsp
 
 <a href="http://bit.ly/dsp-homework-uploading">DSP Homework Upload Page</a>
 
-<p style="font-weight: bold">Lab3AdditionalExp</p>
+<p style="font-weight: bold">DSP Lab 3 Additional Exp</p>
 <ul>
-	<li><a href="./assets/docs/dsp/sineDFTeg.m">sineDFTeg.m</a></li>
-	<li><a href="./assets/docs/dsp/timealias.m">timealias.m</a></li>
+	<li><a href="./assets/docs/dsp/sineDFTeg.m">sineDFTeg.m.zip</a></li>
+	<li><a href="./assets/docs/dsp/timealias.m">timealias.m.zip</a></li>
 </ul>	
 			
