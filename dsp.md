@@ -55,5 +55,9 @@ permalink: /dsp
 
 <a href="http://bit.ly/dsp-homework-uploading">DSP Homework Upload Page</a>
 
- 
+Lab3AdditionalExp
+<ul>
+	<li><a href="./assets/docs/dsp/bluewhale.au">bluewhale.au</a></li>
+	<li><a href="./assets/docs/dsp/bluewhale.au">bluewhale.au</a></li>
+</ul>	
 			
