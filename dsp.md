@@ -57,7 +57,7 @@ permalink: /dsp
 
 <p style="font-weight: bold">DSP Lab 3 Additional Exp</p>
 <ul>
-	<li><a href="./assets/docs/dsp/sineDFTeg.m">sineDFTeg.m.zip</a></li>
-	<li><a href="./assets/docs/dsp/timealias.m">timealias.m.zip</a></li>
+	<li><a href="./assets/docs/dsp/sineDFTeg.m.zip">sineDFTeg.m.zip</a></li>
+	<li><a href="./assets/docs/dsp/timealias.m.zip">timealias.m.zip</a></li>
 </ul>	
 			
