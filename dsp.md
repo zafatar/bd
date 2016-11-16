@@ -37,6 +37,8 @@ permalink: /dsp
 
 <a href="./assets/docs/dsp/decimation.swf">FFT Animation</a>
 
+<a href="./assets/docs/dsp/Lecture-9 z-Transform.pdf">Lecture-9 z-Transform.pdf</a>
+
 <h4>Labs</h4>
 
 <a href="./assets/docs/dsp/DSP Lab 1.pdf">DSP Lab 1.pdf</a>
