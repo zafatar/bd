@@ -9,6 +9,8 @@ permalink: /dsp
 ---
 <h4>Announcements</h4>
 
+<p style='color: #F00; font-weight: bold'>DSP lecture on Nov 25th is suspended. The next lecture will be <u>on Nov 28th at 9.30 at A108</u>.</p>
+
 <p style='color: #F00; font-weight: bold'>The 3rd DSP Lab lecture will take place <u>on Nov 11 at 'A202', starting at 9.15</u>.</p>
 
 <p style='color: #F00; font-weight: bold'>Due to the midterm exams period, DSP lectures between Nov 2-4th are suspended. The next lecture will start on <u>Nov 9th at 11</u>.</p>
