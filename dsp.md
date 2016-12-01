@@ -10,9 +10,9 @@ permalink: /dsp
 <h4>Announcements</h4>
 
 <p style='color: #F00; font-weight: bold'>
-IMPORTANT: The official webpage of DSP is finally working! Please register to the webpage and follow the lecture materials/announcements from <a href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=11" target="_blank">the official webpage</a> 
-<br />
-The enrolment key is: YZ34Z9X4
+IMPORTANT: The official webpage of DSP is finally working! Please register to the webpage and follow the lecture materials/announcements from <a href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=11" target="_blank">the official webpage</a>. 
+<br /> 
+The enrollment key is: YZ34Z9X4
 <br />
 *** This page will be no longer maintained ***
 </p>
