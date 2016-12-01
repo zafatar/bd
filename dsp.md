@@ -10,10 +10,6 @@ permalink: /dsp
 <h4>Announcements</h4>
 
 <p style='color: #F00; font-weight: bold'>
-Due to the unexpected reasons the DSP lecture <u>on Dec 2nd</u> is suspended. The next lecture will be <u>on Dec 5th at 9.30</u>. The classroom will be announced soon.
-</p>
-
-<p style='color: #F00; font-weight: bold'>
 IMPORTANT: The official webpage of DSP is finally working! Please register to the webpage and follow the lecture materials/announcements from <a href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=11" target="_blank">the official webpage</a>. 
 <br /> 
 The enrollment key is: YZ34Z9X4
@@ -22,6 +18,8 @@ The enrollment key is: YZ34Z9X4
 </p>
 
 <p style='color: #F00; font-weight: bold'>The 4th DSP Lab lecture will take place <u>on Dec 1 at 'A202', starting at 16.</u></p>
+
+<p style='color: #F00; font-weight: bold'>Due to the unexpected reasons the DSP lecture <u>on Dec 2nd</u> is suspended. The next lecture will be <u>on Dec 5th at 9.30</u>. The classroom will be announced soon.</p>
 
 <hr>
 
