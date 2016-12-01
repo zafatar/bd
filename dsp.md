@@ -9,6 +9,18 @@ permalink: /dsp
 ---
 <h4>Announcements</h4>
 
+<p style='color: #F00; font-weight: bold'>
+IMPORTANT: The official webpage of DSP is finally working! Please register to the webpage and follow the lecture materials/announcements from <a href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=11" target="_blank">the official webpage</a> 
+<br />
+The enrolment key is: YZ34Z9X4
+<br />
+*** This page will be no longer maintained ***
+</p>
+
+<p style='color: #F00; font-weight: bold'>The 4th DSP Lab lecture will take place <u>on Dec 1 at 'A202', starting at 16.</u></p>
+
+<hr>
+
 <p style='color: #F00; font-weight: bold'>DSP lecture on Nov 25th is suspended. The next lecture will be <u>on Nov 28th at 9.30 at A108</u>.</p>
 
 <p style='color: #F00; font-weight: bold'>The 3rd DSP Lab lecture will take place <u>on Nov 11 at 'A202', starting at 9.15</u>.</p>
