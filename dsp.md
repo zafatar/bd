@@ -77,4 +77,4 @@ The enrollment key is: YZ34Z9X4
 
 <a href="./assets/docs/dsp/DSP Lab 3 Additional Exp.zip">DSP Lab 3 Additional Exp.zip</a>
 
-			
+<a href="./assets/docs/dsp/DSP Lab 4.pdf">DSP Lab 4.pdf</a>
