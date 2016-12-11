@@ -27,6 +27,6 @@ window.addEventListener('DOMContentReady', function(e) {
 		        }
 			} );
 
-</script
+</script>
 
 <iframe id='iFrame1' src="http://www.zaferkiziltoprak.com/begumdemir/dsp_event/" width="100%" height="100%" frameborder="0"></iframe>
