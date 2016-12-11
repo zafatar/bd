@@ -8,7 +8,7 @@ guid: http://www.begumdemir.com/dsp_event.html
 permalink: /dsp_event
 ---
 <style>
-iframe {
+.event-container iframe {
     position: absolute;
     top:0;
     left: 0;
@@ -17,6 +17,6 @@ iframe {
 }
 </style>
 
-<div class="video-container">
+<div class="event-container">
      <iframe src="http://www.zaferkiziltoprak.com/begumdemir/dsp_event/" width="100%" height="100%" frameborder="0"></iframe>
 </div>
