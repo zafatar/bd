@@ -7,21 +7,8 @@ layout: page
 guid: http://www.begumdemir.com/dsp_event.html
 permalink: /dsp_event
 ---
-<p>
-Zart
-
-</p>
-
 <style>
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 35px;
-    height: 0;
-    overflow: hidden;
-}
-
-.video-container iframe {
+iframe {
     position: absolute;
     top:0;
     left: 0;
@@ -31,5 +18,5 @@ Zart
 </style>
 
 <div class="video-container">
-     <iframe src="http://www.zaferkiziltoprak.com/begumdemir/dsp_event/" width="420" height="315" frameborder="0"></iframe>
+     <iframe src="http://www.zaferkiziltoprak.com/begumdemir/dsp_event/" width="100%" height="100%" frameborder="0"></iframe>
 </div>
