@@ -9,7 +9,7 @@ permalink: /dsp_event
 ---
 <p>
 Zart
-<iframe src="http://www.zaferkiziltoprak.com/begumdemir/dsp_event/" width="420" height="315" frameborder=0></iframe>
+
 </p>
 
 <style>
@@ -31,6 +31,5 @@ Zart
 </style>
 
 <div class="video-container">
-     <iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0">
-     </iframe>
+     <iframe src="http://www.zaferkiziltoprak.com/begumdemir/dsp_event/" width="420" height="315" frameborder=0></iframe>
 </div>
