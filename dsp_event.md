@@ -31,5 +31,5 @@ Zart
 </style>
 
 <div class="video-container">
-     <iframe src="http://www.zaferkiziltoprak.com/begumdemir/dsp_event/" width="420" height="315" frameborder=0></iframe>
+     <iframe src="http://www.zaferkiziltoprak.com/begumdemir/dsp_event/" width="420" height="315" frameborder="0"></iframe>
 </div>
