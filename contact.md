@@ -6,11 +6,17 @@ author: admin
 layout: page
 guid: http://www.begumdemir.com/contact.html
 ---
-<table border="0">
+<style>
+.contact {
+  font-size: 14px;
+}
+</style>
+
+<table border="0" class="contact">
   <tbody>
     <tr>
     <td valign="top">
-      <strong>Post Address:</strong><br /> Dipartimento di Ingegneria e Scienza dell&#8217;Informazione<br /> Università degli Studi di Trento</p> 
+      <strong>Post Address:</strong><br /> Dipartimento di Ingegneria e Scienza dell&#8217;Informazione<br /> Università degli Studi di Trento 
       
       <p>
         Via Sommarive, 9 I-38123 Trento, Italy
