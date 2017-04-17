@@ -17,7 +17,7 @@ ul.teaching li {
 </style>
 
 <p class="teaching">
-**Digital Signal Processing**
+  <b>Digital Signal Processing</b>
 </p>
 
 <div>
