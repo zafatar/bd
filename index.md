@@ -12,9 +12,9 @@ guid: http://www.begumdemir.com/?page_id=1
       <td style="font-size:14px; text-align: left" valign="top" width="250px">
       <p><img style="margin: 15px;" alt="" src="./assets/images/begum1.png" align="left" width="90%"></p>
       <br>
-      <b>Begüm Demir</b>, Assist. Prof. <br>
-      University of Trento <br>
-      <a href="http://disi.unitn.it/" style=""> Department of Information Engineering and Computer Science</a><br>
+      <b>Begüm Demir</b>, Assist. Prof. <br />
+      University of Trento, <br />
+      Department of Information Engineering and Computer Science
       </td>
       <td>
 
