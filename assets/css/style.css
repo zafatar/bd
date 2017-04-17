@@ -242,13 +242,13 @@ margin:0px;
 
 #navmenu {
 	background-image: url('../images/navmenu2.jpg');
-	height: 45px;
+	height: 30px;
 	background-repeat: no-repeat;
 	margin: 0px;
-	padding-top: 2px;
+	padding-top: 4px;
 	padding-right: 3px;
-	padding-bottom: 3px;
-	padding-left: 25px;
+/*	padding-bottom: 3px;
+	padding-left: 25px;      */
 	font-weight: bold;
 	color: #FFFFFF;
 	font-size: 15px;
