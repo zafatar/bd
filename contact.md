@@ -32,7 +32,9 @@ guid: http://www.begumdemir.com/contact.html
     </td> 
         
     <td style="padding-left:20px;">
-      <a id="clustrMapsLink" href="http://www3.clustrmaps.com/counter/maps.php?url=http://www.begumdemir.com"><img id="clustrMapsImg" style="border:0px;" title="Locations of visitors to this page" src="http://www3.clustrmaps.com/counter/index2.php?url=http://www.begumdemir.com" alt="Locations of visitors to this page" /><br /> </a>
+    <!--
+    <a id="clustrMapsLink" href="http://www3.clustrmaps.com/counter/maps.php?url=http://www.begumdemir.com"><img id="clustrMapsImg" style="border:0px;" title="Locations of visitors to this page" src="http://www3.clustrmaps.com/counter/index2.php?url=http://www.begumdemir.com" alt="Locations of visitors to this page" /><br /> </a>
+    -->
     </td>
     </tr>
   </tbody>
