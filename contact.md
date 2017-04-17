@@ -13,7 +13,7 @@ guid: http://www.begumdemir.com/contact.html
 </style>
 
 <p>
-  <b>Post Address:</b>
+  <b>Post Address</b>
 </p>
 Dipartimento di Ingegneria e Scienza dell&#8217;Informazione<br /> Università degli Studi di Trento 
       
