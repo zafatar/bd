@@ -25,9 +25,6 @@ ul.teaching li {
 </p>
 
 <div>
-  <div style="float:left">
-    <img src="assets/images/dsp_1.jpg" width="300px">
-  </div>
   <div style="float:left; padding-left:10px;">
     <ul class="teaching">
       <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=11" target="_blank">Fall 2016</a></li>
@@ -35,6 +32,9 @@ ul.teaching li {
       <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=3" target="_blank">Fall 2014</a></li>
       <li><b>Fall 2013</b></li>
     </ul>
+  </div>
+  <div style="float:right">
+    <img src="assets/images/dsp_1.jpg" width="300px">
   </div>
   <br style="clear:both;"/>
 </div>
