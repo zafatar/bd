@@ -6,14 +6,19 @@ author: admin
 layout: page
 guid: http://www.begumdemir.com/?page_id=74
 ---
-**Digital Signal Processing**
 <style>
-ul.teaching li {
+.teaching {
   font-size: 14px;
-  padding-bottom: 10px;
 }
 
+ul.teaching li {
+  padding-bottom: 10px;
+}
 </style>
+
+<p class="teaching">
+**Digital Signal Processing**
+</p>
 
 <div>
   <div style="float:left">
