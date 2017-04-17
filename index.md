@@ -10,7 +10,7 @@ guid: http://www.begumdemir.com/?page_id=1
   <tbody>
     <tr>
       <td style="font-size:14px; text-align: left" valign="top" width="250px">
-      <p><img style="margin: 15px;" alt="" src="./assets/images/begum1.png" align="left" width="90%"></p>
+      <p><img style="margin-bottom: 10px" alt="" src="./assets/images/begum_demir_2.jpg" align="left" width="90%"></p>
       <br>
       <b>Begüm Demir</b>, Assist. Prof. <br />
       University of Trento, <br />
