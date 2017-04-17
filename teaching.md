@@ -9,15 +9,16 @@ guid: http://www.begumdemir.com/?page_id=74
 Digital Signal Processing
 
 <div>
-  <div>
+  <div float="left">
     <img src="assets/images/dsp_1.jpg" width="300px">
   </div>
-  <div float="left">
+  <div float="right">
     * <a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=11" target="_blank">Fall 2016</a>
     * <a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=8" target="_blank">Fall 2015</a>
     * <a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=3" target="_blank">Fall 2014</a>
     * Fall 2013
   </div>
+  <br style="clear:both;"/>
 </div>
 
 <br />
