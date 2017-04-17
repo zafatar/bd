@@ -49,7 +49,10 @@ ul.teaching li {
   <br style="clear:both;"/>
 </div>
 
-Pattern Recognition (Fall 2013, together with Prof. Jon Atli Benediktsson)
-
-Advanced Remote Sensing Systems for Environment (Fall 2013, together with Prof. Lorenzo Bruzzone and Prof. Marcello Coradini)
+<p class="teaching">
+  <b>Pattern Recognition</b> (Fall 2013, together with Prof. Jon Atli Benediktsson)
+</p>
+<p class="teaching">
+  <b>Advanced Remote Sensing Systems for Environment</b> (Fall 2013, together with Prof. Lorenzo Bruzzone and Prof. Marcello Coradini)
+</p>
 
