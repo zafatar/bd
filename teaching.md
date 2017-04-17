@@ -8,7 +8,7 @@ guid: http://www.begumdemir.com/?page_id=74
 ---
 <style>
 .teaching {
-  font-size: 14px;
+  font-size: 13px;
 }
 
 ul.teaching {

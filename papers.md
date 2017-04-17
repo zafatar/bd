@@ -6,8 +6,8 @@ author: admin
 layout: page
 guid: http://www.begumdemir.com/papers.html
 ---
-<p style="text-align: center;">
-  <strong>Book Chapters</strong>
+<p>
+  <b>Book Chapters</b>
 </p>
 
 [<span class='bookChapter'></span>] L. Bruzzone, C. Persello, <span style="color: #000000;"><strong>B. Demir</strong></span>, Active Learning Methods in Classification of Remote Sensing Images, in Signal and Image Processing for Remote Sensing, 2nd Edition, Ed: Prof. C.H. Chen, CRC Press &#8211; Taylor & Francis, Chapter 15, 2012, pp. 303-323.
@@ -16,8 +16,8 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='bookChapter'></span>] L. Bruzzone, <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, Recent Advances in Remote Sensing Time Series Image Classification, under review.
 
-<p style="text-align: center;">
-  <strong>International Journals </strong>
+<p>
+  <b>International Journals </b>
 </p>
 
 [<span class='intJournal'></span>] <span style="color: #000000;">A. Güneş, <strong> B. Demir</strong></span>, L. Bruzzone, H. Kalkan, &#8220;A Novel Cost Sensitive Image Classification System&#8221;, under preparation.
@@ -74,8 +74,8 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intJournal'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, &#8220;Block Motion Estimation Using Adaptive Modified Two-Bit Transform&#8221;, IET Image Processing, Vol.1, No.2, pp.215-222, 2007.
 
-<p style="text-align: center;">
-  <strong>International Conferences</strong>
+<p>
+  <b>International Conferences</b>
 </p>
 
 [<span class='intConf'></span>] <span style="color: #000000;">S. Niazmardi,<strong>B. Demir</strong></span> , L. Bruzzone,A. Safari and S. Homayouni “ A Comparative Study On Multiple Kernel Learning for Remote Sensing Image Classification”, International Conference on Geoscience and Remote Sensing Symposium, China, 2016.
@@ -160,8 +160,8 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, &#8220;Block Motion Estimation using Modified Two-Bit Transform&#8221;, Lecture Notes in Computer Science (LNCS), Springer-Verlag, Vol.4263, pp. 522-531, Nov 2006.
 
-<p style="text-align: center;">
-  <strong>National Conferences (in Turkish) </strong>
+<p>
+  <b>National Conferences (in Turkish) </b>
 </p>
 
 [<span class='natConf'></span>] <span style="color: #000000;">F. Omruuzun,<strong>B. Demir</strong></span>, L. Bruzzone, Y. Yardimci Cetin, &#8220;A Novel Content Based Hyperspectral Image Retrieval System Based on Bag of End Members&#8221;, IEEE 24th Signal Processing and Communications Applications Conference (SIU&#8217;2016), May 2016.

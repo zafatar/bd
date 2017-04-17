@@ -12,30 +12,21 @@ guid: http://www.begumdemir.com/contact.html
 }
 </style>
 
-<table border="0" class="contact">
-  <tbody>
-    <tr>
-    <td valign="top">
-      <strong>Post Address:</strong><br /> Dipartimento di Ingegneria e Scienza dell&#8217;Informazione<br /> Università degli Studi di Trento 
+<p>
+  <b>Post Address:</b>
+</p>
+Dipartimento di Ingegneria e Scienza dell&#8217;Informazione<br /> Università degli Studi di Trento 
       
-      <p>
-        Via Sommarive, 9 I-38123 Trento, Italy
-      </p>
+Via Sommarive, 9 I-38123 Trento, Italy
       
-      <p>
-        <strong>E-mail:</strong> demir@disi.unitn.it
-      </p>
+<p>
+  <b>E-mail</b> demir@disi.unitn.it
+</p>
       
-      <p>
-        <strong>Tel:</strong> (+39)0461283942
-      </p>
-    </td> 
-        
-    <td style="padding-left:20px;">
-    <!--
+<p>
+  <b>Tel</b> (+39) 0 461 283 942
+</p>
+
+<!--
     <a id="clustrMapsLink" href="http://www3.clustrmaps.com/counter/maps.php?url=http://www.begumdemir.com"><img id="clustrMapsImg" style="border:0px;" title="Locations of visitors to this page" src="http://www3.clustrmaps.com/counter/index2.php?url=http://www.begumdemir.com" alt="Locations of visitors to this page" /><br /> </a>
-    -->
-    </td>
-    </tr>
-  </tbody>
-</table>
+-->
