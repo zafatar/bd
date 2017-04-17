@@ -6,7 +6,17 @@ layout: page
 guid: http://www.begumdemir.com/?page_id=1
 ---
 
-<img width="25%" align="left" style="margin: 15px;" alt="" src="./assets/images/begum1.png">
+<table>
+  <tbody>
+    <tr>
+      <td style="font-size:14px; text-align: left" valign="top" width="200px">
+      <p><img style="margin: 15px;" alt="" src="./assets/images/begum1.png" align="left" width="90%"></p>
+      <br>
+      <b>Begüm Demir</b>, Assist. Prof. <br>
+      University of Trento <br>
+      <a href="http://disi.unitn.it/" style=""> Department of Information Engineering and Computer Science</a><br>
+      </td>
+      <td>
 
 <p style="margin-left: 10px; line-height: 150%;">
 Begüm Demir is currently an Assistant Professor in the
@@ -26,3 +36,8 @@ as a researcher. During 2006-2010, she was a research and teaching assistant at 
 <p style="margin-left: 10px; line-height: 150%;">
 She is a Scientific Committee member of the SPIE International Conference on Signal and Image Processing for Remote Sensing, and of the IEEE Conferences on Signal Processing and Communications Applications. She is the co-chair of the Image and Signal Processing for Remote Sensing Workshop organized within the IEEE Conference on Signal Processing and Communications Applications, Turkey since 2014. From 2010 to 2013, she has been the organizer for the Special Sessions on Remote Sensing Image Analysis in the IEEE Conference on Signal Processing and Communications Applications. She is a referee for several journals (such as IEEE Proceedings; IEEE Transactions on Geoscience and Remote Sensing, IEEE Geoscience and Remote Sensing Letters, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Image Processing, Pattern Recognition Letters, International Society for Photogrammetry and Remote Sensing (ISPRS) Journal of Photogrammetry and Remote Sensing, Journal of Information Fusion, International Journal of Remote Sensing), and several International Conferences. She is a senior member of IEEE.
 </p>
+
+        </td>
+     </tr>
+  </tbody>
+</table>
