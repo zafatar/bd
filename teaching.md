@@ -11,6 +11,10 @@ guid: http://www.begumdemir.com/?page_id=74
   font-size: 14px;
 }
 
+ul.teaching {
+  margin: 0px;
+}
+
 ul.teaching li {
   padding-bottom: 10px;
 }
