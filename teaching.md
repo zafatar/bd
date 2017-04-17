@@ -7,13 +7,20 @@ layout: page
 guid: http://www.begumdemir.com/?page_id=74
 ---
 **Digital Signal Processing**
+<style>
+ul.teaching li {
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+</style>
 
 <div>
   <div style="float:left">
     <img src="assets/images/dsp_1.jpg" width="300px">
   </div>
   <div style="float:left; padding-left:10px;">
-    <ul>
+    <ul class="teaching">
       <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=11" target="_blank">Fall 2016</a></li>
       <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=8" target="_blank">Fall 2015</a></li>
       <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=3" target="_blank">Fall 2014</a></li>
