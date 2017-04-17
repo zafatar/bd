@@ -14,7 +14,7 @@ guid: http://www.begumdemir.com/?page_id=1
       <br>
       <b>Begüm Demir</b>, Assist. Prof. <br />
       University of Trento, <br />
-      Department of Information Engineering and Computer Science
+      Department of Information Engineering and Computer Science, Italy
       </td>
       <td>
 
