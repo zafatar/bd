@@ -22,15 +22,15 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intJournal'></span>] <span style="color: #000000;">A. Güneş, <strong> B. Demir</strong></span>, L. Bruzzone, H. Kalkan, &#8220;A Novel Cost Sensitive Image Classification System&#8221;, under preparation.
 
-[<span class='intJournal'></span>] <span style="color: #000000;">S. Niazmardi,<strong> B. Demir</strong></span>, L. Bruzzone, A. Safari and S. Homayouni, "Multiple Kernel Learning for Remote Sensing Image Classification", under review.
-
 [<span class='intJournal'></span>] <span style="color: #000000;">F.Omruuzun ,<strong> B. Demir</strong></span> , L. Bruzzone, Y. Yardimci Cetin, &#8220;Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.
-
-[<span class='intJournal'></span>] <span style="color: #000000;">B. Chaudhuri, <strong> B. Demir</strong></span>, S. Chaudhuri, L. Bruzzone, "Multi-label Remote Sensing Image Retrieval using a Semi-Supervised Graph-Theoretic Method", under review.
 
 [<span class='intJournal'></span>] <span style="color: #000000;">E. Riz,<strong> B. Demir</strong></span>, L. Bruzzone, "Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images", under preparation.
 
 [<span class='intJournal'></span>] <span style="color: #000000;">R. Battiti,<strong> B. Demir</strong></span> , L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.
+
+[<span class='intJournal'></span>] <span style="color: #000000;">S. Niazmardi,<strong> B. Demir</strong></span>, L. Bruzzone, A. Safari and S. Homayouni, "Multiple Kernel Learning for Remote Sensing Image Classification", under review.
+
+[<span class='intJournal'></span>] <span style="color: #000000;">B. Chaudhuri, <strong> B. Demir</strong></span>, S. Chaudhuri, L. Bruzzone, "Multi-label Remote Sensing Image Retrieval using a Semi-Supervised Graph-Theoretic Method", under review.
 
 [<span class='intJournal'></span>] <span style="color: #000000;">B. Chaudhuri, <strong> B. Demir</strong></span>, L. Bruzzone, S. Chaudhuri, &#8220;Region-Based Retrieval of Remote Sensing Images using an Unsupervised Graph-Theoretic Approach&#8221;, IEEE Geoscience and Remote Sensing Letters, vol. 13, no.7, pp. 987-991, 2016.
 
