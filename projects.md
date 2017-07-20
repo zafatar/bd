@@ -9,13 +9,10 @@ guid: http://www.begumdemir.com/?page_id=4
 The projects that I'm currently involved in or participated in the past are in the following:
 
 * CRYOMON-SciPro - Improve the Science of Processes within the Cryosphere by Integrating Hydrological Modelling with Remote Sensing in a Multi-Level Data Fusion Approach (EUREGIO) (2016-2018).
-* SEOM - Scientific Exploitation of Operational Missions - S2-4Sci Land and Water - Multi-temporal Analysis (European Space Agency) (2016-2017).
 
 * “Product Feature extraction Analysis (European Space Agency)”, (2013-2015).
 
 * “HiResAlp - An innovative framework for the Integration of multi-source data to determine soil moisture and evapotraspiration at high resolution in Alpine regions”, (2012-2015).
-
-* “Mapping and the citizen sensor (ICT COST Action - European Union)”, (2012-2016).
 
 * “Hyperspectral Classification, Segmentation and Recognition”, Supported by the Turkish Scientific and Technical Research Council (TUBITAK), (2007-2009).
 

@@ -40,7 +40,7 @@ ul.teaching li {
 </div>
 
 <p class="teaching">
-  <b>Remote Sensing Systems</b>
+  <b>Remote Sensing Systems (together with Prof. Lorenzo Bruzzone)</b>
 </p>
 
 <div>
