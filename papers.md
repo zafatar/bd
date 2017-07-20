@@ -86,7 +86,7 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intConf'></span>] <span style="color: #000000;">T. Reato, <strong>B. Demir</strong></span>, L. Bruzzone, "A Novel Class Sensitive Hashing Technique for Large-Scale Content-Based Remote Sensing Image Retrieval”, SPIE Image and Signal Processing for Remote Sensing, Poland, 2017.
 
-[<span class='intConf'></span>] <span style="color: #000000;">S. Niazmardi,<strong>B. Demir</strong></span> , L. Bruzzone, A. Safari and S. Homayouni "A Comparative Study On Multiple Kernel Learning for Remote Sensing Image Classification", International Conference on Geoscience and Remote Sensing Symposium, China, 2016.
+[<span class='intConf'></span>] <span style="color: #000000;">S. Niazmardi, <strong>B. Demir</strong></span> , L. Bruzzone, A. Safari and S. Homayouni "A Comparative Study On Multiple Kernel Learning for Remote Sensing Image Classification", International Conference on Geoscience and Remote Sensing Symposium, China, 2016.
 
 [<span class='intConf'></span>] <span style="color: #000000;">R. Battiti,<strong>B. Demir</strong></span> , L. Bruzzone, " Quad-Tree Based Compressed Histogram Attribute Profiles For Classification of Very High Resolution Images”, International Conference on Geoscience and Remote Sensing Symposium, China, 2016. 
 
