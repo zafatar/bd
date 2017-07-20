@@ -22,19 +22,19 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intJournal'></span>] <span style="color: #000000;">A. Güneş, <strong> B. Demir</strong></span>, L. Bruzzone, H. Kalkan, &#8220;A Novel Cost Sensitive Image Classification System&#8221;, under preparation.
 
-[<span class='intJournal'></span>] <span style="color: #000000;">S. Niazmardi,<strong> B. Demir</strong></span>, L. Bruzzone, A. Safari and S. Homayouni, &#8220;Evaluation of the Multiple Kernel Learning Framework for Remote sensing Image Classification&#8221;, under preparation.
+[<span class='intJournal'></span>] <span style="color: #000000;">S. Niazmardi,<strong> B. Demir</strong></span>, L. Bruzzone, A. Safari and S. Homayouni, "Multiple Kernel Learning for Remote Sensing Image Classification", under review.
 
 [<span class='intJournal'></span>] <span style="color: #000000;">F.Omruuzun ,<strong> B. Demir</strong></span> , L. Bruzzone, Y. Yardimci Cetin, &#8220;Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.
 
-[<span class='intJournal'></span>] <span style="color: #000000;">B. Chaudhuri, <strong> B. Demir</strong></span>, S. Chaudhuri, L. Bruzzone, &#8220;A Novel Graph-Theoretic Approach to Region-Based Retrieval of Remote Sensing Images using Multi-label Information&#8221;, under preparation.
+[<span class='intJournal'></span>] <span style="color: #000000;">B. Chaudhuri, <strong> B. Demir</strong></span>, S. Chaudhuri, L. Bruzzone, "Multi-label Remote Sensing Image Retrieval using a Semi-Supervised Graph-Theoretic Method", under review.
 
-[<span class='intJournal'></span>] <span style="color: #000000;">E. Riz,<strong> B. Demir</strong></span>, L. Bruzzone, “ Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images”, under preparation.
+[<span class='intJournal'></span>] <span style="color: #000000;">E. Riz,<strong> B. Demir</strong></span>, L. Bruzzone, "Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images", under preparation.
 
-[<span class='intJournal'></span>] <span style="color: #000000;">R. Battiti,<strong> B. Demir</strong></span> , L. Bruzzone, “ Compressed Histogram Attribute Profiles For Very High Resolution Image Classification”, under preparation.
+[<span class='intJournal'></span>] <span style="color: #000000;">R. Battiti,<strong> B. Demir</strong></span> , L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.
 
-[<span class='intJournal'></span>] <span style="color: #000000;">B. Chaudhuri, <strong> B. Demir</strong></span>, L. Bruzzone, S. Chaudhuri, &#8220;Region-Based Retrieval of Remote Sensing Images using an Unsupervised Graph-Theoretic Approach&#8221;, IEEE Geoscience and Remote Sensing Letters, in press.
+[<span class='intJournal'></span>] <span style="color: #000000;">B. Chaudhuri, <strong> B. Demir</strong></span>, L. Bruzzone, S. Chaudhuri, &#8220;Region-Based Retrieval of Remote Sensing Images using an Unsupervised Graph-Theoretic Approach&#8221;, IEEE Geoscience and Remote Sensing Letters, vol. 13, no.7, pp. 987-991, 2016.
 
-[<span class='intJournal'></span>] <span style="color: #000000;">D. Castelletti, L. Pasolli, L. Bruzzone, C. Notarnicola, and <strong>B. Demir</strong></span>, &#8220;A Novel Hybrid Method for the Correction of the Theoretical Model Inversion in Bio/Geophysical Parameter Estimation&#8221;, IEEE Transactions on Geoscience and Remote Sensing, in press.
+[<span class='intJournal'></span>] <span style="color: #000000;">D. Castelletti, L. Pasolli, L. Bruzzone, C. Notarnicola, and <strong>B. Demir</strong></span>, &#8220;A Novel Hybrid Method for the Correction of the Theoretical Model Inversion in Bio/Geophysical Parameter Estimation&#8221;, IEEE Transactions on Geoscience and Remote Sensing, vol. 54, no.8, pp. 4764 - 4774, 2016.
 
 [<span class='intJournal'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, L. Bruzzone &#8220;Histogram Based Attribute Profiles for Classification of Very High Resolution Remote Sensing Images&#8221;, IEEE Transactions on Geoscience and Remote Sensing, vol. 54, no.4, pp. 2096-2107, 2016.
 
