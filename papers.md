@@ -14,7 +14,7 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='bookChapter'></span>] L. Bruzzone, <span style="color: #000000;"><strong>B. Demir</strong></span>, A Review of Modern Approaches to Classification of Remote Sensing Data, in Land Use and Land Cover Mapping Europe, Practices and Trends, Eds: I. Manakos, M. Braun, EARSeL Book Series, Springer Verlag, Chapter 9, 2014, pp. 127-143.
 
-[<span class='bookChapter'></span>] L. Bruzzone, <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, Recent Advances in Remote Sensing Time Series Image Classification, under review.
+[<span class='bookChapter'></span>] L. Bruzzone, <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, Recent Advances in Remote Sensing Time Series Image Classification, Pattern Recognition and Big Data, World Scientific, 2017, pp. 713 -734.
 
 <p>
   <b>International Journals </b>
