@@ -78,61 +78,69 @@ guid: http://www.begumdemir.com/papers.html
   <b>International Conferences</b>
 </p>
 
-[<span class='intConf'></span>] <span style="color: #000000;">S. Niazmardi,<strong>B. Demir</strong></span> , L. Bruzzone,A. Safari and S. Homayouni “ A Comparative Study On Multiple Kernel Learning for Remote Sensing Image Classification”, International Conference on Geoscience and Remote Sensing Symposium, China, 2016.
+[<span class='intConf'></span>] <span style="color: #000000;">T. Reato, <strong>B. Demir</strong></span>, L. Bruzzone, "Primitive Cluster Sensitive Hashing for Scalable Content-Based Image Retrieval in Remote Sensing Archives”, International Conference on Geoscience and Remote Sensing Symposium, Texas, USA, 2017.
 
-[<span class='intConf'></span>] <span style="color: #000000;">R. Battiti,<strong>B. Demir</strong></span> , L. Bruzzone, “ Quad-Tree Based Compressed Histogram Attribute Profiles For Classification of Very High Resolution Images”, International Conference on Geoscience and Remote Sensing Symposium, China, 2016. 
+[<span class='intConf'></span>] <span style="color: #000000;">O. E. Dai, <strong>B. Demir</strong></span>, B. Sankur, L. Bruzzone, "A Novel System for Content Based Retrieval of Multi-Label Remote Sensing Images”, International Conference on Geoscience and Remote Sensing Symposium, Texas, USA, 2017.
 
-[<span class='intConf'></span>] <span style="color: #000000;">E. Riz,<strong>B. Demir</strong></span> , L. Bruzzone, “ Domain Adaptation based on Deep Denoising Auto-Encoders for Classification of Remote Sensing Images”, SPIE Image and Signal Processing for Remote Sensing, UK, 2016.
+[<span class='intConf'></span>] <span style="color: #000000;">M. Compri, X. Giro, <strong>B. Demir</strong></span>, "Content Based Multi-Label Image Retrieval with Deep Features”, SPIE Image and Signal Processing for Remote Sensing, Poland, 2017.
 
-[<span class='intConf'></span>] <span style="color: #000000;">F.Omruuzun ,<strong>B. Demir</strong></span> , L. Bruzzone, Y. Yardimci Cetin, “ Content Based Hyperspectral Image Retrieval Using Bag Of Endmembers Image Descriptors”, 8th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), US, 2016. 
+[<span class='intConf'></span>] <span style="color: #000000;">T. Reato, <strong>B. Demir</strong></span>, L. Bruzzone, "A Novel Class Sensitive Hashing Technique for Large-Scale Content-Based Remote Sensing Image Retrieval”, SPIE Image and Signal Processing for Remote Sensing, Poland, 2017.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Fast and Accurate Image Classification with Histogram Based Features and Additive Kernel SVM ”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
+[<span class='intConf'></span>] <span style="color: #000000;">S. Niazmardi,<strong>B. Demir</strong></span> , L. Bruzzone, A. Safari and S. Homayouni "A Comparative Study On Multiple Kernel Learning for Remote Sensing Image Classification", International Conference on Geoscience and Remote Sensing Symposium, China, 2016.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Histogram Based Attribute Profiles for Classification of Very High Resolution Remote Sensing Images”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
+[<span class='intConf'></span>] <span style="color: #000000;">R. Battiti,<strong>B. Demir</strong></span> , L. Bruzzone, " Quad-Tree Based Compressed Histogram Attribute Profiles For Classification of Very High Resolution Images”, International Conference on Geoscience and Remote Sensing Symposium, China, 2016. 
 
-[<span class='intConf'></span>] <span style="color: #000000;">F. Bovolo,<strong>B. Demir</strong></span> , L. Bruzzone, “ A Cluster-Based Approach to Content Based Time Series Retrieval”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
+[<span class='intConf'></span>] <span style="color: #000000;">E. Riz,<strong>B. Demir</strong></span> , L. Bruzzone, " Domain Adaptation based on Deep Denoising Auto-Encoders for Classification of Remote Sensing Images”, SPIE Image and Signal Processing for Remote Sensing, UK, 2016.
 
-[<span class='intConf'></span>] <span style="color: #000000;">R. Battiti,<strong>B. Demir</strong></span> , L. Bruzzone, “ Compressed Histogram Attribute Profiles for the Classification of VHR Remote Sensing Images”, SPIE Image and Signal Processing for Remote Sensing, France, 2015.
+[<span class='intConf'></span>] <span style="color: #000000;">F.Omruuzun ,<strong>B. Demir</strong></span> , L. Bruzzone, Y. Yardimci Cetin, " Content Based Hyperspectral Image Retrieval Using Bag Of Endmembers Image Descriptors”, 8th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), US, 2016. 
+
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, " Fast and Accurate Image Classification with Histogram Based Features and Additive Kernel SVM ”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
+
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, " Histogram Based Attribute Profiles for Classification of Very High Resolution Remote Sensing Images”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
+
+[<span class='intConf'></span>] <span style="color: #000000;">F. Bovolo,<strong>B. Demir</strong></span> , L. Bruzzone, " A Cluster-Based Approach to Content Based Time Series Retrieval”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
+
+[<span class='intConf'></span>] <span style="color: #000000;">R. Battiti,<strong>B. Demir</strong></span> , L. Bruzzone, " Compressed Histogram Attribute Profiles for the Classification of VHR Remote Sensing Images”, SPIE Image and Signal Processing for Remote Sensing, France, 2015.
 
 [<span class='intConf'></span>] <span style="color: #000000;">S. Paloscia, S. Pettinato, E. Santi, C. Notarnicola, F. Greifeneder, G. Cuozzo, I. Nicolini, <strong>B. Demir</strong></span>, L. Bruzzone, &#8220;Cosmo-SkyMed and RADARSAT2 image investigation for the monitoring of agricultural areas&#8221;, in SAR Image Analysis, Modeling, and Techniques XV, Proceedings of SPIE, Toulouse, France, 2015.
 
 [<span class='intConf'></span>] <span style="color: #000000;">S. Paloscia, S. Pettinato , E. Santi , C. Notarnicola, Felix Greifeneder , G. Cuozzo , I. Nicolini, <strong>B. Demir</strong></span>, L. Bruzzone, An analysis of the capabilities of cosmo-skymed and radarsat systems for agricultural area monitoring, IEEE International Geoscience and Remote Sensing Symposium, Milan, Italy, 2015. 
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Scalable Content Based Image Retrieval Based on A Hierarchical Hashing Approach ”, Conference on Big Data from Space, Rome, Italy, 2014.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, " Scalable Content Based Image Retrieval Based on A Hierarchical Hashing Approach ”, Conference on Big Data from Space, Rome, Italy, 2014.
 
-[<span class='intConf'></span>] <span style= "color: #000000;">E. Riz, **B. Demir**</span> , L. Bruzzone, “ Speeded Up Content Based Remote Sensing Image Retrieval with Additive Kernel Support Vector Machines ”, Conference on Big Data from Space, Rome, Italy, 2014.
+[<span class='intConf'></span>] <span style= "color: #000000;">E. Riz, **B. Demir**</span> , L. Bruzzone, " Speeded Up Content Based Remote Sensing Image Retrieval with Additive Kernel Support Vector Machines ”, Conference on Big Data from Space, Rome, Italy, 2014.
 
-[<span class='intConf'></span>] <span style="color: #000000;">D. Castelletti, <strong>B. Demir</strong></span> , L. Bruzzone, “ A Semisupervised Support Vector Regression Method to Estimate Biophysical Parameters from Remotely Sensed Images”, SPIE Image and Signal Processing for Remote Sensing, Amsterdam, The Netherlands, 2014.
+[<span class='intConf'></span>] <span style="color: #000000;">D. Castelletti, <strong>B. Demir</strong></span> , L. Bruzzone, " A Semisupervised Support Vector Regression Method to Estimate Biophysical Parameters from Remotely Sensed Images”, SPIE Image and Signal Processing for Remote Sensing, Amsterdam, The Netherlands, 2014.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Kernel-Based Hashing for Content-Based Image Retrieval in Large Remote Sensing Data Archives ”, International Conference on Geoscience and Remote Sensing Symposium, Québec, Canada, 2014.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, " Kernel-Based Hashing for Content-Based Image Retrieval in Large Remote Sensing Data Archives ”, International Conference on Geoscience and Remote Sensing Symposium, Québec, Canada, 2014.
 
-[<span class='intConf'></span>] <span style="color: #000000;">F. Bovolo, L. Bruzzone, <strong>B. Demir</strong></span>, “ An Approach to Content-Based Time Series Retrieval for Detecting Changes in Large Remote Sensing Data Archives ”, Image Information Mining Conference: The Sentinels Era, Bucharest, Romania, 2014.
+[<span class='intConf'></span>] <span style="color: #000000;">F. Bovolo, L. Bruzzone, <strong>B. Demir</strong></span>, " An Approach to Content-Based Time Series Retrieval for Detecting Changes in Large Remote Sensing Data Archives ”, Image Information Mining Conference: The Sentinels Era, Bucharest, Romania, 2014.
 
-[<span class='intConf'></span>] <span style="color: #000000;">L. Bruzzone, <strong>B. Demir</strong></span>, F. Bovolo, C.Brockmann, N. Fomferra, M. Iapaolo, R. Jha, J. Lu, R. Quast, K. Stelzer and L. Veci, “Analyzing and Retrieving Remote Sensing Images from Large Data Archives”, Image Information Mining Conference: The Sentinels Era, Bucharest, Romania, 2014.
+[<span class='intConf'></span>] <span style="color: #000000;">L. Bruzzone, <strong>B. Demir</strong></span>, F. Bovolo, C.Brockmann, N. Fomferra, M. Iapaolo, R. Jha, J. Lu, R. Quast, K. Stelzer and L. Veci, "Analyzing and Retrieving Remote Sensing Images from Large Data Archives”, Image Information Mining Conference: The Sentinels Era, Bucharest, Romania, 2014.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo , L. Bruzzone, “Sequential Cascade Classification of Image Time Series by Exploiting Multiple Pairwise Change Detection ”, International Conference on Geoscience and Remote Sensing Symposium, Melbourne, Australia, 2013.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo , L. Bruzzone, "Sequential Cascade Classification of Image Time Series by Exploiting Multiple Pairwise Change Detection ”, International Conference on Geoscience and Remote Sensing Symposium, Melbourne, Australia, 2013.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, L. Bruzzone, “An Effective Active Learning Method for Interactive Content-Based Retrieval in Remote Sensing Images”, International Conference on Geoscience and Remote Sensing Symposium, Melbourne, Australia, 2013.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, L. Bruzzone, "An Effective Active Learning Method for Interactive Content-Based Retrieval in Remote Sensing Images”, International Conference on Geoscience and Remote Sensing Symposium, Melbourne, Australia, 2013.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, L. Bruzzone, “A Novel Active Learning Method for Support Vector Regression to Estimate Biophysical Parameters from Remotely Sensed Images, SPIE Image and Signal Processing for Remote Sensing,2012.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, L. Bruzzone, "A Novel Active Learning Method for Support Vector Regression to Estimate Biophysical Parameters from Remotely Sensed Images, SPIE Image and Signal Processing for Remote Sensing,2012.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, L. Minello, L. Bruzzone, “A Genetic Algorithm Based Cost-Sensitive Active Learning Technique for Classification of Remote Sensing Images ”, Tyrrhenian Workshop 2012 on Advances in Radar and Remote Sensing, Napoli, Italy, 2012.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, L. Minello, L. Bruzzone, "A Genetic Algorithm Based Cost-Sensitive Active Learning Technique for Classification of Remote Sensing Images ”, Tyrrhenian Workshop 2012 on Advances in Radar and Remote Sensing, Napoli, Italy, 2012.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, L. Minello, L. Bruzzone, “A Cost-Sensitive Active Learning Technique for the Definition of Effective Training Sets for Supervised Classifiers”, International Conference on Geoscience and Remote Sensing Symposium,2012.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, L. Minello, L. Bruzzone, "A Cost-Sensitive Active Learning Technique for the Definition of Effective Training Sets for Supervised Classifiers”, International Conference on Geoscience and Remote Sensing Symposium,2012.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, L. Bruzzone, “A Novel System for Classification of Image Time Series with Limited Ground Reference Data”, International Conference on Geoscience and Remote Sensing Symposium,2012.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, L. Bruzzone, "A Novel System for Classification of Image Time Series with Limited Ground Reference Data”, International Conference on Geoscience and Remote Sensing Symposium,2012.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, L. Bruzzone, “Detection of land-cover transitions in multitemporal images with active-learning based compound classification”, International Conference on Geoscience and Remote Sensing Symposium, Vancouver, Canada, July 2011.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, L. Bruzzone, "Detection of land-cover transitions in multitemporal images with active-learning based compound classification”, International Conference on Geoscience and Remote Sensing Symposium, Vancouver, Canada, July 2011.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, L. Bruzzone, “Active-learning based cascade classification of multitemporal images for updating land-cover maps”, 6th International Workshop on the Analysis of Multi-Temporal Remote Sensing Images, Trento, Italy, July 2011.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, L. Bruzzone, "Active-learning based cascade classification of multitemporal images for updating land-cover maps”, 6th International Workshop on the Analysis of Multi-Temporal Remote Sensing Images, Trento, Italy, July 2011.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, L. Bruzzone, “An active transfer learning technique driven by change detection for classification of temporal series of images”, SPIE Image and Signal Processing for Remote Sensing, Prague Czech Republic, Sept. 2011.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, L. Bruzzone, "An active transfer learning technique driven by change detection for classification of temporal series of images”, SPIE Image and Signal Processing for Remote Sensing, Prague Czech Republic, Sept. 2011.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, “Empirical mode decomposition based decision fusion for higher hyperspectral image classifıcation accuracy”, International Conference on Geoscience and Remote Sensing Symposium, Honolulu, Hawaii, USA, July 2010.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, "Empirical mode decomposition based decision fusion for higher hyperspectral image classifıcation accuracy”, International Conference on Geoscience and Remote Sensing Symposium, Honolulu, Hawaii, USA, July 2010.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, &#8220;Improving SVM Classification Accuracy Using a Hierarchical Approach for Hyperspectral Images&#8221;, IEEE International Conference on Image Processing, Nov 2009, Cairo, Egypt.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, &#8220;Improving SVM Classification Accuracy Using a Hierarchical Approach for Hyperspectral Images", IEEE International Conference on Image Processing, Nov 2009, Cairo, Egypt.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, O. Urhan, &#8220;Improved Quality Multiple Description 3D Mesh Coding with Optimal Filtering&#8221;, IEEE International Conference on Image Processing, Nov 2009, Cairo, Egypt.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, O. Urhan, &#8220;Improved Quality Multiple Description 3D Mesh Coding with Optimal Filtering", IEEE International Conference on Image Processing, Nov 2009, Cairo, Egypt.
 
 [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, &#8220;Accurate SVM Classification Using Border Training Patterns &#8220;, First Workshop on Hyperspectral Image and Signal Processing: Evolution on Remote Sensing, August 2009, Grenoble, France.
 
@@ -172,9 +180,9 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='natConf'></span>] **<span style="color: #000000;">B. Demir</span>**, F. Bovolo, L. Bruzzone, &#8220;Detection of land-cover transitions in multitemporal ımages with a joint entropy based active-learning method&#8221;, IEEE 19th Signal Processing and Communications Applications Conference (SIU&#8217;2011), April 2011
 
-[<span class='natConf'></span>] **<span style="color: #000000;">B. Demir</span>**, S. Ertürk, &#8220;“Empirical mode decomposition based decision fusion for hyperspectral image classification&#8221;, IEEE 18th Signal Processing and Communications Applications Conference (SIU&#8217;2010), April 2010
+[<span class='natConf'></span>] **<span style="color: #000000;">B. Demir</span>**, S. Ertürk, "Empirical mode decomposition based decision fusion for hyperspectral image classification&#8221;, IEEE 18th Signal Processing and Communications Applications Conference (SIU&#8217;2010), April 2010
 
-[<span class='natConf'></span>] **<span style="color: #000000;">B. Demir</span>**, S. Ertürk, &#8220;High Accuracy Hyperspectral Image Classification Based on Empirical Mode Decomposition and Composite Kernel&#8221;, IEEE 17th Signal Processing and Communications Applications Conference (SIU&#8217;2009), April 2009
+[<span class='natConf'></span>] **<span style="color: #000000;">B. Demir</span>**, S. Ertürk, "High Accuracy Hyperspectral Image Classification Based on Empirical Mode Decomposition and Composite Kernel&#8221;, IEEE 17th Signal Processing and Communications Applications Conference (SIU&#8217;2009), April 2009
 
 [<span class='natConf'></span>] **<span style="color: #000000;">B. Demir</span>**, S. Ertürk, &#8220;Hiperspektral Görüntülemenin Savunma Teknolojileri Uygulamaları ve Spektral Eğriltme Sayesinde Yüksek Tanıma Başarımı&#8221;, 4th National Defense Technologies Conference (SAVTEK 2008), June 2008.
 
