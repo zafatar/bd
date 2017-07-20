@@ -82,11 +82,11 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intConf'></span>] <span style="color: #000000;">R. Battiti,<strong>B. Demir</strong></span> , L. Bruzzone, “ Quad-Tree Based Compressed Histogram Attribute Profiles For Classification of Very High Resolution Images”, International Conference on Geoscience and Remote Sensing Symposium, China, 2016. 
 
-[<span class='intConf'></span>] <span style="color: #000000;">E. Riz,<strong>B. Demir</strong></span> , L. Bruzzone, “ Domain Adaptation based on Deep Denoising Auto-Encoders for Classification of Remote Sensing Images”, SPIE Image and Signal Processing for Remote Sensing, UK, 2016, under review.
+[<span class='intConf'></span>] <span style="color: #000000;">E. Riz,<strong>B. Demir</strong></span> , L. Bruzzone, “ Domain Adaptation based on Deep Denoising Auto-Encoders for Classification of Remote Sensing Images”, SPIE Image and Signal Processing for Remote Sensing, UK, 2016.
 
 [<span class='intConf'></span>] <span style="color: #000000;">F.Omruuzun ,<strong>B. Demir</strong></span> , L. Bruzzone, Y. Yardimci Cetin, “ Content Based Hyperspectral Image Retrieval Using Bag Of Endmembers Image Descriptors”, 8th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), US, 2016. 
 
-[comment]: <> [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Fast and Accurate Image Classification with Histogram Based Features and Additive Kernel SVM ”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Fast and Accurate Image Classification with Histogram Based Features and Additive Kernel SVM ”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
 
 [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span> , L. Bruzzone, “ Histogram Based Attribute Profiles for Classification of Very High Resolution Remote Sensing Images”, International Conference on Geoscience and Remote Sensing Symposium, Milan, Italy, 2015.
 
