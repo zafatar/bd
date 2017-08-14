@@ -116,7 +116,7 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intConf'></span>] F. Bovolo, L. Bruzzone, <span style="color: #000000;"><strong>B. Demir</strong></span>, "An Approach to Content-Based Time Series Retrieval for Detecting Changes in Large Remote Sensing Data Archives ”, Image Information Mining Conference: The Sentinels Era, Bucharest, Romania, 2014.
 
-[<span class='intConf'></span>] L. Bruzzone, <span style="color: #000000;">strong>B. Demir</strong></span>, F. Bovolo, C.Brockmann, N. Fomferra, M. Iapaolo, R. Jha, J. Lu, R. Quast, K. Stelzer and L. Veci, "Analyzing and Retrieving Remote Sensing Images from Large Data Archives”, Image Information Mining Conference: The Sentinels Era, Bucharest, Romania, 2014.
+[<span class='intConf'></span>] L. Bruzzone, <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, C.Brockmann, N. Fomferra, M. Iapaolo, R. Jha, J. Lu, R. Quast, K. Stelzer and L. Veci, "Analyzing and Retrieving Remote Sensing Images from Large Data Archives”, Image Information Mining Conference: The Sentinels Era, Bucharest, Romania, 2014.
 
 [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, F. Bovolo, L. Bruzzone, "Sequential Cascade Classification of Image Time Series by Exploiting Multiple Pairwise Change Detection ”, International Conference on Geoscience and Remote Sensing Symposium, Melbourne, Australia, 2013.
 
