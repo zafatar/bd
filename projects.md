@@ -8,7 +8,7 @@ guid: http://www.begumdemir.com/?page_id=4
 ---
 The projects that I'm currently involved in or participated in the past are in the following:
 
-* <a href="https://www.bigearth.eu" target="_blank">BigEarth</a> - Accurate and Scalable Processing of Big Data in Earth Observation, <a href="https://erc.europa.eu" target="_blank">ERC</a> Starting Grant, Principle Investigator (05/2018 - 04/2023)
+* <a href="http://www.bigearth.eu" target="_blank">BigEarth</a> - Accurate and Scalable Processing of Big Data in Earth Observation, <a href="https://erc.europa.eu" target="_blank">ERC</a> Starting Grant, Principle Investigator (05/2018 - 04/2023)
 
 * CRYOMON-SciPro - Improve the Science of Processes within the Cryosphere by Integrating Hydrological Modelling with Remote Sensing in a Multi-Level Data Fusion Approach (EUREGIO) (2016-2018).
 
