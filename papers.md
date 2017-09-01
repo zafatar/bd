@@ -66,11 +66,11 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intJournal'></span>] Y. Yapıcı, <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, O. Urhan, "Down-sampling Based Multiple Description Image Coding using Optimal Filtering", Journal of Electronic Imaging, Vol. 17, No. 3, Article ID 033018, July 2008.
 
-[<span class='intJournal'></span>] <span style="color: #000000;"><strong><span>B. Demir</span></strong></span>, S. Ertürk, "Improved Classification and Segmentation of Hyperspectral Images Using Spectral Warping ", International Journal of Remote Sensing, vol. 29, pp. 3657-3663, June 2008.
+[<span class='intJournal'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, "Improved Classification and Segmentation of Hyperspectral Images Using Spectral Warping ", International Journal of Remote Sensing, vol. 29, pp. 3657-3663, June 2008.
 
 [<span class='intJournal'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, "Phase Correlation based Redundancy Removal in Feature Weighting Band Selection for Hyperspectral Images ", International Journal of Remote Sensing, no. 29, pp. 1801-1807, 2008.
 
-[<span class='intJournal'></span>] <span style="color: #000000;"><strong>B. Demir</span></strong></span>, S. Ertürk, "Hyperspectral Image Classification Using Relevance Vector Machines", IEEE Geoscience and Remote Sensing Letters, no.4, vol.4, pp.586-590, 2007.
+[<span class='intJournal'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, "Hyperspectral Image Classification Using Relevance Vector Machines", IEEE Geoscience and Remote Sensing Letters, no.4, vol.4, pp.586-590, 2007.
 
 [<span class='intJournal'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, "Block Motion Estimation Using Adaptive Modified Two-Bit Transform", IET Image Processing, Vol.1, No.2, pp.215-222, 2007.
 
@@ -164,7 +164,7 @@ guid: http://www.begumdemir.com/papers.html
 
 [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, "Hyperspectral Data Classification Using RVM with Pre-Segmentation and RANSAC", International Conference on Geosience and Remote Sensing Symposium, 23-27 July 2007, Barcelona, Spain, Temmuz 2007.
 
-[<span class='intConf'></span>] <span style="color: #000000;"><strong><span>B. Demir</span></strong></span>, S. Ertürk, "Phase Correlation Based Supervised Classification of Hyperspectral Images Using Multiple Class Representatives ", International Conference on Geosience and Remote Sensing Symposium, 23-27 July 2007, Barcelona, Spain, July 2007.
+[<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, "Phase Correlation Based Supervised Classification of Hyperspectral Images Using Multiple Class Representatives ", International Conference on Geosience and Remote Sensing Symposium, 23-27 July 2007, Barcelona, Spain, July 2007.
 
 [<span class='intConf'></span>] <span style="color: #000000;"><strong>B. Demir</strong></span>, S. Ertürk, "Block Motion Estimation using Modified Two-Bit Transform", Lecture Notes in Computer Science (LNCS), Springer-Verlag, Vol.4263, pp. 522-531, Nov 2006.
 
