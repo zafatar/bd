@@ -6,6 +6,6 @@ author: admin
 layout: page
 guid: http://www.begumdemir.com/?page_id=74
 ---
-<div style="width:100%; vertical-align:center">
-  <img src="assets/images/research_cloud.png" width="100%">	
+<div class="container text-center m-5">
+  <img src="assets/images/research_cloud_1.png">	
 </div>

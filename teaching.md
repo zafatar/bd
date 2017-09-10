@@ -6,57 +6,31 @@ author: admin
 layout: page
 guid: http://www.begumdemir.com/?page_id=74
 ---
-<style>
-.teaching {
-  font-size: 13px;
-}
+<div class="col-lg-12 text-left">
+  <h3>Teaching</h3>
 
-ul.teaching {
-  margin: 0px;
-}
-
-ul.teaching li {
-  padding-bottom: 10px;
-}
-</style>
-
-<p class="teaching">
-  <b>Digital Signal Processing</b>
-</p>
-
-<div>
-  <div style="float:left">
-    <img src="assets/images/dsp_1.jpg" width="300px">
+  <h5>Digital Signal Processing</h5>
+  <div class="container text-justify d-inline-block px-0 pb-3">  
+    <div class="list-group col-lg-3 float-left">
+      <a class="list-group-item list-group-item-action" title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=11" target="_blank">Fall 2016</a>
+      <a class="list-group-item list-group-item-action" title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=8" target="_blank">Fall 2015</a>
+      <a class="list-group-item list-group-item-action" title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=3" target="_blank">Fall 2014</a>
+      <a class="list-group-item list-group-item-action disabled">Fall 2013</a>
+    </div>
+    
+      <img src="assets/images/dsp_1.jpg" style="margin-right: 10px" align="left" width="300px" class="rounded">      
   </div>
-  <div style="float:left; padding-left:10px;">
-    <ul class="teaching">
-      <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=11" target="_blank">Fall 2016</a></li>
-      <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=8" target="_blank">Fall 2015</a></li>
-      <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=3" target="_blank">Fall 2014</a></li>
-      <li><b>Fall 2013</b></li>
-    </ul>
+
+  <h5>Remote Sensing Systems <small>(together with Prof. Lorenzo Bruzzone)</small></h5>
+  <div class="container text-justify d-inline-block px-0 pb-3">
+    <div class="list-group col-lg-3">
+      <a class="list-group-item list-group-item-action" title="Remote Sensing Systems" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=10" target="_blank">Spring 2016</a>
+      <a class="list-group-item list-group-item-action" title="Remote Sensing Systems" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=6" target="_blank">Spring 2015</a>
+    </div>
   </div>
-  <br style="clear:both;"/>
+
+  <h5>Pattern Recognition <small>(Fall 2013, together with Prof. Jon Atli Benediktsson)</small></h5>
+
+  <h5>Advanced Remote Sensing Systems for Environment <small>(Fall 2013, together with Prof. Lorenzo Bruzzone and Prof. Marcello Coradini)</small></h5>
+
 </div>
-
-<p class="teaching">
-  <b>Remote Sensing Systems</b> (together with Prof. Lorenzo Bruzzone)
-</p>
-
-<div>
-  <div style="float:left; padding-left:10px;">
-    <ul class="teaching">
-      <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=10" target="_blank">Spring 2016</a></li>
-      <li><a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=6" target="_blank">Spring 2015</a></li>
-    </ul>
-  </div>
-  <br style="clear:both;"/>
-</div>
-
-<p class="teaching">
-  <b>Pattern Recognition</b> (Fall 2013, together with Prof. Jon Atli Benediktsson)
-</p>
-<p class="teaching">
-  <b>Advanced Remote Sensing Systems for Environment</b> (Fall 2013, together with Prof. Lorenzo Bruzzone and Prof. Marcello Coradini)
-</p>
-
