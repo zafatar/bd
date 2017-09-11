@@ -30,7 +30,7 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intJournal'></span>] S. Niazmardi, <span class="demir">B. Demir</span>, L. Bruzzone, A. Safari and S. Homayouni, "Multiple Kernel Learning for Remote Sensing Image Classification", under review.</p>
 
-	<p>[<span class='intJournal'></span>] B. Chaudhuri, <span class="demir">B. Demir</span>, S. Chaudhuri, L. Bruzzone, "Multi-label Remote Sensing Image Retrieval using a Semi-Supervised Graph-Theoretic Method", under review.</p>
+	<p>[<span class='intJournal'></span>] B. Chaudhuri, <span class="demir">B. Demir</span>, S. Chaudhuri, L. Bruzzone, "Multi-label Remote Sensing Image Retrieval using a Semi-Supervised Graph-Theoretic Method", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2017.</p>
 
 	<p>[<span class='intJournal'></span>] B. Chaudhuri, <span class="demir">B. Demir</span>, L. Bruzzone, S. Chaudhuri, "Region-Based Retrieval of Remote Sensing Images using an Unsupervised Graph-Theoretic Approach", IEEE Geoscience and Remote Sensing Letters, vol. 13, no.7, pp. 987-991, 2016.</p>
 
