@@ -38,14 +38,14 @@ I received the B.S. degree in 2005, the M.Sc. degree in 2007, and the Ph.D. degr
 		<!-- List Group -->
 		<ul class="list-group list-group-flush">
 			<li class="list-group-item text-justify">
-			<b>Sep. 2017</b> - BigEarth is on <a href="http://www.buyukkocaeli.com.tr/tarih-seni-yazacak-begum-hoca-11692h.htm">local Turkish newspaper</a>.
+			<b>September 2017</b> - BigEarth is on <a href="http://www.buyukkocaeli.com.tr/tarih-seni-yazacak-begum-hoca-11692h.htm">local Turkish newspaper</a>.
 			</li>		
 			<li class="list-group-item text-justify">
-			<b>Sep. 2017</b> - I got an <a href="https://erc.europa.eu" target="_blank">European Research Council (ERC)</a> <a href="https://erc.europa.eu/sites/default/files/document/file/erc_2017_stg_results_pe.pdf" target="_blank">Starting Grant</a> with my project: BigEarth - Accurate and Scalable Processing of Big Data in Earth Observation.  Welcome home <a href="http://www.bigearth.eu" target="_blank">BigEarth</a>!
+			<b>September 2017</b> - I got an <a href="https://erc.europa.eu" target="_blank">European Research Council (ERC)</a> <a href="https://erc.europa.eu/sites/default/files/document/file/erc_2017_stg_results_pe.pdf" target="_blank">Starting Grant</a> with my project: BigEarth - Accurate and Scalable Processing of Big Data in Earth Observation.  Welcome home <a href="http://www.bigearth.eu" target="_blank">BigEarth</a>!
 			</li>
 
-			<li class="list-group-item text-justify">
-			<b>Aug. 2017</b> - I got the accreditation ("<a href="http://abilitazione.miur.it/public/index.php" target="_blank">abilitazione</a>") for Associate Professor in Telecommunications in the national competition in Italy.
+			<li class="list-group-item">
+			<b>August 2017</b> - I got the accreditation ("<a href="http://abilitazione.miur.it/public/index.php" target="_blank">abilitazione</a>") for Associate Professor in Telecommunications in the national competition in Italy.
 			</li>
 		</ul>
 
