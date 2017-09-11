@@ -45,7 +45,7 @@ I received the B.S. degree in 2005, the M.Sc. degree in 2007, and the Ph.D. degr
 			</li>
 
 			<li class="list-group-item text-justify">
-			<b>Aug 2017</b> - I got the accreditation ("<a href="http://abilitazione.miur.it/public/index.php" target="_blank">abilitazione</a>") for Associate Professor in Telecommunications in the national competition in Italy.
+			<b>Aug. 2017</b> - I got the accreditation ("<a href="http://abilitazione.miur.it/public/index.php" target="_blank">abilitazione</a>") for Associate Professor in Telecommunications in the national competition in Italy.
 			</li>
 		</ul>
 
