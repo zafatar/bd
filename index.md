@@ -33,7 +33,7 @@ I received the B.S. degree in 2005, the M.Sc. degree in 2007, and the Ph.D. degr
 <div class="col-lg-4 text-left">
 	<!-- News Widget -->
 	<div class="card">
-    	<h5 class="card-header">Latest News</h5>
+    	<h5 class="card-header b-0">Latest News</h5>
 
 		<!-- List Group -->
 		<ul class="list-group list-group-flush">

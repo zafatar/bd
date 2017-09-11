@@ -20,7 +20,7 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intJournal'></span>] A. Güneş, <span class="demir">B. Demir</span>, L. Bruzzone, H. Kalkan, "A Novel Cost Sensitive Image Classification System", under preparation.</p>
+	<p>[<span class='intJournal'></span>] A. Günes, <span class="demir">B. Demir</span>, L. Bruzzone, H. Kalkan, "A Novel Cost Sensitive Image Classification System", under preparation.</p>
 
 	<p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>
 

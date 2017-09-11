@@ -18,7 +18,8 @@ guid: http://www.begumdemir.com/?page_id=74
       <a class="list-group-item list-group-item-action disabled">Fall 2013</a>
     </div>
     
-      <img src="assets/images/dsp_1.jpg" style="margin-right: 10px" align="left" width="300px" class="rounded">      
+      <img src="./assets/images/dsp_1.jpg" style="margin-right: 10px" align="left" width="300px" class="rounded img-pointer">
+      <!-- data-toggle="modal" data-target="#myModal">   -->
   </div>
 
   <h5>Remote Sensing Systems <small>(together with Prof. Lorenzo Bruzzone)</small></h5>
@@ -33,4 +34,20 @@ guid: http://www.begumdemir.com/?page_id=74
 
   <h5>Advanced Remote Sensing Systems for Environment <small>(Fall 2013, together with Prof. Lorenzo Bruzzone and Prof. Marcello Coradini)</small></h5>
 
+</div>
+
+<!-- Button trigger modal -->
+<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">click me</button>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <p>
+                    <img class='img-responsive' src="./assets/images/dsp_1.jpg" />
+                    <!-- <img class="img-responsive" src="http://i.stack.imgur.com/X9H81.jpg"> -->
+                </p>
+            </div>
+        </div>
+    </div>
 </div>
