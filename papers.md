@@ -28,7 +28,7 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p>
 
-	<p>[<span class='intJournal'></span>] S. Niazmardi, <span class="demir">B. Demir</span>, L. Bruzzone, A. Safari and S. Homayouni, "Multiple Kernel Learning for Remote Sensing Image Classification", under review.</p>
+	<p>[<span class='intJournal'></span>] S. Niazmardi, <span class="demir">B. Demir</span>, L. Bruzzone, A. Safari and S. Homayouni, "Multiple Kernel Learning for Remote Sensing Image Classification", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2017.</p>
 
 	<p>[<span class='intJournal'></span>] B. Chaudhuri, <span class="demir">B. Demir</span>, S. Chaudhuri, L. Bruzzone, "Multi-label Remote Sensing Image Retrieval using a Semi-Supervised Graph-Theoretic Method", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2017.</p>
 
