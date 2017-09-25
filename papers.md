@@ -83,7 +83,9 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intConf'></span>] O. E. Dai, <span class="demir">B. Demir</span>, B. Sankur, L. Bruzzone, "A Novel System for Content Based Retrieval of Multi-Label Remote Sensing Images”, International Conference on Geoscience and Remote Sensing Symposium, Texas, USA, 2017.</p>
 
-[//]: # (<p>[<span class='intConf'></span>] M. Compri, X. Giro, <span class="demir">B. Demir</span>, "Content Based Multi-Label Image Retrieval with Deep Features”, SPIE Image and Signal Processing for Remote Sensing, Poland, 2017.</p>)
+<!--
+<p>[<span></span>] M. Compri, X. Giro, <span class="demir">B. Demir</span>, "Content Based Multi-Label Image Retrieval with Deep Features”, SPIE Image and Signal Processing for Remote Sensing, Poland, 2017.</p>)
+-->
 
 	<p>[<span class='intConf'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "A Novel Class Sensitive Hashing Technique for Large-Scale Content-Based Remote Sensing Image Retrieval”, SPIE Image and Signal Processing for Remote Sensing, Poland, 2017.</p>
 
