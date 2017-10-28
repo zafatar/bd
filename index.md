@@ -38,7 +38,7 @@ I received the B.S. degree in 2005, the M.Sc. degree in 2007, and the Ph.D. degr
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
-			<b>October 2017</b> - BigEarth was introduced to all local press in Trento with our Rector. (See <a href="http://webmagazine.unitn.it/news/ateneo/28187/a-unitrento-30-milioni-e-mezzo-di-finanziamento-erc-european-research-council-per" target="_blank">press release in Italian</a>)
+			<b>October 2017</b> - BigEarth was introduced to all local press in Trento with our Rector. (See <a href="http://webmagazine.unitn.it/en/news/ateneo/28371/unitrento-received-305-million-erc-funding-for-24-research-projects-over-10-years" target="_blank">press release</a>)
 			</li>
 		    	<li class="list-group-item text-justify">
 			<b>September 2017</b> - BigEarth is on <a href="http://www.pressreader.com/italy/corriere-del-trentino/20170916/281487866520040" target="_blank">Corriere del Trentino</a>.
