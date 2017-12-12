@@ -48,10 +48,10 @@ My main research interests include image processing and machine learning with ap
 			<b>October 2017</b> - BigEarth was introduced to all local press in Trento with our Rector. (See <a href="http://webmagazine.unitn.it/en/news/ateneo/28371/unitrento-received-305-million-erc-funding-for-24-research-projects-over-10-years" target="_blank">press release</a>)
 			</li>
 		    	<li class="list-group-item text-justify">
-			<b>September 2017</b> - BigEarth is on <a href="http://www.pressreader.com/italy/corriere-del-trentino/20170916/281487866520040" target="_blank">Corriere del Trentino</a>.
+			<b>September 2017</b> - BigEarth is on <a href="http://www.pressreader.com/italy/corriere-del-trentino/20170916/281487866520040" target="_blank">Corriere del Trentino</a>. <br />
+			<b>September 2017</b> - BigEarth is on <a href="http://www.buyukkocaeli.com.tr/tarih-seni-yazacak-begum-hoca-11692h.htm" target="_blank">local Turkish newspaper</a>.
 			</li>		
 			<li class="list-group-item text-justify">
-			<b>September 2017</b> - BigEarth is on <a href="http://www.buyukkocaeli.com.tr/tarih-seni-yazacak-begum-hoca-11692h.htm" target="_blank">local Turkish newspaper</a>. <br />
 			<b>September 2017</b> - I got an <a href="https://erc.europa.eu" target="_blank">European Research Council (ERC)</a> <a href="https://erc.europa.eu/sites/default/files/document/file/erc_2017_stg_results_pe.pdf" target="_blank">Starting Grant</a> with my project: BigEarth - Accurate and Scalable Processing of Big Data in Earth Observation.  Welcome home <a href="http://www.bigearth.eu" target="_blank">BigEarth</a>!
 			</li>
 
