@@ -42,6 +42,9 @@ My main research interests include image processing and machine learning with ap
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+			<b>February 2018</b> - <a href="http://bigearth.eu" target="_blank">BigEarth</a> and I will start at the <a href="http://www.eecs.tu-berlin.de/menue/faculty_iv_electrical_engineering_and_computer_science/parameter/de/?no_cache=1" target="_blank">Faculty of Electrical Engineering and Computer Science</a>, <a href="https://www.tu-berlin.de" target="_blank">Technische Universität Berlin</a>, Germany	in April 1st!
+			</li>
+		    	<li class="list-group-item text-justify">
 			<b>December 2017</b> - I close 2017 by being promoted to be an Associate Professor at University of Trento!
 			</li>
 		    	<li class="list-group-item text-justify">
