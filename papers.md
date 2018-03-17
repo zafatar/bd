@@ -79,21 +79,23 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Conferences</h3>
 
 <div class="container text-justify p-0">
-        <p>[<span class='intConf'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Deep Metric and Hash-Code Learning for Content-Based Retrieval of Remote Sensing Images", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, under review.</p>
+    <p>[<span class='intConf'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Deep Metric and Hash-Code Learning for Content-Based Retrieval of Remote Sensing Images", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.</p>
 
-	<p>[<span class='intConf'></span>] I. Tekeste, <span class="demir">B. Demir</span>, "Advanced Local Binary Patterns for Remote Sensing Image Retrieval", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, under review.</p>
+	<p>[<span class='intConf'></span>] I. Tekeste, <span class="demir">B. Demir</span>, "Advanced Local Binary Patterns for Remote Sensing Image Retrieval", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.</p>
 
 	<p>[<span class='intConf'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Semantic-Fusion GANs for Semi-Supervised Satellite Image Classification", International Conference on Image Processing, Athens, Greece, under review.</p>
 
-	<p>[<span class='intConf'></span>] M. Callegari, C. Marin, D. Günther, P. Rastner, L. Bruzzone, <span class="demir">B. Demir</span>, T. Marke, U. Strasser, M. Zebisch, C. Notarnicola, "Integration of Remote Sensing with a Hydroclimatological Model for an Improved Monitoring of Alpine Glaciers", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, under review.</p>
+	<p>[<span class='intConf'></span>]L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, D. Günther, T. Marke, C. Notarnicola, "A Novel Data Fusion Technique for Snow Parameter Retrieval",  International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.</p>
 
-     	<p>[<span class='intConf'></span>] L. D. Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, D. Günther, C. Notarnicola, "Fusion of remote sensing and hydrological model data for improving snow mapping", International Conference on Snow Hydrology, Heidelberg, Germany, 2018.</p>
+	<p>[<span class='intConf'></span>] M. Callegari, C. Marin, D. Günther, P. Rastner, L. Bruzzone, <span class="demir">B. Demir</span>, T. Marke, U. Strasser, M. Zebisch, C. Notarnicola, "Integration of Remote Sensing with a Hydroclimatological Model for an Improved Monitoring of Alpine Glaciers", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.</p>
 
-      	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, "BIGEARTH-Accurate and Scalable Processing of Big Data In Earth Observation", Conference on Big Data from Space, Toulouse, France, 2017.</p>
+    <p>[<span class='intConf'></span>] L. D. Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, D. Günther, C. Notarnicola, "Fusion of remote sensing and hydrological model data for improving snow mapping", International Conference on Snow Hydrology, Heidelberg, Germany, 2018.</p>
 
-       	<p>[<span class='intConf'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "Semantic-Sensitive Hashing for Content-Based Retrieval in Remote Sensing Images", Conference on Big Data from Space, Toulouse, France, 2017.</p>
+    <p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, "BIGEARTH-Accurate and Scalable Processing of Big Data In Earth Observation", Conference on Big Data from Space, Toulouse, France, 2017.</p>
 
-     	<p>[<span class='intConf'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "Primitive Cluster Sensitive Hashing for Scalable Content-Based Image Retrieval in Remote Sensing Archives”, International Conference on Geoscience and Remote Sensing Symposium, Texas, USA, 2017.</p>
+    <p>[<span class='intConf'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "Semantic-Sensitive Hashing for Content-Based Retrieval in Remote Sensing Images", Conference on Big Data from Space, Toulouse, France, 2017.</p>
+
+    <p>[<span class='intConf'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "Primitive Cluster Sensitive Hashing for Scalable Content-Based Image Retrieval in Remote Sensing Archives”, International Conference on Geoscience and Remote Sensing Symposium, Texas, USA, 2017.</p>
 
 	<p>[<span class='intConf'></span>] O. E. Dai, <span class="demir">B. Demir</span>, B. Sankur, L. Bruzzone, "A Novel System for Content Based Retrieval of Multi-Label Remote Sensing Images”, International Conference on Geoscience and Remote Sensing Symposium, Texas, USA, 2017.</p>
 
