@@ -11,10 +11,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<img style="margin-right: 10px" src="./assets/images/begum_demir_2.jpg" align="left" width="200px" class="rounded">
 		<p style="line-height: 200%;">
 		<b>Begüm Demir</b>, Prof., Technische Universität Berlin,<br />
-		Faculty of Electrical Engineering and Computer Science, <br />
-		Berlin, Germany
+		Faculty of Electrical Engineering and Computer Science, Berlin, Germany
 		<br />
-		<i>E-mail:</i> demir [at] bigearth.eu
+		E-mail: demir [at] bigearth.eu
 		</p>
 	</div>
 	<div class="row m-0 my-2">
