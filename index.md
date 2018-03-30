@@ -10,7 +10,7 @@ guid: http://www.begumdemir.com/?page_id=1
 	<div class="row m-0">
 		<img style="margin-right: 10px" src="./assets/images/begum_demir_2.jpg" align="left" width="200px" class="rounded">
 		<p style="line-height: 200%;">
-		<b>Begüm Demir</b>, Prof., Technische Universität Berlin,<br />
+		<b>Begüm Demir</b>, Professor, Technische Universität Berlin,<br />
 		Faculty of Electrical Engineering and Computer Science, Berlin, Germany
 		<br />
 		E-mail: demir [at] bigearth.eu
@@ -21,7 +21,6 @@ guid: http://www.begumdemir.com/?page_id=1
 <p style="line-height: 180%;" class="text-justify">
 <b>Short Bio</b><br>
 My main research interests include image processing and machine learning with applications to remote sensing image analysis.
-<br />
 From 2013 to 2018, I was a Professor at <a href="http://disi.unitn.it" target="_blank">The Department of Information Engineering and Computer Science</a>, University of Trento, Italy and a member of <a href="http://disi.unitn.it/rslab/index.php" target="_blank">Remote Sensing Laboratory (RSLab)</a> at the same university from 2010 to 2018. I received the B.S. degree in 2005, the M.Sc. degree in 2007, and the Ph.D. degree in 2010, all in Electronic and Telecommunication Engineering from <a href="http://www.kocaeli.edu.tr/int/">Kocaeli University</a>, Turkey. I'm a senior member of IEEE since 2016.
 </p>
 	</div>
