@@ -10,25 +10,19 @@ guid: http://www.begumdemir.com/?page_id=1
 	<div class="row m-0">
 		<img style="margin-right: 10px" src="./assets/images/begum_demir_2.jpg" align="left" width="200px" class="rounded">
 		<p style="line-height: 200%;">
-		<b>Begüm Demir</b>, Associate Prof., University of Trento, <br />
-      	Department of Information Engineering and Computer Science, Italy
-      	<br />
-		Via Sommarive, 9 I-38123 Trento, Italy
+		<b>Begüm Demir</b>, Prof.,  Technische Universität Berlin,<br />,
+		Faculty of Electrical Engineering and Computer Science, Berlin, Germany
 		<br />
-		E-mail: demir [at] disi.unitn.it
-		<br />
-		Tel: +39 0 461 283 942
+		E-mail: demir [at] bigearth.eu
 		</p>
 	</div>
 	<div class="row m-0 my-2">
 
 <p style="line-height: 180%;" class="text-justify">
 <b>Short Bio</b><br>
-I received the B.S. degree in 2005, the M.Sc. degree in 2007, and the Ph.D. degree in 2010, all in Electronic and Telecommunication Engineering from <a href="http://www.kocaeli.edu.tr/int/">Kocaeli University</a>, Turkey. During 2005-2010, I was a research and teaching assistant at <a href="http://kulis.kocaeli.edu.tr/index_en.php">KULIS (Kocaeli University Laboratory of Image and Signal processing)</a>. After my Ph.D, I moved to Italy, and during 2010-2013 I worked as a Post-Doc researcher at the <a href="http://disi.unitn.it/rslab/index.php" target="_blank">Remote Sensing Laboratory (RSLab)</a>. And I'm a member of the RSLab since 2010.
+My main research interests include image processing and machine learning with applications to remote sensing image analysis.
 <br />
-From 2013 to 2017, I was an Assistant Professor, at the <a href="http://disi.unitn.it" target="_blank">Department of Information Engineering and Computer Science</a>, University of Trento. Since December 2017, I'm an Associate Professor at the same department. I'm also a senior member of IEEE since 2016.
-<br />
-My main research interests include image processing and machine learning with applications to remote sensing image analysis. 
+From 2013 to 2018, I was a Professor at <a href="http://disi.unitn.it" target="_blank">The Department of Information Engineering and Computer Science</a>, University of Trento, Italy and a member of <a href="http://disi.unitn.it/rslab/index.php" target="_blank">Remote Sensing Laboratory (RSLab)</a> at the same university from 2010 to 2018. I received the B.S. degree in 2005, the M.Sc. degree in 2007, and the Ph.D. degree in 2010, all in Electronic and Telecommunication Engineering from <a href="http://www.kocaeli.edu.tr/int/">Kocaeli University</a>, Turkey. I'm a senior member of IEEE since 2016.
 </p>
 	</div>
 
@@ -52,7 +46,7 @@ My main research interests include image processing and machine learning with ap
 			</li>
 		    	<li class="list-group-item text-justify">
 			<b>September 2017</b> - BigEarth is on <a href="http://www.pressreader.com/italy/corriere-del-trentino/20170916/281487866520040" target="_blank">Corriere del Trentino</a> and on <a href="http://www.buyukkocaeli.com.tr/tarih-seni-yazacak-begum-hoca-11692h.htm" target="_blank">local Turkish newspaper</a>.
-			</li>		
+			</li>
 			<li class="list-group-item text-justify">
 			<b>September 2017</b> - I got an <a href="https://erc.europa.eu" target="_blank">European Research Council (ERC)</a> <a href="https://erc.europa.eu/sites/default/files/document/file/erc_2017_stg_results_pe.pdf" target="_blank">Starting Grant</a> with my project: BigEarth - Accurate and Scalable Processing of Big Data in Earth Observation.  Welcome home <a href="http://www.bigearth.eu" target="_blank">BigEarth</a>!
 			</li>
