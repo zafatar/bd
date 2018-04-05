@@ -13,7 +13,7 @@ guid: http://www.begumdemir.com/?page_id=1
 		<b>Begüm Demir</b>, Professor, Technische Universität Berlin,<br />
 		Faculty of Electrical Engineering and Computer Science, Berlin, Germany
 		<br />
-		E-mail: demir [at] bigearth.eu
+		E-mail: demir [at] tu-berlin.de
 		</p>
 	</div>
 	<div class="row m-0 my-2">
