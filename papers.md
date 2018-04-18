@@ -20,7 +20,7 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intJournal'></span>] O. E. Dai, <span class="demir">B. Demir</span>, B. Sankur, L. Bruzzone, "A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images ", accepted for publication, 2018.</p>
+	<p>[<span class='intJournal'></span>] O. E. Dai, <span class="demir">B. Demir</span>, B. Sankur, L. Bruzzone, "A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, accepted for publication, 2018.</p>
 
 	<p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>
 
@@ -68,9 +68,9 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intJournal'></span>] Y. Yapıcı, <span class="demir">B. Demir</span>, S. Ertürk, O. Urhan, "Down-sampling Based Multiple Description Image Coding using Optimal Filtering", Journal of Electronic Imaging, Vol. 17, No. 3, Article ID 033018, July 2008.</p>
 
-	<p>[<span class='intJournal'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Improved Classification and Segmentation of Hyperspectral Images Using Spectral Warping ", International Journal of Remote Sensing, vol. 29, pp. 3657-3663, June 2008.</p>
+	<p>[<span class='intJournal'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Improved Classification and Segmentation of Hyperspectral Images Using Spectral Warping", International Journal of Remote Sensing, vol. 29, pp. 3657-3663, June 2008.</p>
 
-	<p>[<span class='intJournal'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Phase Correlation based Redundancy Removal in Feature Weighting Band Selection for Hyperspectral Images ", International Journal of Remote Sensing, no. 29, pp. 1801-1807, 2008.</p>
+	<p>[<span class='intJournal'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Phase Correlation based Redundancy Removal in Feature Weighting Band Selection for Hyperspectral Images", International Journal of Remote Sensing, no. 29, pp. 1801-1807, 2008.</p>
 
 	<p>[<span class='intJournal'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Hyperspectral Image Classification Using Relevance Vector Machines", IEEE Geoscience and Remote Sensing Letters, no.4, vol.4, pp.586-590, 2007.</p>
 
@@ -161,13 +161,13 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Empirical mode decomposition based decision fusion for higher hyperspectral image classifıcation accuracy”, International Conference on Geoscience and Remote Sensing Symposium, Honolulu, Hawaii, USA, July 2010.</p>
 
-	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Improving SVM Classification Accuracy Using a Hierarchical Approach for Hyperspectral Images", IEEE International Conference on Image Processing, Nov 2009, Cairo, Egypt.</p>
+	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Improving SVM Classification Accuracy Using a Hierarchical Approach for Hyperspectral Images", IEEE International Conference on Image Processing, Nov 2009, Cairo, Egypt.</p>
 
-	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, O. Urhan, "Improved Quality Multiple Description 3D Mesh Coding with Optimal Filtering", IEEE International Conference on Image Processing, Nov 2009, Cairo, Egypt.</p>
+	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, O. Urhan, "Improved Quality Multiple Description 3D Mesh Coding with Optimal Filtering", IEEE International Conference on Image Processing, Nov 2009, Cairo, Egypt.</p>
 
-	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Accurate SVM Classification Using Border Training Patterns ", First Workshop on Hyperspectral Image and Signal Processing: Evolution on Remote Sensing, August 2009, Grenoble, France.</p>
+	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Accurate SVM Classification Using Border Training Patterns", First Workshop on Hyperspectral Image and Signal Processing: Evolution on Remote Sensing, August 2009, Grenoble, France.</p>
 
-	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "An Empirical Mode Decomposition and Composite Kernel Approach to Increase Hyperspectral Image Classification Accuracy", International Conference on Geosience and Remote Sensing Symposium, Cape Town, South Africa, July 2009.</p>
+	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "An Empirical Mode Decomposition and Composite Kernel Approach to Increase Hyperspectral Image Classification Accuracy", International Conference on Geosience and Remote Sensing Symposium, Cape Town, South Africa, July 2009.</p>
 
 	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, M. K. Güllü, "Wavelet Shrinkage Denoising of Intrinsic Mode Functions of Hyperspectral Image Bands for Classification with High Accuracy", International Conference on Geosience and Remote Sensing Symposium, Cape Town, South Africa, July 2009.</p>
 
@@ -179,9 +179,9 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Empirical Mode Decomposition Pre-Process for Higher Accuracy Hyperspectral Image Classification ", International Conference on Geosience and Remote Sensing Symposium, Boston, Massachusetts, U.S.A, July 2008.</p>
 
-	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Improved Hyperspectral Image Classification with Noise Reduction Pre-Process", European Signal Processing Conference (EUSIPCO-2008),Lausanne, Switzerland, Aug 2008.</p>
+	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Improved Hyperspectral Image Classification with Noise Reduction Pre-Process", European Signal Processing Conference (EUSIPCO-2008),Lausanne, Switzerland, Aug 2008.</p>
 
-	<p>[<span class='intConf'></span>] Ç. Ateş, Y. Ürgün, <span class="demir">B. Demir</span>, O. Urhan, S. Ertürk, "Polyphase Downsampling Based Multiple Description Image Coding using Optimal Filtering with Flexible Redundancy Insertion", IEEE International Conference on Signals and Electronic Systems, pp. 193-196, Sept 2008.</p>
+	<p>[<span class='intConf'></span>] Ç. Ateş, Y. Ürgün, <span class="demir">B. Demir</span>, O. Urhan, S. Ertürk, "Polyphase Downsampling Based Multiple Description Image Coding using Optimal Filtering with Flexible Redundancy Insertion", IEEE International Conference on Signals and Electronic Systems, pp. 193-196, Sept 2008.</p>
 
 	<p>[<span class='intConf'></span>] <span class="demir">B. Demir</span>, S. Ertürk, "Achieving More Sparsity in Hyperspectral SVM Classification Using Unsupervised Pre-segmentation in the Training Phase", 3rd International Conference on Recent Advances in Space Technologies (RAST 2007), 14-16 June 2007, Istanbul, TURKEY, June 2007.</p>
 
