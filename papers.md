@@ -20,7 +20,7 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intJournal'></span>] O. E. Dai, <span class="demir">B. Demir</span>, B. Sankur, L. Bruzzone, "A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images ", under review.</p>
+	<p>[<span class='intJournal'></span>] O. E. Dai, <span class="demir">B. Demir</span>, B. Sankur, L. Bruzzone, "A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images ", accepted for publication, 2018.</p>
 
 	<p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>
 
