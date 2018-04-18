@@ -8,11 +8,11 @@ guid: http://www.begumdemir.com/?page_id=1
 
 <div class="col-lg-8 text-left">
 	<div class="row m-0">
-		<img style="margin-right: 10px" src="./assets/images/begum_demir_2.jpg" align="left" width="200px" class="rounded">
+		<img class="profile rounded" src="./assets/images/begum_demir_2.jpg">
 		<p style="line-height: 200%;">
 		<b>Begüm Demir</b>, Professor, Technische Universität Berlin,<br />
 		Faculty of Electrical Engineering and Computer Science, <br />
-		MAR 6-25,  Marchstr. 23, 10587, Berlin, Germany
+		EN 7-21, Einsteinufer 17, 10587, Berlin, Germany
 		<br />
 		E-mail: demir [at] tu-berlin.de
 		<br />
