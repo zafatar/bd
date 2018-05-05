@@ -85,13 +85,13 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intConf'></span>] I. Tekeste, <span class="demir">B. Demir</span>, "Advanced Local Binary Patterns for Remote Sensing Image Retrieval", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.</p>
 
-	<p>[<span class='intConf'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Semantic-Fusion GANs for Semi-Supervised Satellite Image Classification", International Conference on Image Processing, Athens, Greece, under review.</p>
+	<p>[<span class='intConf'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Semantic-Fusion GANs for Semi-Supervised Satellite Image Classification", International Conference on Image Processing, Athens, Greece, 2018.</p>
 
 	<p>[<span class='intConf'></span>] L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, D. Günther, T. Marke, C. Notarnicola, "A Novel Data Fusion Technique for Snow Parameter Retrieval",  International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.</p>
 
 	<p>[<span class='intConf'></span>] M. Callegari, C. Marin, D. Günther, P. Rastner, L. Bruzzone, <span class="demir">B. Demir</span>, T. Marke, U. Strasser, M. Zebisch, C. Notarnicola, "Integration of Remote Sensing with a Hydroclimatological Model for an Improved Monitoring of Alpine Glaciers", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.</p>
 
-	<p>[<span class='intConf'></span>] L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, D. Günther, T. Marke, M-J. Polo, M-J,Pérez-Palazón, C. Notarnicola,"Integration of a Hydroclimatological Model and Remote Sensing Products for Improving Snow Cover Mapping in Mountain Areas", Remote Sensing and Hydrology Symposium, under review.</p>
+	<p>[<span class='intConf'></span>] L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, D. Günther, T. Marke, M-J. Polo, M-J,Pérez-Palazón, C. Notarnicola, "Integration of a Hydroclimatological Model and Remote Sensing Products for Improving Snow Cover Mapping in Mountain Areas", Remote Sensing and Hydrology Symposium, Cordoba, Spain, 2018.</p>
 
     <p>[<span class='intConf'></span>] L. D. Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, D. Günther, C. Notarnicola, "Fusion of remote sensing and hydrological model data for improving snow mapping", International Conference on Snow Hydrology, Heidelberg, Germany, 2018.</p>
 
