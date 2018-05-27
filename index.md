@@ -10,13 +10,15 @@ guid: http://www.begumdemir.com/?page_id=1
 	<div class="row m-0">
 		<img class="profile rounded" src="./assets/images/begum_demir_2.jpg">
 		<p style="line-height: 200%;">
-		<b>Begüm Demir</b>, Professor, Technische Universität Berlin,<br />
+		<b>Begüm Demir</b>,<br />
+		Professor and Chair of the Remote Sensing Image Analysis (RSiM) Group,<br />
+		Technische Universität Berlin,<br />
 		Faculty of Electrical Engineering and Computer Science, <br />
 		EN 7-21, Einsteinufer 17, 10587, Berlin, Germany
 		<br />
 		E-mail: demir [at] tu-berlin.de
 		<br />
-		Tel:+49 (0) 30 3147 6672		
+		Tel:+49 (0) 30 3147 6672
                 </p>
 	</div>
 	<div class="row m-0 my-2">
