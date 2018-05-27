@@ -35,7 +35,6 @@ guid: http://www.begumdemir.com/?page_id=74
   <div id="caption"></div>
 </div>
 
-
 <script>
 // Get the modal
 var modal = document.getElementById('modalBox');
@@ -78,6 +77,7 @@ span.onclick = function() {
     overflow: auto; /* Enable scroll if needed */
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+    z-index: 2030;
 }
 
 /* Modal Content (Image) */
