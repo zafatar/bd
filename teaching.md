@@ -29,7 +29,7 @@ guid: http://www.begumdemir.com/?page_id=74
 
 <!-- Modal -->
 <!-- The Modal -->
-<div id="myModal" class="modal">
+<div id="modalBox" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="dspImg">
   <div id="caption"></div>
@@ -38,7 +38,7 @@ guid: http://www.begumdemir.com/?page_id=74
 
 <script>
 // Get the modal
-var modal = document.getElementById('myModal');
+var modal = document.getElementById('modalBox');
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
 var img = document.getElementById('myImg');
