@@ -46,6 +46,7 @@ var modalImg = document.getElementById("dspImg");
 var captionText = document.getElementById("caption");
 
 img.onclick = function(){
+  alert("Zart"); 
     modal.style.display = "block";
     modalImg.src = this.src;
     captionText.innerHTML = this.alt;
@@ -62,12 +63,6 @@ span.onclick = function() {
 
 <style type="text/css">
  /* Style the Image Used to Trigger the Modal */
-/*#dspImg {
-    border-radius: 5px;
-    cursor: pointer;
-    transition: 0.3s;
-}
-*/
 #dspImg:hover {opacity: 0.7;}
 
 /* The Modal (background) */
