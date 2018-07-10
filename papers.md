@@ -81,6 +81,10 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Conferences</h3>
 
 <div class="container text-justify p-0">
+	<p>[<span class='intConf'></span>] B. T. Zegeye, and <span class="demir">B. Demir</span>, “A novel active learning technique for multilabel remote sensing image scene classification”, SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.</p>
+
+	<p>[<span class='intConf'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, “A novel coarse-to-fine remote sensing image retrieval system in JPEG-2000 compressed domain”, SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.</p>
+
     <p>[<span class='intConf'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Deep Metric and Hash-Code Learning for Content-Based Retrieval of Remote Sensing Images", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.</p>
 
 	<p>[<span class='intConf'></span>] I. Tekeste, <span class="demir">B. Demir</span>, "Advanced Local Binary Patterns for Remote Sensing Image Retrieval", International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.</p>
