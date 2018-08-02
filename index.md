@@ -14,7 +14,7 @@ guid: http://www.begumdemir.com/?page_id=1
 		Professor and Chair of the <a href="https://www.rsim.tu-berlin.de" target="_blank">Remote Sensing Image Analysis (RSiM) Group</a> <br />
 		Technische Universität Berlin<br />
 		Faculty of Electrical Engineering and Computer Science<br />
-		EN 6-27, Einsteinufer 17, 10587, Berlin, Germany
+		EN 627, Einsteinufer 17, 10587, Berlin, Germany
 		<br />
 		E-mail: demir [at] tu-berlin.de
 		<br />
