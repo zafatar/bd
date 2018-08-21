@@ -22,11 +22,11 @@ guid: http://www.begumdemir.com/papers.html
 <div class="container text-justify p-0">
 	<p>[<span class='intJournal'></span>] O. E. Dai, <span class="demir">B. Demir</span>, B. Sankur, L. Bruzzone, "A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 7, pp. 2473-2490, 2018.</p>
 
-	<!-- <p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>
+	<!-- <p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>-->
 
-	<p>[<span class='intJournal'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "A Novel Unsupervised Multi-Code Hashing Strategy for Accurate and Scalable Remote Sensing Image Retrieval", under review.</p>
+	<p>[<span class='intJournal'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "A Novel Unsupervised Multi-Code Hashing Strategy for Accurate and Scalable Remote Sensing Image Retrieval", accepted for publication.</p>
 
-	<p>[<span class='intJournal'></span>] E. Riz, <span class="demir">B. Demir</span>, L. Bruzzone, "Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images", under preparation.</p> 
+	<!-- <p>[<span class='intJournal'></span>] E. Riz, <span class="demir">B. Demir</span>, L. Bruzzone, "Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images", under preparation.</p> 
 
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
 
