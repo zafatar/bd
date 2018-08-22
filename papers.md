@@ -24,7 +24,7 @@ guid: http://www.begumdemir.com/papers.html
 
 	<!-- <p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>-->
 
-	<p>[<span class='intJournal'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "A Novel Unsupervised Multi-Code Hashing Strategy for Accurate and Scalable Remote Sensing Image Retrieval", accepted for publication.</p>
+	<p>[<span class='intJournal'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "A Novel Unsupervised Multi-Code Hashing Strategy for Accurate and Scalable Remote Sensing Image Retrieval", IEEE Geoscience and Remote Sensing Letters, accepted for publication.</p>
 
 	<!-- <p>[<span class='intJournal'></span>] E. Riz, <span class="demir">B. Demir</span>, L. Bruzzone, "Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images", under preparation.</p> 
 
