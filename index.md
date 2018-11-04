@@ -39,6 +39,9 @@ From 2013 to 2018, I was a Professor at <a href="http://disi.unitn.it" target="_
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>November 2018</b> - I have been appointed as an Associate Editor for the <a href="http://www.grss-ieee.org/publication-category/grsl/" target="_blank">IEEE Geoscience and Remote Sensing Letters</a>. 
+			</li>
+			<li class="list-group-item text-justify">
 				<b>July 2018</b> - I'm the recipient of the prestigious <b>"2018 Early Career Award"</b> presented by the IEEE Geoscience and Remote Sensing Society (GRSS).
 			</li>
 			<li class="list-group-item text-justify">
