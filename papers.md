@@ -81,7 +81,9 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Conferences</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intConf'></span>] B. T. Zegeye, and <span class="demir">B. Demir</span>, "A novel active learning technique for multilabel remote sensing image scene classification", SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.</p>
+	<p>[<span class='intConf'></span>] Konstantina Bereta, Manolis Koubarakis, Stefan Manegold, George Stamoulis, <span class="demir">B. Demir</span>, "From Big Data to Big Information and Big Knowledge: the Case of Earth Observation Data", Proceedings of the 27th ACM International Conference on Information and Knowledge Management, 2018</p>
+
+	<p>[<span class='intConf'></span>] B. T. Zegeye, <span class="demir">B. Demir</span>, "A novel active learning technique for multilabel remote sensing image scene classification", SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.</p>
 
 	<p>[<span class='intConf'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A novel coarse-to-fine remote sensing image retrieval system in JPEG-2000 compressed domain", SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.</p>
 
