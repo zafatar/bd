@@ -39,7 +39,7 @@ From 2013 to 2018, I was a Professor at <a href="http://disi.unitn.it" target="_
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
-				<b>March 2019</b> - I'm a Guest Editor of the two special issues within the MPDI Remote Sensing journal, which are <a href="https://www.mdpi.com/journal/remotesensing/special_issues/Data_Mining_Hyperspectral" target="_blank">Deep Learning and Data Mining for Hyperspectral Imagery</a>" and "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/BigData_UrbanMapping" target="_blank">Big Data in Remote Sensing for Urban Mapping</a>". 
+				<b>March 2019</b> - I'm a Guest Editor of the two special issues within the MPDI Remote Sensing journal, which are "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/Data_Mining_Hyperspectral" target="_blank">Deep Learning and Data Mining for Hyperspectral Imagery</a>" and "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/BigData_UrbanMapping" target="_blank">Big Data in Remote Sensing for Urban Mapping</a>". 
 			</li>
 			<li class="list-group-item text-justify">
 				<b>November 2018</b> - I have been appointed as an Associate Editor for the <a href="http://www.grss-ieee.org/publication-category/grsl/" target="_blank">IEEE Geoscience and Remote Sensing Letters</a>. 
