@@ -26,6 +26,12 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
 
+	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, “Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images”, under review.</p>
+
+	<p>[<span class='intJournal'></span>] H. M. Nguyen, <span class="demir">B. Demir</span>, and M. Dalponte, “Tree Species Classification at Individual Tree Crown Level using Weighted SVM and Lidar Data”, under review.</p>
+
+	<p>[<span class='intJournal'></span>] L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, T. Marke, D. Günther, R. Nadalet, C. Notarnicola, “A Novel Data Fusion Technique for Snow Cover Retrieval”, under review.</p>
+
 	<p>[<span class='intJournal'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "An Unsupervised Multicode Hashing Method for Accurate and Scalable Remote Sensing Image Retrieval", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 2, pp. 276- 280, Feb. 2019.</p>
 
 	<p>[<span class='intJournal'></span>] O. E. Dai, <span class="demir">B. Demir</span>, B. Sankur, L. Bruzzone, "A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 7, pp. 2473-2490, 2018.</p>
