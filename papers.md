@@ -25,6 +25,13 @@ guid: http://www.begumdemir.com/papers.html
 	<p>[<span class='intJournal'></span>] E. Riz, <span class="demir">B. Demir</span>, L. Bruzzone, "Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images", under preparation.</p> 
 
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
+	<p>[<span class='intJournal'></span>] G. Sumbul, M. Charfuelan, <span class="demir">B. Demir</span>, V. Markl, “BIGEARTHNET: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding”,  IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
+	
+ 	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, “A CNN-RNN Framework with A Novel Patch-Based Multi-Attention Mechanism for Multi-Label Image Classification in Remote Sensing”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
+
+ 	<p>[<span class='intJournal'></span>] G. Hoxha, F. Melgani, <span class="demir">B. Demir</span>, “Retrieving Images with Generated Textual Descriptions”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
+
+	<p>[<span class='intJournal'></span>] H. M. Nguyen, <span class="demir">B. Demir</span>, M. Dalponte, “Weighted Support Vector Machines for Tree Species Classification using Lidar Data”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 
 	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, “Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images”, under review.</p>
 
