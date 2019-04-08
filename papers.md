@@ -90,13 +90,13 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Conferences</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intJournal'></span>] G. Sumbul, M. Charfuelan, <span class="demir">B. Demir</span>, V. Markl, “BIGEARTHNET: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding”,  IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
+	<p>[<span class='intConf'></span>] G. Sumbul, M. Charfuelan, <span class="demir">B. Demir</span>, V. Markl, “BIGEARTHNET: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding”,  IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 	
- 	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, “A CNN-RNN Framework with A Novel Patch-Based Multi-Attention Mechanism for Multi-Label Image Classification in Remote Sensing”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
+ 	<p>[<span class='intConf'></span>] G. Sumbul, <span class="demir">B. Demir</span>, “A CNN-RNN Framework with A Novel Patch-Based Multi-Attention Mechanism for Multi-Label Image Classification in Remote Sensing”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 
- 	<p>[<span class='intJournal'></span>] G. Hoxha, F. Melgani, <span class="demir">B. Demir</span>, “Retrieving Images with Generated Textual Descriptions”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
+ 	<p>[<span class='intConf'></span>] G. Hoxha, F. Melgani, <span class="demir">B. Demir</span>, “Retrieving Images with Generated Textual Descriptions”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 
-	<p>[<span class='intJournal'></span>] H. M. Nguyen, <span class="demir">B. Demir</span>, M. Dalponte, “Weighted Support Vector Machines for Tree Species Classification using Lidar Data”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
+	<p>[<span class='intConf'></span>] H. M. Nguyen, <span class="demir">B. Demir</span>, M. Dalponte, “Weighted Support Vector Machines for Tree Species Classification using Lidar Data”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 
 	<p>[<span class='intConf'></span>] K. Bereta, M. Koubarakis, S. Manegold, G. Stamoulis, <span class="demir">B. Demir</span>, "From Big Data to Big Information and Big Knowledge: the Case of Earth Observation Data", Proceedings of the 27th ACM International Conference on Information and Knowledge Management, 2018.</p>
 
