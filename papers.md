@@ -29,9 +29,9 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intJournal'></span>] H. M. Nguyen, <span class="demir">B. Demir</span>, and M. Dalponte, “Tree Species Classification at Individual Tree Crown Level using Weighted SVM and Lidar Data”, under review.</p>
 
-	<p>[<span class='intJournal'></span>] L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, T. Marke, D. Günther, R. Nadalet, C. Notarnicola, “A Novel Data Fusion Technique for Snow Cover Retrieval”, under review.</p>
-
 	<p>[<span class='intJournal'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives", under review.</p>
+
+	<p>[<span class='intJournal'></span>] L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, T. Marke, D. Günther, R. Nadalet, C. Notarnicola, “A Novel Data Fusion Technique for Snow Cover Retrieval”, 2019, accepted for publication.</p>
 
 	<p>[<span class='intJournal'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "An Unsupervised Multicode Hashing Method for Accurate and Scalable Remote Sensing Image Retrieval", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 2, pp. 276- 280, Feb. 2019.</p>
 
