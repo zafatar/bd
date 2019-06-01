@@ -11,6 +11,12 @@ guid: http://www.begumdemir.com/?page_id=74
   <div class="row m-0">
     <div class="col-lg-8 p-0 text-left">
       <span class="list-group-item list-group-item-action">
+        <a title="https://www.rsim.tu-berlin.de/menue/teaching/" target="_blank">Image Processing for Remote Sensing</a>, TU Berlin, Faculty of Electrical Engineering and Computer Science, Summer Term 2019.
+      </span>
+      <span class="list-group-item list-group-item-action">
+        <a title="https://www.rsim.tu-berlin.de/menue/teaching/" target="_blank">Machine Learning for Remote Sensing Data Analysis</a>, TU Berlin, Faculty of Electrical Engineering and Computer Science, Winter Term  2018.
+      </span>
+      <span class="list-group-item list-group-item-action">
         <a title="Digital Signal Processing" href="https://rslab-tech.disi.unitn.it/moodle/course/view.php?id=17" target="_blank">Digital Signal Processing</a>, Main Lecturer from 2013 to 2018 at the Department of Information Engineering and Computer Science, University of Trento, Italy.
       </span>
       <span class="list-group-item list-group-item-action">
