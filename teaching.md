@@ -11,10 +11,10 @@ guid: http://www.begumdemir.com/?page_id=74
   <div class="row m-0">
     <div class="col-lg-8 p-0 text-left">
       <span class="list-group-item list-group-item-action">
-        <a title="Digital Signal Processing" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=17" target="_blank">Digital Signal Processing</a>, Main Lecturer from 2013 to 2018 at the Department of Information Engineering and Computer Science, University of Trento, Italy.
+        <a title="Digital Signal Processing" href="https://rslab-tech.disi.unitn.it/moodle/course/view.php?id=17" target="_blank">Digital Signal Processing</a>, Main Lecturer from 2013 to 2018 at the Department of Information Engineering and Computer Science, University of Trento, Italy.
       </span>
       <span class="list-group-item list-group-item-action">
-        <a title="Remote Sensing Systems" href="http://rslab-tech.disi.unitn.it/moodle/course/view.php?id=10" target="_blank">Remote Sensing Systems</a>, Supporting Lecturer from 2015 to 2016 at the Department of Information Engineering and Computer Science, University of Trento, Italy.
+        <a title="Remote Sensing Systems" href="https://rslab-tech.disi.unitn.it/moodle/course/view.php?id=10" target="_blank">Remote Sensing Systems</a>, Supporting Lecturer from 2015 to 2016 at the Department of Information Engineering and Computer Science, University of Trento, Italy.
       </span>
       <span class="list-group-item list-group-item-action">Pattern Recognition, Supporting Lecturer in 2013 at the Department of Information Engineering and Computer Science, University of Trento, Italy.
       </span>
