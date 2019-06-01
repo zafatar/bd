@@ -32,9 +32,15 @@ guid: http://www.begumdemir.com/?page_id=1
 <div class="row m-0 my-2">
 	<!-- News Widget -->
 	<div class="card">
-    	<h5 class="card-header b-0">Latest News</h5>
+    	<h5 class="card-header b-0">Latest News</h5>	
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
+			<li class="list-group-item text-justify">
+				<b>June 2019</b> - I will be the Keynote Speaker at <a href="https://www.cosmostat.org/events/workshop-on-computational-intelligence-in-remote-sensing-and-astrophysics">the Workshop on Computational Intelligence in Remote Sensing and Astrophysics</a>, Crete, Greece, July 2019. The talk will be on "Scalable Processing of Big Data in Earth Observation".</a>. 
+			</li>
+			<li class="list-group-item text-justify">
+				<b>May 2019</b> - I'm a Guest Editor of the special issue on "Recent Advances in Geoscience and Remote Sensing: Technologies, Standards and Applications" of the IEEE Geoscience and Remote Sensing Letters.</a>. 
+			</li>
 			<li class="list-group-item text-justify">
 				<b>March 2019</b> - I'm a Guest Editor of the two special issues within the MPDI Remote Sensing journal, which are "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/Data_Mining_Hyperspectral" target="_blank">Deep Learning and Data Mining for Hyperspectral Imagery</a>" and "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/BigData_UrbanMapping" target="_blank">Big Data in Remote Sensing for Urban Mapping</a>". 
 			</li>
