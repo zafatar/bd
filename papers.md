@@ -92,7 +92,7 @@ guid: http://www.begumdemir.com/papers.html
 <div class="container text-justify p-0">
 	<p>[<span class='intConf'></span>] G. Sumbul, M. Charfuelan, <span class="demir">B. Demir</span>, V. Markl, “BIGEARTHNET: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding”,  IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 	
- 	<p>[<span class='intConf'></span>] G. Sumbul, <span class="demir">B. Demir</span>, “A CNN-RNN Framework with A Novel Patch-Based Multi-Attention Mechanism for Multi-Label Image Classification in Remote Sensing”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
+ 	<p>[<span class='intConf'></span>] G. Sumbul, <span class="demir">B. Demir</span>, “A Novel Multi-Attention Driven System for Multi-Label Remote Sensing Image Classification”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 
  	<p>[<span class='intConf'></span>] G. Hoxha, F. Melgani, <span class="demir">B. Demir</span>, “Retrieving Images with Generated Textual Descriptions”, IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 
