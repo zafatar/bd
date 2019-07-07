@@ -36,6 +36,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>July 2019</b> - I’m a Principle Investigator of a new project 'IDEAL-VGI - Information Discovery from Big Earth Observation Data Archives by Learning from Volunteered Geographic Information', which is funded by the <a href="https://www.dfg.de/en/" target="_blank">German Research Foundation</a> for the period 2019-2022.
+			</li>
+			<li class="list-group-item text-justify">
 				<b>June 2019</b> - I'm an Invited Lecturer at the <a href="https://gr4s2019.org/" target="_blank">2019 Geoscience and Remote Sensing Summer School</a> organized by IEEE  Geoscience and Remote Sensing Society in Yokohama, Japan, in July 2019.
 			</li>
 			<li class="list-group-item text-justify">
