@@ -21,17 +21,16 @@ guid: http://www.begumdemir.com/papers.html
 
 <div class="container text-justify p-0">
 	<!-- <p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>
-
 	<p>[<span class='intJournal'></span>] E. Riz, <span class="demir">B. Demir</span>, L. Bruzzone, "Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images", under preparation.</p> 
-
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
-	<p>[<span class='intJournal'></span>] M. L. Mekhalfi, M. B. Bejiga, D. Soresina, F. Melgani, <span class="demir">B. Demir</span>, "Capsule Networks for Object Detection in UAV Imagery", under review.</p>
 
 	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", under review.</p>
 
 	<p>[<span class='intJournal'></span>] H. M. Nguyen, <span class="demir">B. Demir</span>, and M. Dalponte, "Tree Species Classification at Individual Tree Crown Level using Weighted SVM and Lidar Data", under review.</p>
 
 	<p>[<span class='intJournal'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives", under review.</p>
+
+	<p>[<span class='intJournal'></span>] M. L. Mekhalfi, M. B. Bejiga, D. Soresina, F. Melgani, <span class="demir">B. Demir</span>, "Capsule Networks for Object Detection in UAV Imagery", MDPI Remote Sensing, 2019, accepted for publication.</p>
 
 	<p>[<span class='intJournal'></span>] L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, T. Marke, D. Günther, R. Nadalet, C. Notarnicola, "A Novel Data Fusion Technique for Snow Cover Retrieval", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019, accepted for publication.</p>
 
