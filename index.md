@@ -36,6 +36,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>September 2019</b> - I will be a Keynote Speaker at: 1) the <a href="https://phiweek.esa.int" target="_blank">Φ-week</a> organized by the European Space Agency (ESA); and 2) the <a href="http://www.gi4dm2019.org" target="_blank">GeoInformation for Disaster Management Conference</a> in Prague. Both talks will be on " Machine Learning for Information Discovery from Big Earth Observation Data Archives".
+			</li>
+			<li class="list-group-item text-justify">
 				<b>July 2019</b> - I’m a Principle Investigator of a new project 'IDEAL-VGI - Information Discovery from Big Earth Observation Data Archives by Learning from Volunteered Geographic Information', which is funded by the <a href="https://www.dfg.de/en/" target="_blank">German Research Foundation</a> for the period 2019-2022.
 			</li>
 			<li class="list-group-item text-justify">
