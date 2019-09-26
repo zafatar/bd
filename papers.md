@@ -30,9 +30,9 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intJournal'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives", under review.</p>
 
-	<p>[<span class='intJournal'></span>] M. L. Mekhalfi, M. B. Bejiga, D. Soresina, F. Melgani, <span class="demir">B. Demir</span>, "Capsule Networks for Object Detection in UAV Imagery", MDPI Remote Sensing, 2019, accepted for publication.</p>
+	<p>[<span class='intJournal'></span>] M. L. Mekhalfi, M. B. Bejiga, D. Soresina, F. Melgani, <span class="demir">B. Demir</span>, "Capsule Networks for Object Detection in UAV Imagery", MDPI Remote Sensing, vol. 11, no. 14, pp. 1694, 2019.</p>
 
-	<p>[<span class='intJournal'></span>] L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, T. Marke, D. Günther, R. Nadalet, C. Notarnicola, "A Novel Data Fusion Technique for Snow Cover Retrieval", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019, accepted for publication.</p>
+	<p>[<span class='intJournal'></span>] L. De Gregorio, M. Callegari, C. Marin, M. Zebisch, L. Bruzzone, <span class="demir">B. Demir</span>, U. Strasser, T. Marke, D. Günther, R. Nadalet, C. Notarnicola, "A Novel Data Fusion Technique for Snow Cover Retrieval", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 12, no. 8, pp. 2862-2877, 2019.</p>
 
 	<p>[<span class='intJournal'></span>] T. Reato, <span class="demir">B. Demir</span>, L. Bruzzone, "An Unsupervised Multicode Hashing Method for Accurate and Scalable Remote Sensing Image Retrieval", IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 2, pp. 276- 280, Feb. 2019.</p>
 
@@ -91,6 +91,8 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Conferences</h3>
 
 <div class="container text-justify p-0">
+	<p>[<span class='intConf'></span>] A. P. Byju, G. Sumbul, <span class="demir">B. Demir</span>, L. Bruzzone, "Approximating JPEG 2000 wavelet representation through deep neural networks for remote sensing image scene classification", SPIE Image and Signal Processing for Remote Sensing, Strasbourg, France, 2019.</p>
+
 	<p>[<span class='intConf'></span>] G. Sumbul, M. Charfuelan, <span class="demir">B. Demir</span>, V. Markl, "BIGEARTHNET: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding",  IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 	
  	<p>[<span class='intConf'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "A Novel Multi-Attention Driven System for Multi-Label Remote Sensing Image Classification", IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
