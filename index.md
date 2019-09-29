@@ -23,8 +23,9 @@ guid: http://www.begumdemir.com/?page_id=1
 	</div>
 	<div class="col-lg-3 text-left p-0">
 		<div class="text-right pb-3">
-			<a class="nav-link active p-0 pb-4" href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank"><img src="assets/images/logos/RSiM.png" width="40%" /></a>
-	        <a class="nav-link active p-0 pb-2" href="http://www.bigearth.eu" target="_blank"><img src="assets/images/logos/BigEarth.png" width="70%" /></a>
+			<a class="nav-link active p-0 pb-3" href="http://www.tu-berlin.de" target="_blank"><img src="assets/images/logos/TU_Berlin.png" width="40%" /></a>
+			<a class="nav-link active p-0 pb-3" href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank"><img src="assets/images/logos/RSiM.png" width="40%" /></a>
+	        <a class="nav-link active p-0 pb-3" href="http://www.bigearth.eu" target="_blank"><img src="assets/images/logos/BigEarth.png" width="70%" /></a>
 	        <a class="nav-link active p-0 pb-3" href="https://erc.europa.eu/" target="_blank"><img src="assets/images/logos/ERC.png" width="30%" /></a>
 		</div>
 	</div>
