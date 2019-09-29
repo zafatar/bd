@@ -8,14 +8,14 @@ guid: http://www.begumdemir.com/?page_id=4
 ---
 
 <div class="col-lg-12 text-left">
-	<h3>Projects for which I'm the Principal Investigator:</h3>
+	<h3>Current Projects</h3>
 	<ul class="px-3">
 		<li class="pb-3"><a href="http://www.bigearth.eu" target="_blank">BigEarth</a> - Accurate and Scalable Processing of Big Data in Earth Observation, <a href="https://erc.europa.eu" target="_blank">ERC</a> Starting Grant, Principle Investigator (2018-2023)</li>
 
 		<li class="pb-3">IDEAL-VGI - Information Discovery from Big Earth Observation Data Archives by Learning from Volunteered Geographic Information, <a href="https://www.dfg.de/en/" target="_blank">German Research Foundation</a> (the Priority Programme "Volunteered Geographic Information: Interpretation, Visualisation and Social Computing"), Principle Investigator (2019-2022).</li>
 	</ul>
 
-	<h3>Projects that I'm currently involved in or participated in the past are in the following:</h3>
+	<h3>Past Projects</h3>
 	<ul class="px-3">
 		<li class="pb-3">CRYOMON-SciPro - Improve the Science of Processes within the Cryosphere by Integrating Hydrological Modelling with Remote Sensing in a Multi-Level Data Fusion Approach (EUREGIO) (2016-2018).</li>
 
