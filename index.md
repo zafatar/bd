@@ -37,6 +37,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://stellenticket.de/72624/?lang=en" target="_blank">link</a>. 
+			</li>
+			<li class="list-group-item text-justify">
 				<b>September 2019</b> - I will be a Keynote Speaker at: 1) <a href="https://phiweek.esa.int" target="_blank">the Φ-week</a> organized by the European Space Agency (ESA) in Frascati, Italy; and 2) <a href="http://www.gi4dm2019.org" target="_blank">the GeoInformation for Disaster Management Conference</a> in Prague, Czech Republic. Both talks will be on " Machine Learning for Information Discovery from Big Earth Observation Data Archives".
 			</li>
 			<li class="list-group-item text-justify">
