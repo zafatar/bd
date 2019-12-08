@@ -25,7 +25,7 @@ guid: http://www.begumdemir.com/papers.html
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
 	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "Multi-Label Remote Sensing Image Classification Using a Deep Multi-Attention Driven Approach", under review.</p>
 
-	<p>[<span class='intJournal'></span>] R. Fernandez-Beltran, B. Demir, Senior, F. Pla and A. Plaza, "Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing", under review.</p>
+	<p>[<span class='intJournal'></span>] R. Fernandez-Beltran, <span class="demir">B. Demir</span>, F. Pla and A. Plaza, "Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing", under review.</p>
 
 	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", under review.</p>
 
