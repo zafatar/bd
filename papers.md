@@ -23,12 +23,15 @@ guid: http://www.begumdemir.com/papers.html
 	<!-- <p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>
 	<p>[<span class='intJournal'></span>] E. Riz, <span class="demir">B. Demir</span>, L. Bruzzone, "Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images", under preparation.</p> 
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
+	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "Multi-Label Remote Sensing Image Classification Using a Deep Multi-Attention Driven Approach", under review.</p>
+
+	<p>[<span class='intJournal'></span>] R. Fernandez-Beltran, B. Demir, Senior, F. Pla and A. Plaza, "Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing", under review.</p>
 
 	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", under review.</p>
 
-	<p>[<span class='intJournal'></span>] H. M. Nguyen, <span class="demir">B. Demir</span>, and M. Dalponte, "Tree Species Classification at Individual Tree Crown Level using Weighted SVM and Lidar Data", under review.</p>
-
 	<p>[<span class='intJournal'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives", under review.</p>
+
+	<p>[<span class='intJournal'></span>] H. M. Nguyen, <span class="demir">B. Demir</span>, and M. Dalponte, "Tree Species Classification at Individual Tree Crown Level using Weighted SVM and Lidar Data", MDPI Remote Sensing, 2019.</p>
 
 	<p>[<span class='intJournal'></span>] M. L. Mekhalfi, M. B. Bejiga, D. Soresina, F. Melgani, <span class="demir">B. Demir</span>, "Capsule Networks for Object Detection in UAV Imagery", MDPI Remote Sensing, vol. 11, no. 14, pp. 1694, 2019.</p>
 
