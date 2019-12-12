@@ -29,15 +29,15 @@ guid: http://www.begumdemir.com/?page_id=1
 	        <a class="nav-link active p-0 pb-3" href="https://erc.europa.eu/" target="_blank"><img src="assets/images/logos/ERC.png" width="30%" /></a>
 		</div>
 	</div>
-</div> 
+</div>
 <div class="row m-0 my-2">
 	<!-- News Widget -->
 	<div class="card">
-    	<h5 class="card-header b-0">Latest News</h5>	
+    	<h5 class="card-header b-0">Latest News</h5>
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
-				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://stellenticket.de/72624/?lang=en" target="_blank">link</a>. 
+				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://tub.stellenticket.de/en/offers/74416/" target="_blank">link</a>.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>September 2019</b> - I will be a Keynote Speaker at: 1) <a href="https://phiweek.esa.int" target="_blank">the Φ-week</a> organized by the European Space Agency (ESA) in Frascati, Italy; and 2) <a href="http://www.gi4dm2019.org" target="_blank">the GeoInformation for Disaster Management Conference</a> in Prague, Czech Republic. Both talks will be on " Machine Learning for Information Discovery from Big Earth Observation Data Archives".
@@ -49,16 +49,16 @@ guid: http://www.begumdemir.com/?page_id=1
 				<b>June 2019</b> - I'm an Invited Lecturer at the <a href="https://gr4s2019.org/" target="_blank">2019 Geoscience and Remote Sensing Summer School</a> organized by IEEE  Geoscience and Remote Sensing Society in Yokohama, Japan, in July 2019.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>June 2019</b> - I will be an Invited Speaker at <a href="https://www.cosmostat.org/events/workshop-on-computational-intelligence-in-remote-sensing-and-astrophysics" target="_blank">the Workshop on Computational Intelligence in Remote Sensing and Astrophysics</a>, Crete, Greece, July 2019. The talk will be on "Scalable Processing of Big Data in Earth Observation". 
+				<b>June 2019</b> - I will be an Invited Speaker at <a href="https://www.cosmostat.org/events/workshop-on-computational-intelligence-in-remote-sensing-and-astrophysics" target="_blank">the Workshop on Computational Intelligence in Remote Sensing and Astrophysics</a>, Crete, Greece, July 2019. The talk will be on "Scalable Processing of Big Data in Earth Observation".
 			</li>
 			<li class="list-group-item text-justify">
-				<b>May 2019</b> - I'm a Guest Editor of the special issue on "Recent Advances in Geoscience and Remote Sensing: Technologies, Standards and Applications" of the IEEE Geoscience and Remote Sensing Letters. 
+				<b>May 2019</b> - I'm a Guest Editor of the special issue on "Recent Advances in Geoscience and Remote Sensing: Technologies, Standards and Applications" of the IEEE Geoscience and Remote Sensing Letters.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>March 2019</b> - I'm a Guest Editor of the two special issues within the MPDI Remote Sensing journal, which are "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/Data_Mining_Hyperspectral" target="_blank">Deep Learning and Data Mining for Hyperspectral Imagery</a>" and "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/BigData_UrbanMapping" target="_blank">Big Data in Remote Sensing for Urban Mapping</a>". 
+				<b>March 2019</b> - I'm a Guest Editor of the two special issues within the MPDI Remote Sensing journal, which are "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/Data_Mining_Hyperspectral" target="_blank">Deep Learning and Data Mining for Hyperspectral Imagery</a>" and "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/BigData_UrbanMapping" target="_blank">Big Data in Remote Sensing for Urban Mapping</a>".
 			</li>
 			<li class="list-group-item text-justify">
-				<b>November 2018</b> - I have been appointed as an Associate Editor for the <a href="http://www.grss-ieee.org/publication-category/grsl/" target="_blank">IEEE Geoscience and Remote Sensing Letters</a>. 
+				<b>November 2018</b> - I have been appointed as an Associate Editor for the <a href="http://www.grss-ieee.org/publication-category/grsl/" target="_blank">IEEE Geoscience and Remote Sensing Letters</a>.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>July 2018</b> - I'm the recipient of the prestigious <b>"2018 Early Career Award"</b> presented by the IEEE Geoscience and Remote Sensing Society (GRSS).
@@ -88,7 +88,7 @@ guid: http://www.begumdemir.com/?page_id=1
 	<b>Short Bio</b><br>
 	My main research interests include image processing and machine learning with applications to remote sensing image analysis.
 	From 2013 to 2018, I was a Professor at <a href="http://disi.unitn.it" target="_blank">The Department of Information Engineering and Computer Science</a>, University of Trento, Italy and a member of <a href="http://disi.unitn.it/rslab/index.php" target="_blank">Remote Sensing Laboratory (RSLab)</a> at the same university from 2010 to 2018. I received the B.S. degree in 2005, the M.Sc. degree in 2007, and the Ph.D. degree in 2010, all in Electronic and Telecommunication Engineering from <a href="http://www.kocaeli.edu.tr/int/">Kocaeli University</a>, Turkey. I'm a senior member of IEEE since 2016.
-	</p> 
+	</p>
 -->
 <!--
 <div class="col-lg-4 text-left">
