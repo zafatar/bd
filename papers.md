@@ -29,7 +29,7 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", under review.</p>
 
-	<p>[<span class='intJournal'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives", under review.</p>
+	<p>[<span class='intJournal'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.</p>
 
 	<p>[<span class='intJournal'></span>] H. M. Nguyen, <span class="demir">B. Demir</span>, and M. Dalponte, "Tree Species Classification at Individual Tree Crown Level using Weighted SVM and Lidar Data", MDPI Remote Sensing, 2019.</p>
 
