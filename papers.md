@@ -21,8 +21,9 @@ guid: http://www.begumdemir.com/papers.html
 
 <div class="container text-justify p-0">
 	<!-- <p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>
-	<p>[<span class='intJournal'></span>] E. Riz, <span class="demir">B. Demir</span>, L. Bruzzone, "Deep Learning Driven Domain Adaptation for Classification of Remote Sensing Images", under preparation.</p> 
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
+	<p>[<span class='intJournal'></span>] J. Kang, D. Hong, J. Liu, G. Baier, N. Yokoya, <span class="demir">B. Demir</span>, "Learning Convolutional Sparse Coding on Complex Domain for Interferometric Phase Restoration",  IEEE Transactions on Neural Networks and Learning Systems, under review, 2020.</p>
+
 	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "Multi-Label Remote Sensing Image Classification Using a Deep Multi-Attention Driven Approach", under review.</p>
 
 	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", under review.</p>
