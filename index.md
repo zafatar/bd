@@ -37,13 +37,16 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>February 2020</b> - I will be an Invited Speaker at the <a href="https://www.bgr.bund.de/EN/Themen/Geodatenmanagement/Aktuelles/2019_11_19_big-data-machine-learning-conf_en.html">Conference on Big Data and Machine Learning in Geosciences</a> organized by the Federal Institute for Geosciences and Natural Resources with the support of the German Federal Ministry of Economic Affairs and Energy. The talk will be on <i>"Deep Earth Query: Information Discovery from Big Earth Observation Data Archives"</i>. 
+			</li>
+			<li class="list-group-item text-justify">
 				<b>January 2020</b> - We made public an alternative class-nomenclature to allow DL models for better describing the complex information content of Sentinel-2 images in BigEarthNet! For details, please visit this <a href="https://gitlab.tubit.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">link</a>.
 			</li>		
 			<li class="list-group-item text-justify">
 				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://www.rsim.tu-berlin.de/menue/open_positions/" target="_blank">link</a>.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>September 2019</b> - I will be a Keynote Speaker at: 1) <a href="https://phiweek.esa.int" target="_blank">the Φ-week</a> organized by the European Space Agency (ESA) in Frascati, Italy; and 2) <a href="http://www.gi4dm2019.org" target="_blank">the GeoInformation for Disaster Management Conference</a> in Prague, Czech Republic. Both talks will be on " Machine Learning for Information Discovery from Big Earth Observation Data Archives".
+				<b>September 2019</b> - I will be a Keynote Speaker at: 1) <a href="https://phiweek.esa.int" target="_blank">the Φ-week</a> organized by the European Space Agency (ESA) in Frascati, Italy; and 2) the <a href="http://www.gi4dm2019.org" target="_blank">Conference on GeoInformation for Disaster Management</a> in Prague, Czech Republic. Both talks will be on " Machine Learning for Information Discovery from Big Earth Observation Data Archives".
 			</li>
 			<li class="list-group-item text-justify">
 				<b>July 2019</b> - I’m a Principle Investigator of a new project 'IDEAL-VGI - Information Discovery from Big Earth Observation Data Archives by Learning from Volunteered Geographic Information', which is funded by the <a href="https://www.dfg.de/en/" target="_blank">German Research Foundation</a> for the period 2019-2022.
