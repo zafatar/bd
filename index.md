@@ -37,6 +37,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>January 2020</b> - We made public an alternative class-nomenclature to allow DL models for better describing the complex information content of Sentinel-2 images in BigEarthNet! For details, please visit this <a href="https://gitlab.tubit.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">link</a>.
+			</li>		
+			<li class="list-group-item text-justify">
 				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://tub.stellenticket.de/en/offers/74416/" target="_blank">link</a>.
 			</li>
 			<li class="list-group-item text-justify">
