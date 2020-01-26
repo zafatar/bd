@@ -40,7 +40,7 @@ guid: http://www.begumdemir.com/?page_id=1
 				<b>January 2020</b> - We made public an alternative class-nomenclature to allow DL models for better describing the complex information content of Sentinel-2 images in BigEarthNet! For details, please visit this <a href="https://gitlab.tubit.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">link</a>.
 			</li>		
 			<li class="list-group-item text-justify">
-				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://tub.stellenticket.de/en/offers/74416/" target="_blank">link</a>.
+				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://www.rsim.tu-berlin.de/menue/open_positions/" target="_blank">link</a>.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>September 2019</b> - I will be a Keynote Speaker at: 1) <a href="https://phiweek.esa.int" target="_blank">the Φ-week</a> organized by the European Space Agency (ESA) in Frascati, Italy; and 2) <a href="http://www.gi4dm2019.org" target="_blank">the GeoInformation for Disaster Management Conference</a> in Prague, Czech Republic. Both talks will be on " Machine Learning for Information Discovery from Big Earth Observation Data Archives".
