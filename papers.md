@@ -26,7 +26,7 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "Multi-Label Remote Sensing Image Classification Using a Deep Multi-Attention Driven Approach", under review.</p>
 
-	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", under review.</p>
+	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", IEEE Geoscience and Remote Sensing Letters, accepted for publication, 2020.</p>
 
 	<p>[<span class='intJournal'></span>] R. Fernandez-Beltran, <span class="demir">B. Demir</span>, F. Pla and A. Plaza, "Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing", IEEE Geoscience and Remote Sensing Letters, accepted for publication, 2020.</p>
 
