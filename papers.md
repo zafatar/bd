@@ -24,7 +24,7 @@ guid: http://www.begumdemir.com/papers.html
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
 	<p>[<span class='intJournal'></span>] G. Hoxha, <span class="demir">B. Demir</span>, F. Melgani, "Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective", under review, 2020.</p>
 
-	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization DrivenDeep Remote Sensing Image Captioning", under review, 2020.</p>	
+	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", under review, 2020.</p>	
 	
 	<p>[<span class='intJournal'></span>] G. Sumbul, J. Kang, T. Kreuziger, F. Marcelino, H. Costa, P. Benevides, M. Caetano, <span class="demir">B. Demir</span>, "BigEarthNet Deep Learning Models with A New Class-Nomenclature for Remote Sensing Image Understanding", under review, 2020.</p>
 
