@@ -28,7 +28,7 @@ guid: http://www.begumdemir.com/papers.html
 	
 	<p>[<span class='intJournal'></span>] G. Sumbul, J. Kang, T. Kreuziger, F. Marcelino, H. Costa, P. Benevides, M. Caetano, <span class="demir">B. Demir</span>, "BigEarthNet Deep Learning Models with A New Class-Nomenclature for Remote Sensing Image Understanding", under review, 2020.</p>
 
-	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "Multi-Label Remote Sensing Image Classification Using a Deep Multi-Attention Driven Approach", under review.</p>
+	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "A Deep Multi-Attention Driven Approach for Multi-Label Remote Sensing Image Classification", IEEE Access, accepted for publication, 2020.</p>
 
 	<p>[<span class='intJournal'></span>] J. Kang, D. Hong, J. Liu, G. Baier, N. Yokoya, <span class="demir">B. Demir</span>, "Learning Convolutional Sparse Coding on Complex Domain for Interferometric Phase Restoration", IEEE Transactions on Neural Networks and Learning Systems, accepted for publication, 2020.</p>
 
