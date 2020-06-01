@@ -35,7 +35,10 @@ guid: http://www.begumdemir.com/?page_id=1
 	<div class="card">
     	<h5 class="card-header b-0">Latest News</h5>
 		<!-- List Group -->
-		<ul class="list-group list-group-flush" style="font-size: 14px">
+		<ul class="list-group list-group-flush" style="font-size: 14px">	
+			<li class="list-group-item text-justify">
+				<b>May 2020</b> - European AI research network ELLIS established a new Unit at TU Berlin and I'm pleased to be one of the <a href="https://bifold.berlin/ellis-unit-established-at-tu-berlin/" target="_blank">ELLIS Berlin</a> team members!
+			</li>
 			<li class="list-group-item text-justify">
 				<b>March 2020</b> - I'm one of the Principle Investigators of the <a href="https://bifold.berlin" target="_blank">BIFOLD (Berlin Institute for the Foundations of Learning and Data)</a> directed by Prof. Dr. Volker Markl and Prof. Dr. Klaus-Robert Müller.
 			</li>

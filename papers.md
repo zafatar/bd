@@ -14,6 +14,7 @@ guid: http://www.begumdemir.com/papers.html
 	<p>[<span class='bookChapter'></span>] L. Bruzzone, C. Persello, <span class="demir">B. Demir</span>, "Active Learning Methods in Classification of Remote Sensing Images, in Signal and Image Processing for Remote Sensing", 2nd Edition, Ed: Prof. C.H. Chen, CRC Press &#8211; Taylor & Francis, Chapter 15, 2012, pp. 303-323.</p>
 	<p>[<span class='bookChapter'></span>] L. Bruzzone, <span class="demir">B. Demir</span>, "A Review of Modern Approaches to Classification of Remote Sensing Data, in Land Use and Land Cover Mapping Europe, Practices and Trends", Eds: I. Manakos, M. Braun, EARSeL Book Series, Springer Verlag, Chapter 9, 2014, pp. 127-143.</p>
 	<p>[<span class='bookChapter'></span>] L. Bruzzone, <span class="demir">B. Demir</span>, F. Bovolo, "Recent Advances in Remote Sensing Time Series Image Classification, Pattern Recognition and Big Data, World Scientific, 2017, pp. 713 -734.</p>
+	<p>[<span class='bookChapter'></span>] G. Sumbul, J. Kang, <span class="demir">B. Demir</span>, Deep Learning for Image Search and Retrieval in Large Remote Sensing Archives, to appear as a book chapter in "Deep Learning for the Earth Sciences", John Wiley & Sons, 2020.</p>
 </div>
 
 <span class="anchor" id="internationalJournals"></span>
