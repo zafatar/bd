@@ -37,7 +37,7 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">	
 			<li class="list-group-item text-justify">
-				<b>March 2020</b> - I’m one of the Principle Investigators of a new project 'TreeSatAI-Künstliche Intelligenz mit Erdbeobachtungs- und Multi-Source Geodaten für das Infrastruktur-, Naturschutz- und Waldmonitoring', which is funded by the <a href="https://www.bmbf.de/en/index.html" target="_blank">Federal Ministry of Education and Research</a> for the period 2020-2022. 
+				<b>June 2020</b> - I’m one of the Principle Investigators of a new project 'TreeSatAI-Künstliche Intelligenz mit Erdbeobachtungs- und Multi-Source Geodaten für das Infrastruktur-, Naturschutz- und Waldmonitoring', which is funded by the <a href="https://www.bmbf.de/en/index.html" target="_blank">Federal Ministry of Education and Research</a> for the period 2020-2022. 
 			</li>
 			<li class="list-group-item text-justify">
 				<b>March 2020</b> - I'm one of the Principle Investigators of the <a href="https://bifold.berlin" target="_blank">BIFOLD (Berlin Institute for the Foundations of Learning and Data)</a> directed by Prof. Dr. Volker Markl and Prof. Dr. Klaus-Robert Müller.
