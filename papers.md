@@ -29,6 +29,8 @@ guid: http://www.begumdemir.com/papers.html
 	
 	<p>[<span class='intJournal'></span>] G. Sumbul, J. Kang, T. Kreuziger, F. Marcelino, H. Costa, P. Benevides, M. Caetano, <span class="demir">B. Demir</span>, "BigEarthNet Deep Learning Models with A New Class-Nomenclature for Remote Sensing Image Understanding", under review, 2020.</p>
 
+	<p>[<span class='intJournal'></span>] A. P. Byju, G. Sumbul, <span class="demir">B. Demir</span>, L. Bruzzone, "Remote Sensing Image Scene Classiﬁcation with Deep Neural Networks in JPEG 2000 Compressed Domain", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.</p>
+
 	<p>[<span class='intJournal'></span>] J. Kang, D. Hong, J. Liu, G. Baier, N. Yokoya, <span class="demir">B. Demir</span>, "Learning Convolutional Sparse Coding on Complex Domain for Interferometric Phase Restoration", IEEE Transactions on Neural Networks and Learning Systems, accepted for publication, 2020.</p>
 
 	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", IEEE Geoscience and Remote Sensing Letters, accepted for publication, 2020.</p>
