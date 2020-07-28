@@ -23,8 +23,6 @@ guid: http://www.begumdemir.com/papers.html
 <div class="container text-justify p-0">
 	<!-- <p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>
 	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
-	<p>[<span class='intJournal'></span>] G. Hoxha, <span class="demir">B. Demir</span>, F. Melgani, "Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective", under review, 2020.</p>
-
 	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", under review, 2020.</p>	
 	
 	<p>[<span class='intJournal'></span>] G. Sumbul, J. Kang, T. Kreuziger, F. Marcelino, H. Costa, P. Benevides, M. Caetano, <span class="demir">B. Demir</span>, "BigEarthNet Deep Learning Models with A New Class-Nomenclature for Remote Sensing Image Understanding", under review, 2020.</p>
@@ -34,6 +32,8 @@ guid: http://www.begumdemir.com/papers.html
 	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", IEEE Geoscience and Remote Sensing Letters, accepted for publication, 2020.</p>
 
 	<p>[<span class='intJournal'></span>] R. Fernandez-Beltran, <span class="demir">B. Demir</span>, F. Pla and A. Plaza, "Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing", IEEE Geoscience and Remote Sensing Letters, accepted for publication, 2020.</p>
+
+	<p>[<span class='intJournal'></span>] G. Hoxha, <span class="demir">B. Demir</span>, F. Melgani, "Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective", Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020.</p>
 
 	<p>[<span class='intJournal'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives", IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 8, pp. 5739-5751, 2020.</p>
 
