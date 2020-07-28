@@ -33,7 +33,7 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intJournal'></span>] R. Fernandez-Beltran, <span class="demir">B. Demir</span>, F. Pla and A. Plaza, "Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing", IEEE Geoscience and Remote Sensing Letters, accepted for publication, 2020.</p>
 
-	<p>[<span class='intJournal'></span>] G. Hoxha, <span class="demir">B. Demir</span>, F. Melgani, "Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective", Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020.</p>
+	<p>[<span class='intJournal'></span>] G. Hoxha, <span class="demir">B. Demir</span>, F. Melgani, "Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020.</p>
 
 	<p>[<span class='intJournal'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives", IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 8, pp. 5739-5751, 2020.</p>
 
