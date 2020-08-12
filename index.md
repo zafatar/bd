@@ -35,7 +35,10 @@ guid: http://www.begumdemir.com/?page_id=1
 	<div class="card">
     	<h5 class="card-header b-0">Latest News</h5>
 		<!-- List Group -->
-		<ul class="list-group list-group-flush" style="font-size: 14px">	
+		<ul class="list-group list-group-flush" style="font-size: 14px">
+			<li class="list-group-item text-justify">
+				<b>August 2020</b> - I am one of the lecturers of the summer school on "Machine Learning in Geosciences" organized by <a href="https://www.gfz-potsdam.de/startseite/" target="_blank">GFZ Potsdam</a>. The topic of the lecture is "Introduction to machine learning in geosciences - background and perspectives". 
+			</li>	
 			<li class="list-group-item text-justify">
 				<b>June 2020</b> - I’m one of the Principle Investigators of a new project 'TreeSatAI-Künstliche Intelligenz mit Erdbeobachtungs- und Multi-Source Geodaten für das Infrastruktur-, Naturschutz- und Waldmonitoring', which is funded by the <a href="https://www.bmbf.de/en/index.html" target="_blank">Federal Ministry of Education and Research</a> for the period 2020-2022. 
 			</li>
