@@ -37,6 +37,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>September 2020</b> - I will be an Invited Speaker at the <a href="https://www.ecmwf.int/en/learning/workshops/ecmwf-esa-workshop-machine-learning-earth-system-observation-and-prediction" target="_blank">ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction</a>.
+			</li>
+			<li class="list-group-item text-justify">
 				<b>August 2020</b> - I am one of the lecturers of the summer school on "Machine Learning in Geosciences" organized by <a href="https://www.gfz-potsdam.de/startseite/" target="_blank">GFZ Potsdam</a>. The topic of the lecture is "Introduction to machine learning in geosciences - background and perspectives". 
 			</li>	
 			<li class="list-group-item text-justify">
@@ -46,7 +49,7 @@ guid: http://www.begumdemir.com/?page_id=1
 				<b>March 2020</b> - I'm one of the Principle Investigators of the <a href="https://bifold.berlin" target="_blank">BIFOLD (Berlin Institute for the Foundations of Learning and Data)</a> directed by Prof. Dr. Volker Markl and Prof. Dr. Klaus-Robert Müller.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>February 2020</b> - I will be an Invited Speaker at the <a href="https://www.bgr.bund.de/EN/Themen/Geodatenmanagement/Aktuelles/2019_11_19_big-data-machine-learning-conf_en.html">Conference on Big Data and Machine Learning in Geosciences</a> organized by the Federal Institute for Geosciences and Natural Resources with the support of the German Federal Ministry of Economic Affairs and Energy. The talk will be on <i>"Deep Earth Query: Information Discovery from Big Earth Observation Data Archives"</i>. 
+				<b>February 2020</b> - I will be an Invited Speaker at the <a href="https://www.bgr.bund.de/EN/Themen/Geodatenmanagement/Aktuelles/2019_11_19_big-data-machine-learning-conf_en.html">Conference on Big Data and Machine Learning in Geosciences</a> organized by the Federal Institute for Geosciences and Natural Resources with the support of the German Federal Ministry of Economic Affairs and Energy. The talk will be on <a href="https://www.youtube.com/watch?list=PLn2cxyDRC0H1SA6bsHRuupRy9Lez5mOYr&time_continue=1&v=uZeWIKBZZw4&feature=emb_logo" target="_blank">"Deep Earth Query: Information Discovery from Big Earth Observation Data Archives"</a>. 
 			</li>
 			<li class="list-group-item text-justify">
 				<b>January 2020</b> - We made public an alternative class-nomenclature to allow DL models for better describing the complex information content of Sentinel-2 images in BigEarthNet! For details, please visit this <a href="https://gitlab.tubit.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">link</a>.
