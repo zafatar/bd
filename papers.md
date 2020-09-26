@@ -102,8 +102,6 @@ guid: http://www.begumdemir.com/papers.html
 <div class="container text-justify p-0">
 	<p>[<span class='intConf'></span>] H. Yessou, G. Sumbul, <span class="demir">B. Demir</span>, "A Comparative Study of Deep Learning Loss Functions for Multi-Label Remote Sensing Image Classification", IEEE International Geoscience and Remote Sensing Symposium, Hawaii, USA, 2020.</p>
 	
-	<p>[<span class='intConf'></span>] J. Kang, <span class="demir">B. Demir</span>, "'Band-Wise Multi-Scale CNN Architecture for Remote Sensing Image Scene Classification", IEEE International Geoscience and Remote Sensing Symposium, Hawaii, USA, 2020.</p>
-
 	<p>[<span class='intConf'></span>] J. L. Holgado Alvarez, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "S2-cGAN: Self-Supervised Adversarial Representation Learning for Binary Change Detection in Multispectral Images", IEEE International Geoscience and Remote Sensing Symposium, Hawaii, USA, 2020.</p>
 	
 	<p>[<span class='intConf'></span>] K. Zhang, G. Sumbul, <span class="demir">B. Demir</span>, "An Approach to Super-Resolution of Sentinel-2 Images based on Generative Adversarial Networks", IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium", Tunis, Tunisia, 2020.</p>
