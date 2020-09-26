@@ -37,7 +37,7 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
-				<b>OCtober 2020</b> - I will be an Invited Speaker at the <a href="https://www.ecmwf.int/en/learning/workshops/ecmwf-esa-workshop-machine-learning-earth-system-observation-and-prediction" target="_blank">ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction</a>. 
+				<b>October 2020</b> - I will be an Invited Speaker at the <a href="https://www.ecmwf.int/en/learning/workshops/ecmwf-esa-workshop-machine-learning-earth-system-observation-and-prediction" target="_blank">ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction</a>. 
 			</li>
 			<li class="list-group-item text-justify">
 				<b>September 2020</b> - The codes developed and maintained at <a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a> are publicly available at <a href="https://www.rsim.tu-berlin.de/menue/software/" target="_blank">here</a>. 
