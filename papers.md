@@ -21,9 +21,7 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
-	<!-- <p>[<span class='intJournal'></span>] F.Omruuzun, <span class="demir">B. Demir</span>, L. Bruzzone, Y. Yardimci Cetin, "Content Based Retrieval of Hyperspectral Images by Using Novel Image Descriptors, under preparation.</p>
-	<p>[<span class='intJournal'></span>] R. Battiti, <span class="demir">B. Demir</span>, L. Bruzzone, "Compressed Histogram Attribute Profiles For Very High Resolution Image Classification", under preparation.</p> -->
-	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", under review, 2020.</p>	
+	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.</p>	
 
 	<p>[<span class='intJournal'></span>] A. P. Byju, G. Sumbul, <span class="demir">B. Demir</span>, L. Bruzzone, "Remote Sensing Image Scene Classification with Deep Neural Networks in JPEG 2000 Compressed Domain", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.</p>
 
