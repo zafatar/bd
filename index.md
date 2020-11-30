@@ -37,7 +37,7 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
-				<b>November 2020</b> - I'm one of the program committee members of <a href="https://www.bigdatafromspace2021.org" target="_blank">Big Data from Space 2021</a> Conference co-organised by the <a href="https://www.esa.int" target="_blank">European Space Agency (ESA)</a>, the Joint Research Centre (JRC) of the European Commission, and the European Union Satellite Centre (SatCen).</a>.
+				<b>November 2020</b> - I'm one of the program committee members of <a href="https://www.bigdatafromspace2021.org" target="_blank">Big Data from Space 2021</a> Conference co-organised by the <a href="https://www.esa.int" target="_blank">European Space Agency (ESA)</a>, the Joint Research Centre (JRC) of the European Commission, and the European Union Satellite Centre (SatCen).
 			</li>
 			<li class="list-group-item text-justify">
 				<b>October 2020</b> - I will be an Invited Speaker at the <a href="https://www.ecmwf.int/en/learning/workshops/ecmwf-esa-workshop-machine-learning-earth-system-observation-and-prediction" target="_blank">ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction</a>.
