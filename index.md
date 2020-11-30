@@ -37,26 +37,29 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
-				<b>October 2020</b> - I will be an Invited Speaker at the <a href="https://www.ecmwf.int/en/learning/workshops/ecmwf-esa-workshop-machine-learning-earth-system-observation-and-prediction" target="_blank">ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction</a>. 
+				<b>November 2020</b> - I'm one of the program committee members of <a href="https://www.bigdatafromspace2021.org" target="_blank">Big Data from Space 2021</a> Conference co-organised by the <a href="https://www.esa.int" target="_blank">European Space Agency (ESA)</a>, the Joint Research Centre (JRC) of the European Commission, and the European Union Satellite Centre (SatCen).</a>.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>September 2020</b> - The codes developed and maintained at <a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a> are publicly available <a href="https://www.rsim.tu-berlin.de/menue/software/" target="_blank">here</a>. 
+				<b>October 2020</b> - I will be an Invited Speaker at the <a href="https://www.ecmwf.int/en/learning/workshops/ecmwf-esa-workshop-machine-learning-earth-system-observation-and-prediction" target="_blank">ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction</a>.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>August 2020</b> - I am one of the lecturers of the summer school on "Machine Learning in Geosciences" organized by <a href="https://www.gfz-potsdam.de/startseite/" target="_blank">GFZ Potsdam</a>. The topic of the lecture is "Introduction to machine learning in geosciences - background and perspectives". 
-			</li>	
+				<b>September 2020</b> - The codes developed and maintained at <a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a> are publicly available <a href="https://www.rsim.tu-berlin.de/menue/software/" target="_blank">here</a>.
+			</li>
 			<li class="list-group-item text-justify">
-				<b>June 2020</b> - I’m one of the Principle Investigators of a new project 'TreeSatAI-Künstliche Intelligenz mit Erdbeobachtungs- und Multi-Source Geodaten für das Infrastruktur-, Naturschutz- und Waldmonitoring', which is funded by the <a href="https://www.bmbf.de/en/index.html" target="_blank">Federal Ministry of Education and Research</a> for the period 2020-2022. 
+				<b>August 2020</b> - I am one of the lecturers of the summer school on "Machine Learning in Geosciences" organized by <a href="https://www.gfz-potsdam.de/startseite/" target="_blank">GFZ Potsdam</a>. The topic of the lecture is "Introduction to machine learning in geosciences - background and perspectives".
+			</li>
+			<li class="list-group-item text-justify">
+				<b>June 2020</b> - I’m one of the Principle Investigators of a new project 'TreeSatAI-Künstliche Intelligenz mit Erdbeobachtungs- und Multi-Source Geodaten für das Infrastruktur-, Naturschutz- und Waldmonitoring', which is funded by the <a href="https://www.bmbf.de/en/index.html" target="_blank">Federal Ministry of Education and Research</a> for the period 2020-2022.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>March 2020</b> - I'm one of the Principle Investigators of the <a href="https://bifold.berlin" target="_blank">BIFOLD (Berlin Institute for the Foundations of Learning and Data)</a> directed by Prof. Dr. Volker Markl and Prof. Dr. Klaus-Robert Müller.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>February 2020</b> - I will be an Invited Speaker at the <a href="https://www.bgr.bund.de/EN/Themen/Geodatenmanagement/Aktuelles/2019_11_19_big-data-machine-learning-conf_en.html">Conference on Big Data and Machine Learning in Geosciences</a> organized by the Federal Institute for Geosciences and Natural Resources with the support of the German Federal Ministry of Economic Affairs and Energy. The talk will be on <a href="https://www.youtube.com/watch?list=PLn2cxyDRC0H1SA6bsHRuupRy9Lez5mOYr&time_continue=1&v=uZeWIKBZZw4&feature=emb_logo" target="_blank">"Deep Earth Query: Information Discovery from Big Earth Observation Data Archives"</a>. 
+				<b>February 2020</b> - I will be an Invited Speaker at the <a href="https://www.bgr.bund.de/EN/Themen/Geodatenmanagement/Aktuelles/2019_11_19_big-data-machine-learning-conf_en.html">Conference on Big Data and Machine Learning in Geosciences</a> organized by the Federal Institute for Geosciences and Natural Resources with the support of the German Federal Ministry of Economic Affairs and Energy. The talk will be on <a href="https://www.youtube.com/watch?list=PLn2cxyDRC0H1SA6bsHRuupRy9Lez5mOYr&time_continue=1&v=uZeWIKBZZw4&feature=emb_logo" target="_blank">"Deep Earth Query: Information Discovery from Big Earth Observation Data Archives"</a>.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>January 2020</b> - We made public an alternative class-nomenclature to allow DL models for better describing the complex information content of Sentinel-2 images in BigEarthNet! For details, please visit this <a href="https://gitlab.tubit.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">link</a>.
-			</li>		
+			</li>
 			<li class="list-group-item text-justify">
 				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://www.rsim.tu-berlin.de/menue/open_positions/" target="_blank">link</a>.
 			</li>
