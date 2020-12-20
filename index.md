@@ -36,7 +36,7 @@ guid: http://www.begumdemir.com/?page_id=1
     	<h5 class="card-header b-0">Latest News</h5>
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
-			<li class>
+			<li class="list-group-item text-justify">
 				<b>December 2020</b> - Our codes and methods to reduce the negative impact of noisy land-use and land-cover annotations for Earth observation have been made public here: <a href="https://noisy-labels-in-rs.org" target="_blank">noisy-labels-in-rs.org</a>.
 			</li>
 			<li class="list-group-item text-justify">
