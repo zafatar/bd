@@ -36,6 +36,9 @@ guid: http://www.begumdemir.com/?page_id=1
     	<h5 class="card-header b-0">Latest News</h5>
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
+			<li class>
+				<b>December 2020</b> - Our codes and methods to reduce the negative impact of noisy land-use and land-cover annotations for Earth observation have been made public here: <a href="https://noisy-labels-in-rs.org" target="_blank">noisy-labels-in-rs.org</a>.
+			</li>
 			<li class="list-group-item text-justify">
 				<b>November 2020</b> - I'm one of the program committee members of <a href="https://www.bigdatafromspace2021.org" target="_blank">Big Data from Space 2021</a> Conference co-organised by the <a href="https://www.esa.int" target="_blank">European Space Agency (ESA)</a>, the Joint Research Centre (JRC) of the European Commission, and the European Union Satellite Centre (SatCen).
 			</li>
