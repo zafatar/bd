@@ -37,6 +37,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>January 2021</b> - We have enriched <a href="http://bigearth.net" target="_blank">BigEarthNet</a> with Sentinel 1 images to support research on multi-modal/cross-modal image analysis for Earth observation.
+			</li>
+			<li class="list-group-item text-justify">
 				<b>December 2020</b> - Our codes and methods to reduce the negative impact of noisy land-use and land-cover annotations for Earth observation have been made public here: <a href="https://noisy-labels-in-rs.org" target="_blank">noisy-labels-in-rs.org</a>.
 			</li>
 			<li class="list-group-item text-justify">
