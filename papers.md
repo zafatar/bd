@@ -21,15 +21,15 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.</p>	
+	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.</p>
 
 	<p>[<span class='intJournal'></span>] A. P. Byju, G. Sumbul, <span class="demir">B. Demir</span>, L. Bruzzone, "Remote Sensing Image Scene Classification with Deep Neural Networks in JPEG 2000 Compressed Domain", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.</p>
 
-	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", IEEE Geoscience and Remote Sensing Letters, accepted for publication, 2020.</p>
+	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 2, pp. 226-230, 2021.</p>
 
-	<p>[<span class='intJournal'></span>] R. Fernandez-Beltran, <span class="demir">B. Demir</span>, F. Pla and A. Plaza, "Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing", IEEE Geoscience and Remote Sensing Letters, accepted for publication, 2020.</p>
+	<p>[<span class='intJournal'></span>] R. Fernandez-Beltran, <span class="demir">B. Demir</span>, F. Pla and A. Plaza, "Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing", IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 2, pp. 256-260, 2021.</p>
 
-	<p>[<span class='intJournal'></span>] G. Hoxha, F. Melgani, <span class="demir">B. Demir</span>, "Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020.</p>
+	<p>[<span class='intJournal'></span>] G. Hoxha, F. Melgani, <span class="demir">B. Demir</span>, "Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 4462-4475, 2020.</p>
 
 	<p>[<span class='intJournal'></span>] A. P. Byju, <span class="demir">B. Demir</span>, L. Bruzzone, "A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives", IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 8, pp. 5739-5751, 2020.</p>
 
@@ -98,16 +98,16 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Conferences</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intConf'></span>] H. Yessou, G. Sumbul, <span class="demir">B. Demir</span>, "A Comparative Study of Deep Learning Loss Functions for Multi-Label Remote Sensing Image Classification", IEEE International Geoscience and Remote Sensing Symposium, Hawaii, USA, 2020.</p>
-	
-	<p>[<span class='intConf'></span>] J. L. Holgado Alvarez, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "S2-cGAN: Self-Supervised Adversarial Representation Learning for Binary Change Detection in Multispectral Images", IEEE International Geoscience and Remote Sensing Symposium, Hawaii, USA, 2020.</p>
-	
-	<p>[<span class='intConf'></span>] K. Zhang, G. Sumbul, <span class="demir">B. Demir</span>, "An Approach to Super-Resolution of Sentinel-2 Images based on Generative Adversarial Networks", IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium", Tunis, Tunisia, 2020.</p>
+	<p>[<span class='intConf'></span>] H. Yessou, G. Sumbul, <span class="demir">B. Demir</span>, "A Comparative Study of Deep Learning Loss Functions for Multi-Label Remote Sensing Image Classification", IEEE International Geoscience and Remote Sensing Symposium, pp. 1349-1352, Hawaii, USA, 2020.</p>
+
+	<p>[<span class='intConf'></span>] J. L. Holgado Alvarez, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "S2-cGAN: Self-Supervised Adversarial Representation Learning for Binary Change Detection in Multispectral Images", IEEE International Geoscience and Remote Sensing Symposium, pp. 2515-2518, Hawaii, USA, 2020.</p>
+
+	<p>[<span class='intConf'></span>] K. Zhang, G. Sumbul, <span class="demir">B. Demir</span>, "An Approach to Super-Resolution of Sentinel-2 Images based on Generative Adversarial Networks", IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium", pp. 69-72, Tunis, Tunisia, 2020.</p>
 
 	<p>[<span class='intConf'></span>] A. P. Byju, G. Sumbul, <span class="demir">B. Demir</span>, L. Bruzzone, "Approximating JPEG 2000 wavelet representation through deep neural networks for remote sensing image scene classification", SPIE Image and Signal Processing for Remote Sensing, Strasbourg, France, 2019.</p>
 
 	<p>[<span class='intConf'></span>] G. Sumbul, M. Charfuelan, <span class="demir">B. Demir</span>, V. Markl, "BIGEARTHNET: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding", IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
-	
+
  	<p>[<span class='intConf'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "A Novel Multi-Attention Driven System for Multi-Label Remote Sensing Image Classification", IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
 
  	<p>[<span class='intConf'></span>] G. Hoxha, F. Melgani, <span class="demir">B. Demir</span>, "Retrieving Images with Generated Textual Descriptions", IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.</p>
