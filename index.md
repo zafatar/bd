@@ -64,7 +64,7 @@ guid: http://www.begumdemir.com/?page_id=1
 				<b>February 2020</b> - I will be an Invited Speaker at the <a href="https://www.bgr.bund.de/EN/Themen/Geodatenmanagement/Aktuelles/2019_11_19_big-data-machine-learning-conf_en.html">Conference on Big Data and Machine Learning in Geosciences</a> organized by the Federal Institute for Geosciences and Natural Resources with the support of the German Federal Ministry of Economic Affairs and Energy. The talk will be on <a href="https://www.youtube.com/watch?list=PLn2cxyDRC0H1SA6bsHRuupRy9Lez5mOYr&time_continue=1&v=uZeWIKBZZw4&feature=emb_logo" target="_blank">"Deep Earth Query: Information Discovery from Big Earth Observation Data Archives"</a>.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>January 2020</b> - We made public an alternative class-nomenclature to allow DL models for better describing the complex information content of Sentinel-2 images in BigEarthNet! For details, please visit this <a href="https://gitlab.tubit.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">link</a>.
+				<b>January 2020</b> - We made public an alternative class-nomenclature to allow DL models for better describing the complex information content of Sentinel-2 images in BigEarthNet! For details, please visit this <a href="https://git.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">link</a>.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://www.rsim.tu-berlin.de/menue/open_positions/" target="_blank">link</a>.
