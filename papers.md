@@ -99,11 +99,11 @@ guid: http://www.begumdemir.com/papers.html
 
 <div class="container text-justify p-0">
 
-	<p>[<span class='intConf'></span>] S. Lobry, <span class="demir">B. Demir</span>, D. Tuia, "RSVQA Meets BigearthNet: A New, Large-Scale, Visual Question Answering Dataset For Remote Sensing", IGARSS, 2021.</p>
+	<p>[<span class='intConf'></span>] S. Lobry, <span class="demir">B. Demir</span>, D. Tuia, "RSVQA Meets BigearthNet: A New, Large-Scale, Visual Question Answering Dataset For Remote Sensing", IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021.</p>
 
-	<p>[<span class='intConf'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "A Novel Graph-Theoretic Deep Representation Learning Method For Multi-Label Remote Sensing Image Retrieval", IGARSS, 2021.</p>
+	<p>[<span class='intConf'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "A Novel Graph-Theoretic Deep Representation Learning Method For Multi-Label Remote Sensing Image Retrieval", IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021.</p>
 
-	<p>[<span class='intConf'></span>] X. Feng, T. Kreuziger, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "A Novel Semi-Supervised Graph Metric Learning Method For Remote Sensing Image Retrieval", IGARSS, 2021.</p>
+	<p>[<span class='intConf'></span>] X. Feng, T. Kreuziger, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "A Novel Semi-Supervised Graph Metric Learning Method For Remote Sensing Image Retrieval", IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021.</p>
 
 	<p>[<span class='intConf'></span>] A. de Wall, B. Deiseroth, E. T. Zacharatou, J.-A. Quiané-Ruiz, <span class="demir">B. Demir</span> and V. Markl, "Agora-EO: A Unified Ecosystem for Earth Observation - A Vision for Boosting EO Data Literacy", Big Data from Space Conference, 2021.</p>
 

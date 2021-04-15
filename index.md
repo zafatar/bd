@@ -37,6 +37,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>April 2021</b> - Together with the DIMA group of TU Berlin, we have developed a new vision for boosting Earth observation data literacy: <a href="https://tubcloud.tu-berlin.de/s/3kZogSif4o79M8T#pdfviewer" target="_blank">Agora-EO: A Unified Ecosystem for Earth Observation</a>.
+			</li>
+			<li class="list-group-item text-justify">
 				<b>January 2021</b> - We have enriched <a href="http://bigearth.net" target="_blank">BigEarthNet</a> with Sentinel 1 images to support research on multi-modal/cross-modal image analysis for Earth observation.
 			</li>
 			<li class="list-group-item text-justify">
