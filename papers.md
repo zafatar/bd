@@ -98,6 +98,8 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Conferences</h3>
 
 <div class="container text-justify p-0">
+	<p>[<span class='intConf'></span>] A. de Wall, B. Deiseroth, E. T. Zacharatou, J.-A. Quiané-Ruiz, B. Demir and V. Markl, "Agora-EO: A Unified Ecosystem for Earth Observation - A Vision for Boosting EO Data Literacy", Big Data from Space Conference, 2021.</p>
+
 	<p>[<span class='intConf'></span>] H. Yessou, G. Sumbul, <span class="demir">B. Demir</span>, "A Comparative Study of Deep Learning Loss Functions for Multi-Label Remote Sensing Image Classification", IEEE International Geoscience and Remote Sensing Symposium, pp. 1349-1352, Hawaii, USA, 2020.</p>
 
 	<p>[<span class='intConf'></span>] J. L. Holgado Alvarez, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "S2-cGAN: Self-Supervised Adversarial Representation Learning for Binary Change Detection in Multispectral Images", IEEE International Geoscience and Remote Sensing Symposium, pp. 2515-2518, Hawaii, USA, 2020.</p>
