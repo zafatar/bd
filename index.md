@@ -33,9 +33,12 @@ guid: http://www.begumdemir.com/?page_id=1
 <div class="row m-0 my-2">
 	<!-- News Widget -->
 	<div class="card">
-    	<h5 class="card-header b-0">Latest News</h5>
+    	<h5 class="card-header b-0">Latest News (Selected)</h5>
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
+			<li class="list-group-item text-justify">
+				<b>May 2021</b> - I will be an Invited Speaker at the Copernicus <a href="https://www.copernicus.eu/en/opportunities/public-authorities/copernicus-relays" target="_blank">Relays</a> and <a href="https://www.copernicus.eu/en/opportunities/education/copernicus-academy" target="_blank">Academy</a> Networks on "Copernicus and Artificial Intelligence: State-of-the-Art Technology and Scientific Research".
+			</li>
 			<li class="list-group-item text-justify">
 				<b>April 2021</b> - Together with the DIMA group of TU Berlin, we have developed a new vision for boosting Earth observation data literacy: <a href="https://tubcloud.tu-berlin.de/s/3kZogSif4o79M8T#pdfviewer" target="_blank">Agora-EO: A Unified Ecosystem for Earth Observation</a>.
 			</li>
