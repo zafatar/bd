@@ -21,9 +21,9 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.</p>
+	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2021.</p>
 
-	<p>[<span class='intJournal'></span>] A. P. Byju, G. Sumbul, <span class="demir">B. Demir</span>, L. Bruzzone, "Remote Sensing Image Scene Classification with Deep Neural Networks in JPEG 2000 Compressed Domain", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.</p>
+	<p>[<span class='intJournal'></span>] A. P. Byju, G. Sumbul, <span class="demir">B. Demir</span>, L. Bruzzone, "Remote Sensing Image Scene Classification with Deep Neural Networks in JPEG 2000 Compressed Domain", IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 4, pp. 3458-3472, 2021.</p>
 
 	<p>[<span class='intJournal'></span>] S. Roy, E. Sangineto, <span class="demir">B. Demir</span>, N. Sebe, "Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images", IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 2, pp. 226-230, 2021.</p>
 
@@ -106,6 +106,8 @@ guid: http://www.begumdemir.com/papers.html
 	<p>[<span class='intConf'></span>] X. Feng, T. Kreuziger, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "A Novel Semi-Supervised Graph Metric Learning Method For Remote Sensing Image Retrieval", IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021.</p>
 
 	<p>[<span class='intConf'></span>] A. de Wall, B. Deiseroth, E. T. Zacharatou, J.-A. Quiané-Ruiz, <span class="demir">B. Demir</span> and V. Markl, "Agora-EO: A Unified Ecosystem for Earth Observation - A Vision for Boosting EO Data Literacy", Big Data from Space Conference, 2021.</p>
+
+	<p>[<span class='intConf'></span>]F. van Geffen, B. Heim, U. Herzschuh, L. Pestryakova, E. Zakharov, R. Hänsch, <span class="demir">B. Demir</span>, B. Kleinschmit, M. Förster, and S. Kruse, 'SiDroForest  Siberian Drone-mapped Forest inventory,' EGU General Assembly, 2021.</p>
 
 	<p>[<span class='intConf'></span>] H. Yessou, G. Sumbul, <span class="demir">B. Demir</span>, "A Comparative Study of Deep Learning Loss Functions for Multi-Label Remote Sensing Image Classification", IEEE International Geoscience and Remote Sensing Symposium, pp. 1349-1352, Hawaii, USA, 2020.</p>
 
