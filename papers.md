@@ -107,7 +107,7 @@ guid: http://www.begumdemir.com/papers.html
 
 	<p>[<span class='intConf'></span>] A. de Wall, B. Deiseroth, E. T. Zacharatou, J.-A. Quiané-Ruiz, <span class="demir">B. Demir</span> and V. Markl, "Agora-EO: A Unified Ecosystem for Earth Observation - A Vision for Boosting EO Data Literacy", Big Data from Space Conference, 2021.</p>
 
-	<p>[<span class='intConf'></span>]F. van Geffen, B. Heim, U. Herzschuh, L. Pestryakova, E. Zakharov, R. Hänsch, <span class="demir">B. Demir</span>, B. Kleinschmit, M. Förster, and S. Kruse, 'SiDroForest  Siberian Drone-mapped Forest inventory,' EGU General Assembly, 2021.</p>
+	<p>[<span class='intConf'></span>] F. van Geffen, B. Heim, U. Herzschuh, L. Pestryakova, E. Zakharov, R. Hänsch, <span class="demir">B. Demir</span>, B. Kleinschmit, M. Förster, and S. Kruse, 'SiDroForest  Siberian Drone-mapped Forest inventory,' EGU General Assembly, 2021.</p>
 
 	<p>[<span class='intConf'></span>] H. Yessou, G. Sumbul, <span class="demir">B. Demir</span>, "A Comparative Study of Deep Learning Loss Functions for Multi-Label Remote Sensing Image Classification", IEEE International Geoscience and Remote Sensing Symposium, pp. 1349-1352, Hawaii, USA, 2020.</p>
 
