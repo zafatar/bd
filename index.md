@@ -16,7 +16,6 @@ guid: http://www.begumdemir.com/?page_id=1
 		Faculty of Electrical Engineering and Computer Science<br />
 		EN 627, Einsteinufer 17, 10587, Berlin, Germany
 		<br />
-		<br />
 		E-mail: demir [at] tu-berlin.de
 		<br />
 		Tel:+49 (0) 30 3142 3771
