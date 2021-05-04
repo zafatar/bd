@@ -16,9 +16,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		Faculty of Electrical Engineering and Computer Science<br />
 		EN 627, Einsteinufer 17, 10587, Berlin, Germany
 		<br />
-		<p class="warning">Due to a cyberattack to TU Berlin, <br />
+		<p class="alert alert-danger" role="alert">Due to a cyberattack to TU Berlin, <br />
 		the email below is temporarily unavailable. <br />
-		Please use <a href="mailto:demir@bigearth.eu">demir@bigearth.eu</a> to reach me.</p>
+		Please use <a href="mailto:demir@bigearth.eu" class="alert-link">demir@bigearth.eu</a> to reach me.</p>
 		<br />
 		E-mail: demir [at] tu-berlin.de
 		<br />
