@@ -41,7 +41,7 @@ guid: http://www.begumdemir.com/?page_id=1
 				<b>May 2021</b> - I will give an invited talk to the Copernicus <a href="https://www.copernicus.eu/en/opportunities/public-authorities/copernicus-relays" target="_blank">Relays</a> and <a href="https://www.copernicus.eu/en/opportunities/education/copernicus-academy" target="_blank">Academy</a> Networks on "Copernicus and Artificial Intelligence: State-of-the-Art Technology and Scientific Research".
 			</li>
 			<li class="list-group-item text-justify">
-				<b>April 2021</b> - Together with the DIMA group of TU Berlin, we have developed a new vision for boosting Earth observation data literacy: <a href="https://tubcloud.tu-berlin.de/s/3kZogSif4o79M8T#pdfviewer" target="_blank">Agora-EO: A Unified Ecosystem for Earth Observation</a>.
+				<b>April 2021</b> - Together with the DIMA group of TU Berlin, we have developed a new vision for boosting Earth observation data literacy: <a href="https://www.user.tu-berlin.de/tzirita/publications/BDFS2021_AgoraEO_Paper_Preprint.pdf" target="_blank">Agora-EO: A Unified Ecosystem for Earth Observation</a>.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>January 2021</b> - We have enriched <a href="http://bigearth.net" target="_blank">BigEarthNet</a> with Sentinel 1 images to support research on multi-modal/cross-modal image analysis for Earth observation.
