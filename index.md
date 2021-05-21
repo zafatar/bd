@@ -19,7 +19,7 @@ guid: http://www.begumdemir.com/?page_id=1
 		E-mail: demir [at] tu-berlin.de
 		<br />
 		Tel:+49 (0) 30 3142 3771
-	    <div class="alert alert-danger" style="margin-left: 260px;" role="alert">Due to a cyberattack to TU Berlin, please use <a href="mailto:demir@bigearth.eu" class="alert-link">demir@bigearth.eu</a> to reach me.</div>
+	    <!-- <div class="alert alert-danger" style="margin-left: 260px;" role="alert">Due to a cyberattack to TU Berlin, please use <a href="mailto:demir@bigearth.eu" class="alert-link">demir@bigearth.eu</a> to reach me.</div> -->
 		</p>
 	</div>
 	<div class="col-lg-3 text-left p-0">
