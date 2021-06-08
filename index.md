@@ -38,6 +38,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>June 2021</b> - I'm one of the PIs of the recently established TU Berlin-Huawei  Wireless Joint Innovation Center. We will investigate the use of EO data in the framework of wireless communication.
+			</li>
+			<li class="list-group-item text-justify">
 				<b>May 2021</b> - I will give an invited talk to the Copernicus <a href="https://www.copernicus.eu/en/opportunities/public-authorities/copernicus-relays" target="_blank">Relays</a> and <a href="https://www.copernicus.eu/en/opportunities/education/copernicus-academy" target="_blank">Academy</a> Networks on "Copernicus and Artificial Intelligence: State-of-the-Art Technology and Scientific Research".
 			</li>
 			<li class="list-group-item text-justify">
