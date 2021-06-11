@@ -21,6 +21,8 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
+	<p>[<span class='intJournal'></span>] G. Sumbul, A. d. Wall, T. Kreuziger, F. Marcelino, H. Costa, P. Benevides, M. Caetano, <span class="demir">B. Demir</span>, V. Markl, "BigEarthNet-MM: A Large Scale Multi-Modal Multi-Label Benchmark Archive for Remote Sensing Image Classification and Retrieval", IEEE Geoscience and Remote Sensing Magazine, accepted for publication, 2021.</p>
+
 	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2021.</p>
 
 	<p>[<span class='intJournal'></span>] A. P. Byju, G. Sumbul, <span class="demir">B. Demir</span>, L. Bruzzone, "Remote Sensing Image Scene Classification with Deep Neural Networks in JPEG 2000 Compressed Domain", IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 4, pp. 3458-3472, 2021.</p>
