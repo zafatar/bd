@@ -38,6 +38,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>July 2021</b> - I will be the  keynote speaker at the <a href="https://sites.google.com/view/maclean21/keynotes" target="_blank">MACLEAN workshop @ECML-PKDD 2021</a>.
+			</li>
+			<li class="list-group-item text-justify">
 				<b>June 2021</b> - I'm one of the PIs of the recently established TU Berlin-Huawei  Wireless Joint Innovation Center. We will investigate the use of EO data in the framework of wireless communication.
 			</li>
 			<li class="list-group-item text-justify">
