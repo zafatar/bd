@@ -21,13 +21,13 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intJournal'></span>] T. Kreuziger,  M. Ravanbakhsh, <span class="demir">B. Demir</span>, A Novel Triplet Sampling Method for Multi-Label Remote Sensing Image Search and Retrieval, IEEE Transactions on Geoscience and Remote Sensing, in review, 2021.</p>
+	<p>[<span class='intJournal'></span>] T. Kreuziger,  M. Ravanbakhsh, <span class="demir">B. Demir</span>, "A Novel Triplet Sampling Method for Multi-Label Remote Sensing Image Search and Retrieval", IEEE Transactions on Geoscience and Remote Sensing, in review, 2021.</p>
 
-	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, ‘Plasticity-Stability Preserving Multi-Task Learning for Remote Sensing Image Retrieval’, IEEE Transactions on Geoscience and Remote Sensing, in review, 2021.</p>
+	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "Plasticity-Stability Preserving Multi-Task Learning for Remote Sensing Image Retrieval", IEEE Transactions on Geoscience and Remote Sensing, in review, 2021.</p>
 
-	<p>[<span class='intJournal'></span>] J. L. Holgado Alvarez, M. Ravanbakhsh, <span class="demir">B. Demir</span>, ‘A Self-Supervised Conditional Generative Adversarial Network for Binary Change Detection in Remote Sensing Images’,  IEEE Access, in review, 2021.</p>
+	<p>[<span class='intJournal'></span>] J. L. Holgado Alvarez, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "A Self-Supervised Conditional Generative Adversarial Network for Binary Change Detection in Remote Sensing Images", IEEE Access, in review, 2021.</p>
 
-	<p>[<span class='intJournal'></span>] A. K. Aksoy, M. Ravanbakhsh, <span class="demir">B. Demir</span>, ‘CCML: A Novel Collaborative Learning Model for Classification of Remote Sensing Images with Noisy Multi-Labels’ IEEE Transactions on Neural Networks and Learning Systems, in review, 2021.</p>
+	<p>[<span class='intJournal'></span>] A. K. Aksoy, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "CCML: A Novel Collaborative Learning Model for Classification of Remote Sensing Images with Noisy Multi-Labels", IEEE Transactions on Neural Networks and Learning Systems, in review, 2021.</p>
 
 	<p>[<span class='intJournal'></span>] G. Sumbul, A. d. Wall, T. Kreuziger, F. Marcelino, H. Costa, P. Benevides, M. Caetano, <span class="demir">B. Demir</span>, V. Markl, "BigEarthNet-MM: A Large Scale Multi-Modal Multi-Label Benchmark Archive for Remote Sensing Image Classification and Retrieval", IEEE Geoscience and Remote Sensing Magazine, accepted for publication, 2021.</p>
 
