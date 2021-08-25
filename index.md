@@ -38,6 +38,9 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+				<b>August 2021</b> - Our Agora-EO vision has been mentioned in the <a href="{{base}}/assets/docs/news/Tagesspiegel_Beilage_Juli2021_Klimaforschung.pdf" target="_blank">Tagesspiegel supplement on Climate Research</a>.
+			</li>
+			<li class="list-group-item text-justify">
 				<b>July 2021</b> - I will be the  keynote speaker at the <a href="https://sites.google.com/view/maclean21/keynotes" target="_blank">MACLEAN workshop @ECML-PKDD 2021</a>.
 			</li>
 			<li class="list-group-item text-justify">
