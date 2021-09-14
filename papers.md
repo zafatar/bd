@@ -21,7 +21,7 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intJournal'></span>] T. Kreuziger,  M. Ravanbakhsh, <span class="demir">B. Demir</span>, "A Novel Triplet Sampling Method for Multi-Label Remote Sensing Image Search and Retrieval", IEEE Transactions on Geoscience and Remote Sensing, in review, 2021.</p>
+	<p>[<span class='intJournal'></span>] G. Sumbul,  M. Ravanbakhsh, <span class="demir">B. Demir</span>, "A Novel Triplet Sampling Method for Multi-Label Remote Sensing Image Search and Retrieval", IEEE Transactions on Geoscience and Remote Sensing, in review, 2021.</p>
 
 	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "Plasticity-Stability Preserving Multi-Task Learning for Remote Sensing Image Retrieval", IEEE Transactions on Geoscience and Remote Sensing, in review, 2021.</p>
 
