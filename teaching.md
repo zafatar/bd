@@ -11,10 +11,10 @@ guid: http://www.begumdemir.com/?page_id=74
   <div class="row m-0">
     <div class="col-lg-8 p-0 text-left">
       <span class="list-group-item list-group-item-action">
-        <a title="Image Processing for Remote Sensing" href="https://www.rsim.tu-berlin.de/menue/teaching/" target="_blank">Image Processing for Remote Sensing</a>, TU Berlin, Faculty of Electrical Engineering and Computer Science, Summer Term 2019, 2020.
+        <a title="Image Processing for Remote Sensing" href="https://rsim.berlin/teaching" target="_blank">Image Processing for Remote Sensing</a>, TU Berlin, Faculty of Electrical Engineering and Computer Science, Summer Term 2019, 2020.
       </span>
       <span class="list-group-item list-group-item-action">
-        <a title="Machine Learning for Remote Sensing Data Analysis" href="https://www.rsim.tu-berlin.de/menue/teaching/" target="_blank">Machine Learning for Remote Sensing Data Analysis</a>, TU Berlin, Faculty of Electrical Engineering and Computer Science, Winter Term 2018/19, 2019/20.
+        <a title="Machine Learning for Remote Sensing Data Analysis" href="https://rsim.berlin/teaching" target="_blank">Machine Learning for Remote Sensing Data Analysis</a>, TU Berlin, Faculty of Electrical Engineering and Computer Science, Winter Term 2018/19, 2019/20.
       </span>
       <span class="list-group-item list-group-item-action">
         <a title="Digital Signal Processing" href="https://rslab-tech.disi.unitn.it/moodle/course/view.php?id=17" target="_blank">Digital Signal Processing</a>, Main Lecturer from 2013 to 2018 at the Department of Information Engineering and Computer Science, University of Trento, Italy.
@@ -30,7 +30,7 @@ guid: http://www.begumdemir.com/?page_id=74
     <div class="col-lg-4 text-left">
       <img class="rounded img-pointer" id="dspImg" src="./assets/images/dsp_1.jpg" style="margin-right: 10px" align="left" width="300px" >
     </div>
-  </div>  
+  </div>
 </div>
 
 <!-- Modal -->
@@ -60,7 +60,7 @@ img.onclick = function(){
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() { 
+span.onclick = function() {
     modal.style.display = "none";
 }
 
@@ -143,5 +143,5 @@ modal.addEventListener('click',function(){
     .modal-content {
         width: 100%;
     }
-}  
+}
 </style>

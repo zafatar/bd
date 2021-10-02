@@ -11,7 +11,7 @@ guid: http://www.begumdemir.com/?page_id=1
 		<img class="profile rounded" src="./assets/images/begum_demir_2.jpg">
 		<p style="line-height: 200%;">
 		<b>Begüm Demir</b> <br />
-		Professor and Head of the <a href="https://www.rsim.tu-berlin.de" target="_blank">Remote Sensing Image Analysis (RSiM) Group</a> <br />
+		Professor and Head of the <a href="https://rsim.berlin" target="_blank">Remote Sensing Image Analysis (RSiM) Group</a> <br />
 		Technische Universität Berlin<br />
 		Faculty of Electrical Engineering and Computer Science<br />
 		EN 627, Einsteinufer 17, 10587, Berlin, Germany
@@ -25,7 +25,7 @@ guid: http://www.begumdemir.com/?page_id=1
 	<div class="col-lg-3 text-left p-0">
 		<div class="text-right pb-3">
 			<a class="nav-link active p-0 pb-3" href="http://www.tu-berlin.de" target="_blank"><img src="assets/images/logos/TU_Berlin.png" width="40%" /></a>
-			<a class="nav-link active p-0 pb-3" href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank"><img src="assets/images/logos/RSiM.png" width="40%" /></a>
+			<a class="nav-link active p-0 pb-3" href="https://rsim.berlin/" target="_blank"><img src="assets/images/logos/RSiM.png" width="40%" /></a>
 	        <a class="nav-link active p-0 pb-3" href="http://www.bigearth.eu" target="_blank"><img src="assets/images/logos/BigEarth.png" width="70%" /></a>
 	        <a class="nav-link active p-0 pb-3" href="https://erc.europa.eu/" target="_blank"><img src="assets/images/logos/ERC.png" width="30%" /></a>
 		</div>
@@ -66,7 +66,7 @@ guid: http://www.begumdemir.com/?page_id=1
 				<b>October 2020</b> - I will be an Invited Speaker at the <a href="https://www.ecmwf.int/en/learning/workshops/ecmwf-esa-workshop-machine-learning-earth-system-observation-and-prediction" target="_blank">ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction</a>.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>September 2020</b> - The codes developed and maintained at <a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a> are publicly available <a href="https://www.rsim.tu-berlin.de/menue/software/" target="_blank">here</a>.
+				<b>September 2020</b> - The codes developed and maintained at <a href="https://rsim.berlin/" target="_blank">RSiM</a> are publicly available <a href="https://rsim.berlin/software" target="_blank">here</a>.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>August 2020</b> - I am one of the lecturers of the summer school on "Machine Learning in Geosciences" organized by <a href="https://www.gfz-potsdam.de/startseite/" target="_blank">GFZ Potsdam</a>. The topic of the lecture is "Introduction to machine learning in geosciences - background and perspectives".
@@ -84,7 +84,7 @@ guid: http://www.begumdemir.com/?page_id=1
 				<b>January 2020</b> - We made public an alternative class-nomenclature to allow DL models for better describing the complex information content of Sentinel-2 images in BigEarthNet! For details, please visit this <a href="https://git.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">link</a>.
 			</li>
 			<li class="list-group-item text-justify">
-				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://www.rsim.tu-berlin.de/menue/open_positions/" target="_blank">link</a>.
+				<b>December 2019</b> - We have open PhD positions in Deep Learning for Satellite Image Analysis! For details, please visit this <a href="https://rsim.berlin/open_positions" target="_blank">link</a>.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>September 2019</b> - I will be a Keynote Speaker at: 1) <a href="https://phiweek.esa.int" target="_blank">the Φ-week</a> organized by the European Space Agency (ESA) in Frascati, Italy; and 2) the <a href="http://www.gi4dm2019.org" target="_blank">Conference on GeoInformation for Disaster Management</a> in Prague, Czech Republic. Both talks will be on " Machine Learning for Information Discovery from Big Earth Observation Data Archives".
@@ -143,7 +143,7 @@ guid: http://www.begumdemir.com/?page_id=1
         <a class="nav-link active p-1" href="http://www.bigearth.eu" target="_blank"><img src="assets/images/logos/BigEarth.png" width="70%" /></a>
     </div>
     <div class="text-center pb-3">
-    	<a class="nav-link active p-1" href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank"><img src="assets/images/logos/RSiM.png" width="50%" /></a>
+    	<a class="nav-link active p-1" href="https://rsim.berlin/" target="_blank"><img src="assets/images/logos/RSiM.png" width="50%" /></a>
     </div>
     <div class="text-center pb-3">
     	<a class="nav-link active p-1" href="https://www.tu-berlin.de" target="_blank"><img src="assets/images/logos/TU-Berlin.svg" width="50%" /></a>
