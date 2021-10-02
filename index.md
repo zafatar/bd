@@ -19,7 +19,6 @@ guid: http://www.begumdemir.com/?page_id=1
 		E-mail: demir [at] tu-berlin.de
 		<br />
 		Tel:+49 (0) 30 3142 3771
-	    <div class="alert alert-danger" style="margin-left: 260px;" role="alert">Due to <a href="https://www.tu.berlin/en/themen/restricted-it-services/" class="alert-link">the restrictions to IT Services at TU Berlin</a>, we are not able to update our group webpage. Please follow <a href="http://www.begumdemir.com" class="alert-link">my personal page</a> and <a href="http://bigearth.eu" class="alert-link">BigEarth project page</a> for the recent news.</div>
 		</p>
 	</div>
 	<div class="col-lg-3 text-left p-0">
