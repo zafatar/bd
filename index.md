@@ -37,7 +37,7 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
-				<b>October 2021</b> - I gave a talk at ESA's PhiWeek at the key session '#AI4EO Learning from Earth Observation Data to Understand Our Planet'. Details are at <a href="https://incubed.phi.esa.int/%cf%86-week-2021-artificial-intelligence-and-quantum-computing/" target="_blank">https://incubed.phi.esa.int/%cf%86-week-2021-artificial-intelligence-and-quantum-computing/</a>.
+				<b>October 2021</b> - I gave a talk at ESA Φ-Week at the key session 'AI4EO Learning from Earth Observation Data to Understand Our Planet'. Details are at <a href="https://incubed.phi.esa.int/%cf%86-week-2021-artificial-intelligence-and-quantum-computing/" target="_blank">https://incubed.phi.esa.int/%cf%86-week-2021-artificial-intelligence-and-quantum-computing/</a>.
 			</li>
 			<li class="list-group-item text-justify">
 				<b>September 2021</b> - Since TU Berlin was the target of an IT attack, we have not been able to update our group webpage. To timely inform our students and colleagues for our research outputs and courses, we have a new webpage now. From now on, please follow us at <a href="https://rsim.berlin" target="_blank">rsim.berlin</a>.
