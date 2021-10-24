@@ -21,15 +21,17 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Journals</h3>
 
 <div class="container text-justify p-0">
-	<p>[<span class='intJournal'></span>] G. Sumbul,  M. Ravanbakhsh, <span class="demir">B. Demir</span>, "A Novel Triplet Sampling Method for Multi-Label Remote Sensing Image Search and Retrieval", IEEE Transactions on Geoscience and Remote Sensing, in review, 2021.</p>
+	<p>[<span class='intJournal'></span>] G. Sumbul,  M. Ravanbakhsh, <span class="demir">B. Demir</span>, "Informative and Representative Triplet Selection for Multi-Label Remote Sensing Image Retrieval", IEEE Transactions on Geoscience and Remote Sensing, in press, 2021.</p>
 
+	<!--
 	<p>[<span class='intJournal'></span>] G. Sumbul, <span class="demir">B. Demir</span>, "Plasticity-Stability Preserving Multi-Task Learning for Remote Sensing Image Retrieval", IEEE Transactions on Geoscience and Remote Sensing, in review, 2021.</p>
 
 	<p>[<span class='intJournal'></span>] J. L. Holgado Alvarez, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "A Self-Supervised Conditional Generative Adversarial Network for Binary Change Detection in Remote Sensing Images", IEEE Access, in review, 2021.</p>
 
 	<p>[<span class='intJournal'></span>] A. K. Aksoy, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "CCML: A Novel Collaborative Learning Model for Classification of Remote Sensing Images with Noisy Multi-Labels", IEEE Transactions on Neural Networks and Learning Systems, in review, 2021.</p>
+	-->
 
-	<p>[<span class='intJournal'></span>] G. Sumbul, A. d. Wall, T. Kreuziger, F. Marcelino, H. Costa, P. Benevides, M. Caetano, <span class="demir">B. Demir</span>, V. Markl, "BigEarthNet-MM: A Large Scale Multi-Modal Multi-Label Benchmark Archive for Remote Sensing Image Classification and Retrieval", IEEE Geoscience and Remote Sensing Magazine, accepted for publication, 2021.</p>
+	<p>[<span class='intJournal'></span>] G. Sumbul, A. d. Wall, T. Kreuziger, F. Marcelino, H. Costa, P. Benevides, M. Caetano, <span class="demir">B. Demir</span>, V. Markl, "BigEarthNet-MM: A Large Scale Multi-Modal Multi-Label Benchmark Archive for Remote Sensing Image Classification and Retrieval", IEEE Geoscience and Remote Sensing Magazine, vol. 9, no. 3, pp. 174-180, Sept. 2021.</p>
 
 	<p>[<span class='intJournal'></span>] G. Sumbul. S. Nayak, <span class="demir">B. Demir</span>, "SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning", IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 8, 2021.</p>
 
