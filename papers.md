@@ -110,6 +110,8 @@ guid: http://www.begumdemir.com/papers.html
 <h3>International Conferences</h3>
 
 <div class="container text-justify p-0">
+	<p>[<span class='intConf'></span>] G. Mikriukov, M. Ravanbakhsh, <span class="demir">B. Demir</span>, "Unsupervised Contrastive Hashing for Cross-Modal Retrieval in Remote Sensing", International Conference on Acoustics, Speech, & Signal Processing (ICASSP), Singapore, 2022.</p>
+
 	<p>[<span class='intConf'></span>] A. K. Aksoy, M. Ravanbakhsh, T. Kreuziger, <span class="demir">B. Demir</span>, "A Consensual Collaborative Learning Method for Remote Sensing Image Classification Under Noisy Multi-Labels", IEEE International Conference on Image Processing, Alaska, USA, Sep. 2021.</p>
 
 	<p>[<span class='intConf'></span>] S. Lobry, <span class="demir">B. Demir</span>, D. Tuia, "RSVQA Meets BigearthNet: A New, Large-Scale, Visual Question Answering Dataset For Remote Sensing", IEEE International Geoscience and Remote Sensing Symposium, Brussels, Belgium, 2021.</p>
