@@ -6,6 +6,11 @@ author: admin
 layout: page
 guid: http://www.begumdemir.com/papers.html
 ---
+
+<div class="col-lg-12 text-left sticky-top alert-warning p-3 m-2">
+Due to my busy schedule, this page will not be updated anymore. Please check <a href="https://rsim.berlin/publications" target="_blank">our group web page (rsim.berlin)</a> for the publications from now on.
+</div>
+
 <div class="col-lg-12 text-left">
 <span></span>
 <h3>Book Chapters</h3>

@@ -37,6 +37,11 @@ guid: http://www.begumdemir.com/?page_id=1
 		<!-- List Group -->
 		<ul class="list-group list-group-flush" style="font-size: 14px">
 			<li class="list-group-item text-justify">
+			<div class="alert-warning p-2">
+			<b>May 2022</b> - Due to my busy schedule, this page will not be updated anymore. Please check <a href="https://rsim.berlin" class="alert-link" target="_blank">our group web page (rsim.berlin)</a> for the news from now on.
+			</div>
+			</li>
+			<li class="list-group-item text-justify">
 			<b>November 2021</b> - I was one of the speakers at "<a href="https://berlinscienceweek.com/event/the-transformative-effect-of-science-a-joint-event-of-the-berlin-university-alliance-and-the-european-research-council/" target="_blank">The Transformative Effect of Science - A Joint Event of the Berlin University Alliance and the European Research Council</a>", organized in the "<a href="https://berlinscienceweek.com/" target="_blank">Berlin Science Week</a>".
 			</li>
 			<li class="list-group-item text-justify">
